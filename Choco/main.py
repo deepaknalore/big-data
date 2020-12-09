@@ -1,9 +1,9 @@
 import matplotlib.pyplot as plt
 
-# FILE = 'decen_cen.txt'
+# FILE = 'Choco/decen_cen.txt'
 # FILTER = ['decentralized-exact:', 'centralized:']
 
-FILE = 'algo_comp.txt'
+FILE = 'Choco/algo_comp.txt'
 FILTER = ['EAMSGD-sync:', 'EAMSGD-async:', 'SGP:', 'AD-PSGD:']
 
 
@@ -20,8 +20,8 @@ def extract_from_file():
                 line = line.split(',')
                 info = [l.split(" = ")[1] for l in line]
                 info[4] = 1 - float(info[4])
-                info[5] = info[7].split(' ')[0]
-                info[6] = info[8].split(' ')[0]
+                info[5] = info[5].split(' ')[0]
+                info[6] = info[6].split(' ')[0]
                 data[filter].append(info)
     return data
 
@@ -64,8 +64,8 @@ def plot_average_graph(data, x, y, xlabel, ylabel):
 if __name__ == '__main__':
     data = extract_from_file()
     #De-centralized
-    plot_graph(data, 5, 3, "Training Time", "Training Loss")
-    plot_graph(data, 5, 4, "Training Time", "Training Error")
+    plot_graph(data, 5, 3, "Training Time(s)", "Training Loss")
+    plot_graph(data, 5, 4, "Training Time(s)", "Training Error")
     plot_average_graph(data, 1, 3, "Epoch", "Training Loss")
     plot_average_graph(data, 1, 4, "Epoch", "Training Error")
     plot_graph(data, 6, 3, "MiB Transmitted", "Training Loss")
