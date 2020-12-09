@@ -1,0 +1,780 @@
+Namespace(experiment='final')
+load dataset
+start experiment
+length of indices: 40
+length of last machine indices: 10000
+Number of different labels: 2
+decentralized-exact: t = 0, epoch = 0, iter = 0, loss = 0.6932710708715575, accuracy = 0.4911925, elapsed = 0.31806087493896484 s, transmitted = 0.0 MiB
+decentralized-exact: t = 1000, epoch = 0, iter = 1000, loss = 0.3498685050345219, accuracy = 0.86649, elapsed = 5.627251148223877 s, transmitted = 0.96 MiB
+decentralized-exact: t = 2000, epoch = 0, iter = 2000, loss = 0.34191399855901605, accuracy = 0.851545, elapsed = 10.868228435516357 s, transmitted = 1.92 MiB
+decentralized-exact: t = 3000, epoch = 0, iter = 3000, loss = 0.3147738591354034, accuracy = 0.881895, elapsed = 16.099191188812256 s, transmitted = 2.88 MiB
+decentralized-exact: t = 4000, epoch = 0, iter = 4000, loss = 0.3068082272737682, accuracy = 0.88824, elapsed = 21.375972509384155 s, transmitted = 3.84 MiB
+decentralized-exact: t = 5000, epoch = 0, iter = 5000, loss = 0.303623451136463, accuracy = 0.889135, elapsed = 26.624723196029663 s, transmitted = 4.8 MiB
+decentralized-exact: t = 6000, epoch = 0, iter = 6000, loss = 0.3011101103771767, accuracy = 0.8903, elapsed = 31.85328435897827 s, transmitted = 5.76 MiB
+decentralized-exact: t = 7000, epoch = 0, iter = 7000, loss = 0.3000678816129, accuracy = 0.89019, elapsed = 37.0877628326416 s, transmitted = 6.72 MiB
+decentralized-exact: t = 8000, epoch = 0, iter = 8000, loss = 0.29786503333241016, accuracy = 0.89176, elapsed = 42.283488273620605 s, transmitted = 7.68 MiB
+decentralized-exact: t = 9000, epoch = 0, iter = 9000, loss = 0.29690377870952994, accuracy = 0.89205, elapsed = 47.47797131538391 s, transmitted = 8.64 MiB
+epoch 0: loss 0.2960405045449458 score 0.8924075
+decentralized-exact: t = 10000, epoch = 1, iter = 0, loss = 0.2960405045449458, accuracy = 0.8924075, elapsed = 53.05218458175659 s, transmitted = 9.6 MiB
+decentralized-exact: t = 11000, epoch = 1, iter = 1000, loss = 0.29542530167740627, accuracy = 0.8924075, elapsed = 58.294989824295044 s, transmitted = 10.56 MiB
+decentralized-exact: t = 12000, epoch = 1, iter = 2000, loss = 0.2948861862036684, accuracy = 0.892825, elapsed = 63.55469846725464 s, transmitted = 11.52 MiB
+decentralized-exact: t = 13000, epoch = 1, iter = 3000, loss = 0.2943230084522307, accuracy = 0.89315, elapsed = 68.83059072494507 s, transmitted = 12.48 MiB
+decentralized-exact: t = 14000, epoch = 1, iter = 4000, loss = 0.2937581022825393, accuracy = 0.8935875, elapsed = 74.11920237541199 s, transmitted = 13.44 MiB
+decentralized-exact: t = 15000, epoch = 1, iter = 5000, loss = 0.293296886867523, accuracy = 0.8937175, elapsed = 79.40903568267822 s, transmitted = 14.4 MiB
+decentralized-exact: t = 16000, epoch = 1, iter = 6000, loss = 0.29312694504944115, accuracy = 0.89374, elapsed = 84.69108939170837 s, transmitted = 15.36 MiB
+decentralized-exact: t = 17000, epoch = 1, iter = 7000, loss = 0.29262300314120226, accuracy = 0.8941575, elapsed = 89.97732090950012 s, transmitted = 16.32 MiB
+decentralized-exact: t = 18000, epoch = 1, iter = 8000, loss = 0.29250631529349197, accuracy = 0.893885, elapsed = 95.25729012489319 s, transmitted = 17.28 MiB
+decentralized-exact: t = 19000, epoch = 1, iter = 9000, loss = 0.2924812231441006, accuracy = 0.893675, elapsed = 100.52767658233643 s, transmitted = 18.24 MiB
+epoch 1: loss 0.2916078393296455 score 0.894615
+decentralized-exact: t = 20000, epoch = 2, iter = 0, loss = 0.2916078393296455, accuracy = 0.894615, elapsed = 106.09986448287964 s, transmitted = 19.2 MiB
+decentralized-exact: t = 21000, epoch = 2, iter = 1000, loss = 0.29145713655121624, accuracy = 0.8946775, elapsed = 111.38838791847229 s, transmitted = 20.16 MiB
+decentralized-exact: t = 22000, epoch = 2, iter = 2000, loss = 0.2915376657820457, accuracy = 0.8945175, elapsed = 116.63984632492065 s, transmitted = 21.12 MiB
+decentralized-exact: t = 23000, epoch = 2, iter = 3000, loss = 0.2911821487754002, accuracy = 0.894535, elapsed = 121.89504265785217 s, transmitted = 22.08 MiB
+decentralized-exact: t = 24000, epoch = 2, iter = 4000, loss = 0.29085776936914165, accuracy = 0.8949, elapsed = 127.1405725479126 s, transmitted = 23.04 MiB
+decentralized-exact: t = 25000, epoch = 2, iter = 5000, loss = 0.29071853000334974, accuracy = 0.895025, elapsed = 132.3978066444397 s, transmitted = 24.0 MiB
+decentralized-exact: t = 26000, epoch = 2, iter = 6000, loss = 0.29079692712295335, accuracy = 0.8948075, elapsed = 137.64401817321777 s, transmitted = 24.96 MiB
+decentralized-exact: t = 27000, epoch = 2, iter = 7000, loss = 0.2904001328974657, accuracy = 0.895205, elapsed = 142.92094445228577 s, transmitted = 25.92 MiB
+decentralized-exact: t = 28000, epoch = 2, iter = 8000, loss = 0.2903206769454182, accuracy = 0.8953075, elapsed = 148.1850447654724 s, transmitted = 26.88 MiB
+decentralized-exact: t = 29000, epoch = 2, iter = 9000, loss = 0.2905133742162648, accuracy = 0.8947675, elapsed = 153.43779802322388 s, transmitted = 27.84 MiB
+epoch 2: loss 0.2903795228633059 score 0.8950775
+decentralized-exact: t = 30000, epoch = 3, iter = 0, loss = 0.2903795228633059, accuracy = 0.8950775, elapsed = 158.97964787483215 s, transmitted = 28.8 MiB
+decentralized-exact: t = 31000, epoch = 3, iter = 1000, loss = 0.290137850648561, accuracy = 0.8952025, elapsed = 164.2497434616089 s, transmitted = 29.76 MiB
+decentralized-exact: t = 32000, epoch = 3, iter = 2000, loss = 0.29063132125409336, accuracy = 0.89426, elapsed = 169.50760340690613 s, transmitted = 30.72 MiB
+decentralized-exact: t = 33000, epoch = 3, iter = 3000, loss = 0.2897002777840655, accuracy = 0.89568, elapsed = 174.77853870391846 s, transmitted = 31.68 MiB
+decentralized-exact: t = 34000, epoch = 3, iter = 4000, loss = 0.2896368189490586, accuracy = 0.8956475, elapsed = 180.06210851669312 s, transmitted = 32.64 MiB
+decentralized-exact: t = 35000, epoch = 3, iter = 5000, loss = 0.2897100357186757, accuracy = 0.89538, elapsed = 185.33742761611938 s, transmitted = 33.6 MiB
+decentralized-exact: t = 36000, epoch = 3, iter = 6000, loss = 0.2894272638455407, accuracy = 0.89577, elapsed = 190.57492804527283 s, transmitted = 34.56 MiB
+decentralized-exact: t = 37000, epoch = 3, iter = 7000, loss = 0.28963723963322147, accuracy = 0.8952475, elapsed = 195.84740042686462 s, transmitted = 35.52 MiB
+decentralized-exact: t = 38000, epoch = 3, iter = 8000, loss = 0.28930407596360086, accuracy = 0.8958, elapsed = 201.09854698181152 s, transmitted = 36.48 MiB
+decentralized-exact: t = 39000, epoch = 3, iter = 9000, loss = 0.2898207469200731, accuracy = 0.8948525, elapsed = 206.37190794944763 s, transmitted = 37.44 MiB
+epoch 3: loss 0.28937333599694437 score 0.895565
+decentralized-exact: t = 40000, epoch = 4, iter = 0, loss = 0.28937333599694437, accuracy = 0.895565, elapsed = 211.95621466636658 s, transmitted = 38.4 MiB
+decentralized-exact: t = 41000, epoch = 4, iter = 1000, loss = 0.28944564278434226, accuracy = 0.895285, elapsed = 217.2154417037964 s, transmitted = 39.36 MiB
+decentralized-exact: t = 42000, epoch = 4, iter = 2000, loss = 0.28905933295134706, accuracy = 0.8958875, elapsed = 222.46020007133484 s, transmitted = 40.32 MiB
+decentralized-exact: t = 43000, epoch = 4, iter = 3000, loss = 0.289018129112032, accuracy = 0.895855, elapsed = 227.69855904579163 s, transmitted = 41.28 MiB
+decentralized-exact: t = 44000, epoch = 4, iter = 4000, loss = 0.2888933020116077, accuracy = 0.8959225, elapsed = 232.94485592842102 s, transmitted = 42.24 MiB
+decentralized-exact: t = 45000, epoch = 4, iter = 5000, loss = 0.28875898384886456, accuracy = 0.8960875, elapsed = 238.18490934371948 s, transmitted = 43.2 MiB
+decentralized-exact: t = 46000, epoch = 4, iter = 6000, loss = 0.288888669511373, accuracy = 0.89586, elapsed = 243.43981885910034 s, transmitted = 44.16 MiB
+decentralized-exact: t = 47000, epoch = 4, iter = 7000, loss = 0.28954776812637817, accuracy = 0.8950225, elapsed = 248.68131470680237 s, transmitted = 45.12 MiB
+decentralized-exact: t = 48000, epoch = 4, iter = 8000, loss = 0.28866219802077314, accuracy = 0.896295, elapsed = 253.92748641967773 s, transmitted = 46.08 MiB
+decentralized-exact: t = 49000, epoch = 4, iter = 9000, loss = 0.288657051225708, accuracy = 0.89621, elapsed = 259.16738510131836 s, transmitted = 47.04 MiB
+epoch 4: loss 0.2885803847511659 score 0.89606
+decentralized-exact: t = 50000, epoch = 5, iter = 0, loss = 0.2885803847511659, accuracy = 0.89606, elapsed = 264.6942811012268 s, transmitted = 48.0 MiB
+decentralized-exact: t = 51000, epoch = 5, iter = 1000, loss = 0.28844087580018907, accuracy = 0.8962125, elapsed = 269.9551546573639 s, transmitted = 48.96 MiB
+decentralized-exact: t = 52000, epoch = 5, iter = 2000, loss = 0.28876008387387664, accuracy = 0.8956675, elapsed = 275.2158136367798 s, transmitted = 49.92 MiB
+decentralized-exact: t = 53000, epoch = 5, iter = 3000, loss = 0.2884587229813489, accuracy = 0.896195, elapsed = 280.475239276886 s, transmitted = 50.88 MiB
+decentralized-exact: t = 54000, epoch = 5, iter = 4000, loss = 0.28837644991342115, accuracy = 0.896305, elapsed = 285.7267243862152 s, transmitted = 51.84 MiB
+decentralized-exact: t = 55000, epoch = 5, iter = 5000, loss = 0.2882978831645771, accuracy = 0.8962825, elapsed = 290.9839127063751 s, transmitted = 52.8 MiB
+decentralized-exact: t = 56000, epoch = 5, iter = 6000, loss = 0.28828301465596695, accuracy = 0.89636, elapsed = 296.25349140167236 s, transmitted = 53.76 MiB
+decentralized-exact: t = 57000, epoch = 5, iter = 7000, loss = 0.2882283286601979, accuracy = 0.8963125, elapsed = 301.51959109306335 s, transmitted = 54.72 MiB
+decentralized-exact: t = 58000, epoch = 5, iter = 8000, loss = 0.28884954200211044, accuracy = 0.8954075, elapsed = 306.78738951683044 s, transmitted = 55.68 MiB
+decentralized-exact: t = 59000, epoch = 5, iter = 9000, loss = 0.28815496715551425, accuracy = 0.89635, elapsed = 312.0516359806061 s, transmitted = 56.64 MiB
+epoch 5: loss 0.28805040022689066 score 0.8963325
+decentralized-exact: t = 60000, epoch = 6, iter = 0, loss = 0.28805040022689066, accuracy = 0.8963325, elapsed = 317.59365582466125 s, transmitted = 57.6 MiB
+decentralized-exact: t = 61000, epoch = 6, iter = 1000, loss = 0.28821902837003266, accuracy = 0.896135, elapsed = 322.8722858428955 s, transmitted = 58.56 MiB
+decentralized-exact: t = 62000, epoch = 6, iter = 2000, loss = 0.2879877197519292, accuracy = 0.8964225, elapsed = 328.1426763534546 s, transmitted = 59.52 MiB
+decentralized-exact: t = 63000, epoch = 6, iter = 3000, loss = 0.28824635071725224, accuracy = 0.896065, elapsed = 333.409818649292 s, transmitted = 60.48 MiB
+decentralized-exact: t = 64000, epoch = 6, iter = 4000, loss = 0.2880256096888505, accuracy = 0.8963725, elapsed = 338.6897885799408 s, transmitted = 61.44 MiB
+decentralized-exact: t = 65000, epoch = 6, iter = 5000, loss = 0.2881078435291088, accuracy = 0.8961275, elapsed = 343.93777084350586 s, transmitted = 62.4 MiB
+decentralized-exact: t = 66000, epoch = 6, iter = 6000, loss = 0.2879422839520781, accuracy = 0.8964025, elapsed = 349.1953504085541 s, transmitted = 63.36 MiB
+decentralized-exact: t = 67000, epoch = 6, iter = 7000, loss = 0.2879473082904346, accuracy = 0.8962625, elapsed = 354.44606828689575 s, transmitted = 64.32 MiB
+decentralized-exact: t = 68000, epoch = 6, iter = 8000, loss = 0.28782557879977344, accuracy = 0.896625, elapsed = 359.6962733268738 s, transmitted = 65.28 MiB
+decentralized-exact: t = 69000, epoch = 6, iter = 9000, loss = 0.2878023781840151, accuracy = 0.8964875, elapsed = 364.94886231422424 s, transmitted = 66.24 MiB
+epoch 6: loss 0.28773226005449515 score 0.8965775
+decentralized-exact: t = 70000, epoch = 7, iter = 0, loss = 0.28773226005449515, accuracy = 0.8965775, elapsed = 370.5080819129944 s, transmitted = 67.2 MiB
+decentralized-exact: t = 71000, epoch = 7, iter = 1000, loss = 0.2876851835747853, accuracy = 0.8966625, elapsed = 375.76853585243225 s, transmitted = 68.16 MiB
+decentralized-exact: t = 72000, epoch = 7, iter = 2000, loss = 0.2876231651326801, accuracy = 0.8967, elapsed = 381.02043890953064 s, transmitted = 69.12 MiB
+decentralized-exact: t = 73000, epoch = 7, iter = 3000, loss = 0.28760346119565205, accuracy = 0.8967175, elapsed = 386.2577123641968 s, transmitted = 70.08 MiB
+decentralized-exact: t = 74000, epoch = 7, iter = 4000, loss = 0.2876822886203294, accuracy = 0.89654, elapsed = 391.4967851638794 s, transmitted = 71.04 MiB
+decentralized-exact: t = 75000, epoch = 7, iter = 5000, loss = 0.28755663903935835, accuracy = 0.8966525, elapsed = 396.7363953590393 s, transmitted = 72.0 MiB
+decentralized-exact: t = 76000, epoch = 7, iter = 6000, loss = 0.2875111763547108, accuracy = 0.89669, elapsed = 401.9679880142212 s, transmitted = 72.96 MiB
+decentralized-exact: t = 77000, epoch = 7, iter = 7000, loss = 0.287553215528092, accuracy = 0.896575, elapsed = 407.19935274124146 s, transmitted = 73.92 MiB
+decentralized-exact: t = 78000, epoch = 7, iter = 8000, loss = 0.2875787926610211, accuracy = 0.89651, elapsed = 412.44272565841675 s, transmitted = 74.88 MiB
+decentralized-exact: t = 79000, epoch = 7, iter = 9000, loss = 0.28749140844140425, accuracy = 0.8966775, elapsed = 417.6821713447571 s, transmitted = 75.84 MiB
+epoch 7: loss 0.2875480441055835 score 0.89661
+decentralized-exact: t = 80000, epoch = 8, iter = 0, loss = 0.2875480441055835, accuracy = 0.89661, elapsed = 423.20981431007385 s, transmitted = 76.8 MiB
+decentralized-exact: t = 81000, epoch = 8, iter = 1000, loss = 0.2874033560585307, accuracy = 0.896665, elapsed = 428.40082001686096 s, transmitted = 77.76 MiB
+decentralized-exact: t = 82000, epoch = 8, iter = 2000, loss = 0.287363448931658, accuracy = 0.896805, elapsed = 433.59225249290466 s, transmitted = 78.72 MiB
+decentralized-exact: t = 83000, epoch = 8, iter = 3000, loss = 0.28733563860965555, accuracy = 0.8969275, elapsed = 438.79734921455383 s, transmitted = 79.68 MiB
+decentralized-exact: t = 84000, epoch = 8, iter = 4000, loss = 0.2873460862749494, accuracy = 0.89677, elapsed = 443.98305559158325 s, transmitted = 80.64 MiB
+decentralized-exact: t = 85000, epoch = 8, iter = 5000, loss = 0.28730442378386484, accuracy = 0.89688, elapsed = 449.17427587509155 s, transmitted = 81.6 MiB
+decentralized-exact: t = 86000, epoch = 8, iter = 6000, loss = 0.2872870462045901, accuracy = 0.8968325, elapsed = 454.35906076431274 s, transmitted = 82.56 MiB
+decentralized-exact: t = 87000, epoch = 8, iter = 7000, loss = 0.28729524261895556, accuracy = 0.8968275, elapsed = 459.55183243751526 s, transmitted = 83.52 MiB
+decentralized-exact: t = 88000, epoch = 8, iter = 8000, loss = 0.2872317240020405, accuracy = 0.89692, elapsed = 464.7542054653168 s, transmitted = 84.48 MiB
+decentralized-exact: t = 89000, epoch = 8, iter = 9000, loss = 0.28722567790340403, accuracy = 0.8969275, elapsed = 469.944128036499 s, transmitted = 85.44 MiB
+epoch 8: loss 0.2871656625586487 score 0.896935
+decentralized-exact: t = 90000, epoch = 9, iter = 0, loss = 0.2871656625586487, accuracy = 0.896935, elapsed = 475.4269621372223 s, transmitted = 86.4 MiB
+decentralized-exact: t = 91000, epoch = 9, iter = 1000, loss = 0.2872007302215974, accuracy = 0.8967725, elapsed = 480.68414187431335 s, transmitted = 87.36 MiB
+decentralized-exact: t = 92000, epoch = 9, iter = 2000, loss = 0.2871278155940926, accuracy = 0.89695, elapsed = 485.94574880599976 s, transmitted = 88.32 MiB
+decentralized-exact: t = 93000, epoch = 9, iter = 3000, loss = 0.28712086447564966, accuracy = 0.896875, elapsed = 491.19121527671814 s, transmitted = 89.28 MiB
+decentralized-exact: t = 94000, epoch = 9, iter = 4000, loss = 0.2870895379564702, accuracy = 0.8969075, elapsed = 496.474577665329 s, transmitted = 90.24 MiB
+decentralized-exact: t = 95000, epoch = 9, iter = 5000, loss = 0.2871016731253289, accuracy = 0.8969275, elapsed = 501.766973733902 s, transmitted = 91.2 MiB
+decentralized-exact: t = 96000, epoch = 9, iter = 6000, loss = 0.2871426943325918, accuracy = 0.89681, elapsed = 507.04148721694946 s, transmitted = 92.16 MiB
+decentralized-exact: t = 97000, epoch = 9, iter = 7000, loss = 0.28702617129976504, accuracy = 0.897115, elapsed = 512.3566348552704 s, transmitted = 93.12 MiB
+decentralized-exact: t = 98000, epoch = 9, iter = 8000, loss = 0.2872538679579511, accuracy = 0.89657, elapsed = 517.6238050460815 s, transmitted = 94.08 MiB
+decentralized-exact: t = 99000, epoch = 9, iter = 9000, loss = 0.2869850774308604, accuracy = 0.89708, elapsed = 522.9118049144745 s, transmitted = 95.04 MiB
+epoch 9: loss 0.2870448873610449 score 0.8968875
+Training took: 528.1688678264618s
+decentralized-exact - score: 0.8968875
+(array([0.69327107, 0.2960405 , 0.29160784, 0.29037952, 0.28937334,
+       0.28858038, 0.2880504 , 0.28773226, 0.28754804, 0.28716566,
+       0.28704489]), array([0.69327107, 0.34986851, 0.341914  , 0.31477386, 0.30680823,
+       0.30362345, 0.30111011, 0.30006788, 0.29786503, 0.29690378,
+       0.2960405 , 0.2954253 , 0.29488619, 0.29432301, 0.2937581 ,
+       0.29329689, 0.29312695, 0.292623  , 0.29250632, 0.29248122,
+       0.29160784, 0.29145714, 0.29153767, 0.29118215, 0.29085777,
+       0.29071853, 0.29079693, 0.29040013, 0.29032068, 0.29051337,
+       0.29037952, 0.29013785, 0.29063132, 0.28970028, 0.28963682,
+       0.28971004, 0.28942726, 0.28963724, 0.28930408, 0.28982075,
+       0.28937334, 0.28944564, 0.28905933, 0.28901813, 0.2888933 ,
+       0.28875898, 0.28888867, 0.28954777, 0.2886622 , 0.28865705,
+       0.28858038, 0.28844088, 0.28876008, 0.28845872, 0.28837645,
+       0.28829788, 0.28828301, 0.28822833, 0.28884954, 0.28815497,
+       0.2880504 , 0.28821903, 0.28798772, 0.28824635, 0.28802561,
+       0.28810784, 0.28794228, 0.28794731, 0.28782558, 0.28780238,
+       0.28773226, 0.28768518, 0.28762317, 0.28760346, 0.28768229,
+       0.28755664, 0.28751118, 0.28755322, 0.28757879, 0.28749141,
+       0.28754804, 0.28740336, 0.28736345, 0.28733564, 0.28734609,
+       0.28730442, 0.28728705, 0.28729524, 0.28723172, 0.28722568,
+       0.28716566, 0.28720073, 0.28712782, 0.28712086, 0.28708954,
+       0.28710167, 0.28714269, 0.28702617, 0.28725387, 0.28698508,
+       0.        ]))
+results saved in "dump/epsilon-final-decentralized-ring-sorted-40/"
+load dataset
+start experiment
+length of indices: 40
+length of last machine indices: 10000
+Number of different labels: 2
+decentralized-exact: t = 0, epoch = 0, iter = 0, loss = 0.6933173361674494, accuracy = 0.4858575, elapsed = 0.8583130836486816 s, transmitted = 0.0 MiB
+decentralized-exact: t = 1000, epoch = 0, iter = 1000, loss = 0.3473915144227826, accuracy = 0.87573, elapsed = 6.741520643234253 s, transmitted = 0.00960000000000018 MiB
+decentralized-exact: t = 2000, epoch = 0, iter = 2000, loss = 0.3255770174918796, accuracy = 0.877025, elapsed = 12.621141910552979 s, transmitted = 0.019200000000000012 MiB
+decentralized-exact: t = 3000, epoch = 0, iter = 3000, loss = 0.3131028403975572, accuracy = 0.8849575, elapsed = 18.502349853515625 s, transmitted = 0.028799999999998556 MiB
+decentralized-exact: t = 4000, epoch = 0, iter = 4000, loss = 0.30675202442201693, accuracy = 0.8884925, elapsed = 24.37613272666931 s, transmitted = 0.0383999999999971 MiB
+decentralized-exact: t = 5000, epoch = 0, iter = 5000, loss = 0.3092352427573601, accuracy = 0.8808675, elapsed = 30.25354766845703 s, transmitted = 0.04799999999999565 MiB
+decentralized-exact: t = 6000, epoch = 0, iter = 6000, loss = 0.3019561640070415, accuracy = 0.88928, elapsed = 36.14244794845581 s, transmitted = 0.05759999999999419 MiB
+decentralized-exact: t = 7000, epoch = 0, iter = 7000, loss = 0.3003868568025632, accuracy = 0.8890625, elapsed = 42.03408479690552 s, transmitted = 0.067199999999994 MiB
+decentralized-exact: t = 8000, epoch = 0, iter = 8000, loss = 0.29824036587249747, accuracy = 0.8916325, elapsed = 47.95668959617615 s, transmitted = 0.07679999999999983 MiB
+decentralized-exact: t = 9000, epoch = 0, iter = 9000, loss = 0.2975566606914708, accuracy = 0.891105, elapsed = 53.72098684310913 s, transmitted = 0.08640000000000565 MiB
+epoch 0: loss 0.29637442328818503 score 0.8919425
+decentralized-exact: t = 10000, epoch = 1, iter = 0, loss = 0.29637442328818503, accuracy = 0.8919425, elapsed = 60.2134530544281 s, transmitted = 0.09600000000001147 MiB
+decentralized-exact: t = 11000, epoch = 1, iter = 1000, loss = 0.2959441537363751, accuracy = 0.8920725, elapsed = 66.10590600967407 s, transmitted = 0.10560000000001729 MiB
+decentralized-exact: t = 12000, epoch = 1, iter = 2000, loss = 0.2948150008937575, accuracy = 0.8929775, elapsed = 72.04790925979614 s, transmitted = 0.1152000000000231 MiB
+decentralized-exact: t = 13000, epoch = 1, iter = 3000, loss = 0.29433551255705215, accuracy = 0.8931825, elapsed = 77.75260066986084 s, transmitted = 0.12480000000002893 MiB
+decentralized-exact: t = 14000, epoch = 1, iter = 4000, loss = 0.2941366758454982, accuracy = 0.8931325, elapsed = 83.54347944259644 s, transmitted = 0.13440000000003474 MiB
+decentralized-exact: t = 15000, epoch = 1, iter = 5000, loss = 0.29395755301370996, accuracy = 0.8931125, elapsed = 88.93175387382507 s, transmitted = 0.14400000000004057 MiB
+decentralized-exact: t = 16000, epoch = 1, iter = 6000, loss = 0.29375696016636127, accuracy = 0.8929175, elapsed = 95.02871060371399 s, transmitted = 0.1536000000000464 MiB
+decentralized-exact: t = 17000, epoch = 1, iter = 7000, loss = 0.2927171738995011, accuracy = 0.89403, elapsed = 100.5326759815216 s, transmitted = 0.16320000000005222 MiB
+decentralized-exact: t = 18000, epoch = 1, iter = 8000, loss = 0.2924729769123761, accuracy = 0.89433, elapsed = 105.79063749313354 s, transmitted = 0.17280000000005805 MiB
+decentralized-exact: t = 19000, epoch = 1, iter = 9000, loss = 0.2925049058663515, accuracy = 0.8940875, elapsed = 111.05493021011353 s, transmitted = 0.18240000000006384 MiB
+epoch 1: loss 0.2924613291657727 score 0.89381
+decentralized-exact: t = 20000, epoch = 2, iter = 0, loss = 0.2924613291657727, accuracy = 0.89381, elapsed = 116.5791540145874 s, transmitted = 0.19200000000006967 MiB
+decentralized-exact: t = 21000, epoch = 2, iter = 1000, loss = 0.2917515294957196, accuracy = 0.8946625, elapsed = 121.85599064826965 s, transmitted = 0.2016000000000755 MiB
+decentralized-exact: t = 22000, epoch = 2, iter = 2000, loss = 0.2918973115825643, accuracy = 0.894075, elapsed = 127.17627787590027 s, transmitted = 0.21120000000008132 MiB
+decentralized-exact: t = 23000, epoch = 2, iter = 3000, loss = 0.2916683997880748, accuracy = 0.894015, elapsed = 132.55033540725708 s, transmitted = 0.22080000000008715 MiB
+decentralized-exact: t = 24000, epoch = 2, iter = 4000, loss = 0.29125587373911993, accuracy = 0.8945675, elapsed = 137.9108338356018 s, transmitted = 0.23040000000009295 MiB
+decentralized-exact: t = 25000, epoch = 2, iter = 5000, loss = 0.2908503921202737, accuracy = 0.8948925, elapsed = 143.2410876750946 s, transmitted = 0.24000000000009877 MiB
+decentralized-exact: t = 26000, epoch = 2, iter = 6000, loss = 0.29091414977025293, accuracy = 0.8945975, elapsed = 148.5443229675293 s, transmitted = 0.2496000000001046 MiB
+decentralized-exact: t = 27000, epoch = 2, iter = 7000, loss = 0.2905767915655691, accuracy = 0.8950775, elapsed = 153.86330032348633 s, transmitted = 0.2592000000001104 MiB
+decentralized-exact: t = 28000, epoch = 2, iter = 8000, loss = 0.29033080065848316, accuracy = 0.89517, elapsed = 159.16412782669067 s, transmitted = 0.268800000000096 MiB
+decentralized-exact: t = 29000, epoch = 2, iter = 9000, loss = 0.2904477343942933, accuracy = 0.894835, elapsed = 164.47198820114136 s, transmitted = 0.27840000000007276 MiB
+epoch 2: loss 0.2902006240226639 score 0.89526
+decentralized-exact: t = 30000, epoch = 3, iter = 0, loss = 0.2902006240226639, accuracy = 0.89526, elapsed = 170.06672024726868 s, transmitted = 0.2880000000000495 MiB
+decentralized-exact: t = 31000, epoch = 3, iter = 1000, loss = 0.290192307886364, accuracy = 0.89521, elapsed = 175.3929045200348 s, transmitted = 0.2976000000000262 MiB
+decentralized-exact: t = 32000, epoch = 3, iter = 2000, loss = 0.2899318664099521, accuracy = 0.8955625, elapsed = 180.74213576316833 s, transmitted = 0.3072000000000029 MiB
+decentralized-exact: t = 33000, epoch = 3, iter = 3000, loss = 0.2901070737398778, accuracy = 0.895005, elapsed = 186.04960083961487 s, transmitted = 0.31679999999997965 MiB
+decentralized-exact: t = 34000, epoch = 3, iter = 4000, loss = 0.2897118412775115, accuracy = 0.8954925, elapsed = 191.36427879333496 s, transmitted = 0.32639999999995634 MiB
+decentralized-exact: t = 35000, epoch = 3, iter = 5000, loss = 0.2895862619316262, accuracy = 0.895555, elapsed = 196.68264985084534 s, transmitted = 0.3359999999999331 MiB
+decentralized-exact: t = 36000, epoch = 3, iter = 6000, loss = 0.28965381447013044, accuracy = 0.8952975, elapsed = 201.99884581565857 s, transmitted = 0.34559999999990976 MiB
+decentralized-exact: t = 37000, epoch = 3, iter = 7000, loss = 0.2896328656346424, accuracy = 0.8954275, elapsed = 207.31623935699463 s, transmitted = 0.3551999999998865 MiB
+decentralized-exact: t = 38000, epoch = 3, iter = 8000, loss = 0.28944091912005926, accuracy = 0.895695, elapsed = 212.66566038131714 s, transmitted = 0.36479999999986323 MiB
+decentralized-exact: t = 39000, epoch = 3, iter = 9000, loss = 0.28956753399199037, accuracy = 0.8954325, elapsed = 218.06279826164246 s, transmitted = 0.3743999999998399 MiB
+epoch 3: loss 0.2892113394606423 score 0.89583
+decentralized-exact: t = 40000, epoch = 4, iter = 0, loss = 0.2892113394606423, accuracy = 0.89583, elapsed = 223.72227096557617 s, transmitted = 0.38399999999981665 MiB
+decentralized-exact: t = 41000, epoch = 4, iter = 1000, loss = 0.2891613718050469, accuracy = 0.8959125, elapsed = 229.11078143119812 s, transmitted = 0.39359999999979334 MiB
+decentralized-exact: t = 42000, epoch = 4, iter = 2000, loss = 0.28922074170359674, accuracy = 0.8955525, elapsed = 234.43805742263794 s, transmitted = 0.4031999999997701 MiB
+decentralized-exact: t = 43000, epoch = 4, iter = 3000, loss = 0.28901686299108836, accuracy = 0.89585, elapsed = 239.85964155197144 s, transmitted = 0.4127999999997468 MiB
+decentralized-exact: t = 44000, epoch = 4, iter = 4000, loss = 0.28901650762757103, accuracy = 0.8958025, elapsed = 245.23953938484192 s, transmitted = 0.4223999999997235 MiB
+decentralized-exact: t = 45000, epoch = 4, iter = 5000, loss = 0.28904300129434285, accuracy = 0.89573, elapsed = 250.59543323516846 s, transmitted = 0.43199999999970023 MiB
+decentralized-exact: t = 46000, epoch = 4, iter = 6000, loss = 0.2888694987949338, accuracy = 0.8958425, elapsed = 255.94845366477966 s, transmitted = 0.441599999999677 MiB
+decentralized-exact: t = 47000, epoch = 4, iter = 7000, loss = 0.2886771590654311, accuracy = 0.8960625, elapsed = 261.27582573890686 s, transmitted = 0.45119999999965366 MiB
+decentralized-exact: t = 48000, epoch = 4, iter = 8000, loss = 0.2886456114064674, accuracy = 0.896135, elapsed = 266.618225812912 s, transmitted = 0.4607999999996304 MiB
+decentralized-exact: t = 49000, epoch = 4, iter = 9000, loss = 0.2886255297860651, accuracy = 0.8961125, elapsed = 271.99844336509705 s, transmitted = 0.4703999999996071 MiB
+epoch 4: loss 0.2886330485793437 score 0.896055
+decentralized-exact: t = 50000, epoch = 5, iter = 0, loss = 0.2886330485793437, accuracy = 0.896055, elapsed = 277.6376736164093 s, transmitted = 0.4799999999995838 MiB
+decentralized-exact: t = 51000, epoch = 5, iter = 1000, loss = 0.28854084616528736, accuracy = 0.8960975, elapsed = 282.9867424964905 s, transmitted = 0.48959999999956055 MiB
+decentralized-exact: t = 52000, epoch = 5, iter = 2000, loss = 0.2888025347345973, accuracy = 0.89566, elapsed = 288.34058380126953 s, transmitted = 0.49919999999953724 MiB
+decentralized-exact: t = 53000, epoch = 5, iter = 3000, loss = 0.2884550162387445, accuracy = 0.8961625, elapsed = 293.678245306015 s, transmitted = 0.508799999999514 MiB
+decentralized-exact: t = 54000, epoch = 5, iter = 4000, loss = 0.28846663689831387, accuracy = 0.8961475, elapsed = 299.0071151256561 s, transmitted = 0.5183999999994907 MiB
+decentralized-exact: t = 55000, epoch = 5, iter = 5000, loss = 0.2884970181958452, accuracy = 0.8959525, elapsed = 304.3532462120056 s, transmitted = 0.5279999999994675 MiB
+decentralized-exact: t = 56000, epoch = 5, iter = 6000, loss = 0.2886030530398486, accuracy = 0.8958675, elapsed = 309.70852398872375 s, transmitted = 0.5375999999994441 MiB
+decentralized-exact: t = 57000, epoch = 5, iter = 7000, loss = 0.2882778267435459, accuracy = 0.896355, elapsed = 315.1275854110718 s, transmitted = 0.5471999999994208 MiB
+decentralized-exact: t = 58000, epoch = 5, iter = 8000, loss = 0.2882198356734814, accuracy = 0.8962975, elapsed = 320.530886888504 s, transmitted = 0.5567999999993976 MiB
+decentralized-exact: t = 59000, epoch = 5, iter = 9000, loss = 0.2882008469977284, accuracy = 0.8962625, elapsed = 325.9213283061981 s, transmitted = 0.5663999999993743 MiB
+epoch 5: loss 0.28817506593208697 score 0.8961725
+decentralized-exact: t = 60000, epoch = 6, iter = 0, loss = 0.28817506593208697, accuracy = 0.8961725, elapsed = 331.5659146308899 s, transmitted = 0.575999999999351 MiB
+decentralized-exact: t = 61000, epoch = 6, iter = 1000, loss = 0.28810498242667176, accuracy = 0.8963475, elapsed = 336.9393079280853 s, transmitted = 0.5855999999993277 MiB
+decentralized-exact: t = 62000, epoch = 6, iter = 2000, loss = 0.28807034287228916, accuracy = 0.89644, elapsed = 342.2984549999237 s, transmitted = 0.5951999999993044 MiB
+decentralized-exact: t = 63000, epoch = 6, iter = 3000, loss = 0.28811434019235777, accuracy = 0.896265, elapsed = 347.665540933609 s, transmitted = 0.6047999999992811 MiB
+decentralized-exact: t = 64000, epoch = 6, iter = 4000, loss = 0.28847234413167877, accuracy = 0.8956225, elapsed = 353.0132300853729 s, transmitted = 0.6143999999992579 MiB
+decentralized-exact: t = 65000, epoch = 6, iter = 5000, loss = 0.28819186425017074, accuracy = 0.896115, elapsed = 358.3842091560364 s, transmitted = 0.6239999999992346 MiB
+decentralized-exact: t = 66000, epoch = 6, iter = 6000, loss = 0.2881742249774974, accuracy = 0.89604, elapsed = 363.7476270198822 s, transmitted = 0.6335999999992112 MiB
+decentralized-exact: t = 67000, epoch = 6, iter = 7000, loss = 0.28809428510602475, accuracy = 0.8961875, elapsed = 369.12561202049255 s, transmitted = 0.643199999999188 MiB
+decentralized-exact: t = 68000, epoch = 6, iter = 8000, loss = 0.2878890445528622, accuracy = 0.89647, elapsed = 374.47012519836426 s, transmitted = 0.6527999999991647 MiB
+decentralized-exact: t = 69000, epoch = 6, iter = 9000, loss = 0.2877926290607417, accuracy = 0.8966075, elapsed = 379.8202929496765 s, transmitted = 0.6623999999991415 MiB
+epoch 6: loss 0.28778186824160445 score 0.8965125
+decentralized-exact: t = 70000, epoch = 7, iter = 0, loss = 0.28778186824160445, accuracy = 0.8965125, elapsed = 385.45158314704895 s, transmitted = 0.6719999999991182 MiB
+decentralized-exact: t = 71000, epoch = 7, iter = 1000, loss = 0.28783787621915446, accuracy = 0.89642, elapsed = 390.8097176551819 s, transmitted = 0.6815999999990948 MiB
+decentralized-exact: t = 72000, epoch = 7, iter = 2000, loss = 0.2877581044804876, accuracy = 0.89663, elapsed = 396.1534607410431 s, transmitted = 0.6911999999990716 MiB
+decentralized-exact: t = 73000, epoch = 7, iter = 3000, loss = 0.28787401277124164, accuracy = 0.89627, elapsed = 401.5076701641083 s, transmitted = 0.7007999999990483 MiB
+decentralized-exact: t = 74000, epoch = 7, iter = 4000, loss = 0.2877689111131112, accuracy = 0.8964325, elapsed = 406.84391689300537 s, transmitted = 0.710399999999025 MiB
+decentralized-exact: t = 75000, epoch = 7, iter = 5000, loss = 0.28771027367361796, accuracy = 0.896565, elapsed = 412.20578265190125 s, transmitted = 0.7199999999990018 MiB
+decentralized-exact: t = 76000, epoch = 7, iter = 6000, loss = 0.2878166771783139, accuracy = 0.89627, elapsed = 417.559686422348 s, transmitted = 0.7295999999989785 MiB
+decentralized-exact: t = 77000, epoch = 7, iter = 7000, loss = 0.28766526423255967, accuracy = 0.896555, elapsed = 422.92993116378784 s, transmitted = 0.7391999999989551 MiB
+decentralized-exact: t = 78000, epoch = 7, iter = 8000, loss = 0.2876367652250092, accuracy = 0.89652, elapsed = 428.27327013015747 s, transmitted = 0.7487999999989319 MiB
+decentralized-exact: t = 79000, epoch = 7, iter = 9000, loss = 0.2875523099279968, accuracy = 0.89665, elapsed = 433.6286494731903 s, transmitted = 0.7583999999989086 MiB
+epoch 7: loss 0.2875391499137428 score 0.896565
+decentralized-exact: t = 80000, epoch = 8, iter = 0, loss = 0.2875391499137428, accuracy = 0.896565, elapsed = 439.2182631492615 s, transmitted = 0.7679999999988854 MiB
+decentralized-exact: t = 81000, epoch = 8, iter = 1000, loss = 0.28751178409566186, accuracy = 0.8965825, elapsed = 444.58597803115845 s, transmitted = 0.7775999999988621 MiB
+decentralized-exact: t = 82000, epoch = 8, iter = 2000, loss = 0.28749098900859804, accuracy = 0.8967725, elapsed = 449.9008605480194 s, transmitted = 0.7871999999988387 MiB
+decentralized-exact: t = 83000, epoch = 8, iter = 3000, loss = 0.2873942633893632, accuracy = 0.8968, elapsed = 455.2459568977356 s, transmitted = 0.7967999999988155 MiB
+decentralized-exact: t = 84000, epoch = 8, iter = 4000, loss = 0.2874206755937721, accuracy = 0.8967575, elapsed = 460.56566309928894 s, transmitted = 0.8063999999987922 MiB
+decentralized-exact: t = 85000, epoch = 8, iter = 5000, loss = 0.2874419111182496, accuracy = 0.8964925, elapsed = 465.926677942276 s, transmitted = 0.8159999999987689 MiB
+decentralized-exact: t = 86000, epoch = 8, iter = 6000, loss = 0.2873516324564749, accuracy = 0.896715, elapsed = 471.26493787765503 s, transmitted = 0.8255999999987457 MiB
+decentralized-exact: t = 87000, epoch = 8, iter = 7000, loss = 0.2877852012371368, accuracy = 0.8962125, elapsed = 476.620404958725 s, transmitted = 0.8351999999987223 MiB
+decentralized-exact: t = 88000, epoch = 8, iter = 8000, loss = 0.28728075691014576, accuracy = 0.896875, elapsed = 482.0056366920471 s, transmitted = 0.844799999998699 MiB
+decentralized-exact: t = 89000, epoch = 8, iter = 9000, loss = 0.2874044310902703, accuracy = 0.89669, elapsed = 487.3817594051361 s, transmitted = 0.8543999999986758 MiB
+epoch 8: loss 0.2872844728103799 score 0.8967725
+decentralized-exact: t = 90000, epoch = 9, iter = 0, loss = 0.2872844728103799, accuracy = 0.8967725, elapsed = 492.9929459095001 s, transmitted = 0.8639999999986525 MiB
+decentralized-exact: t = 91000, epoch = 9, iter = 1000, loss = 0.28745048658971467, accuracy = 0.896545, elapsed = 498.3555257320404 s, transmitted = 0.8735999999986293 MiB
+decentralized-exact: t = 92000, epoch = 9, iter = 2000, loss = 0.2872121431218529, accuracy = 0.896825, elapsed = 503.7259290218353 s, transmitted = 0.8831999999986059 MiB
+decentralized-exact: t = 93000, epoch = 9, iter = 3000, loss = 0.28717281255979765, accuracy = 0.8968575, elapsed = 509.0767283439636 s, transmitted = 0.8927999999985826 MiB
+decentralized-exact: t = 94000, epoch = 9, iter = 4000, loss = 0.28712584771536487, accuracy = 0.896925, elapsed = 514.428872346878 s, transmitted = 0.9023999999985594 MiB
+decentralized-exact: t = 95000, epoch = 9, iter = 5000, loss = 0.28718024997547686, accuracy = 0.89674, elapsed = 519.7887289524078 s, transmitted = 0.9119999999985361 MiB
+decentralized-exact: t = 96000, epoch = 9, iter = 6000, loss = 0.2871133972248411, accuracy = 0.896765, elapsed = 525.1372497081757 s, transmitted = 0.9215999999985128 MiB
+decentralized-exact: t = 97000, epoch = 9, iter = 7000, loss = 0.2870578214909259, accuracy = 0.8969075, elapsed = 530.5087687969208 s, transmitted = 0.9311999999984895 MiB
+decentralized-exact: t = 98000, epoch = 9, iter = 8000, loss = 0.2871166381449717, accuracy = 0.89691, elapsed = 535.8429539203644 s, transmitted = 0.9407999999984662 MiB
+decentralized-exact: t = 99000, epoch = 9, iter = 9000, loss = 0.28709599417732473, accuracy = 0.8970125, elapsed = 541.1951234340668 s, transmitted = 0.9503999999984429 MiB
+epoch 9: loss 0.28713471806543006 score 0.89679
+Training took: 546.5495953559875s
+decentralized-exact - score: 0.89679
+(array([0.69331734, 0.29637442, 0.29246133, 0.29020062, 0.28921134,
+       0.28863305, 0.28817507, 0.28778187, 0.28753915, 0.28728447,
+       0.28713472]), array([0.69331734, 0.34739151, 0.32557702, 0.31310284, 0.30675202,
+       0.30923524, 0.30195616, 0.30038686, 0.29824037, 0.29755666,
+       0.29637442, 0.29594415, 0.294815  , 0.29433551, 0.29413668,
+       0.29395755, 0.29375696, 0.29271717, 0.29247298, 0.29250491,
+       0.29246133, 0.29175153, 0.29189731, 0.2916684 , 0.29125587,
+       0.29085039, 0.29091415, 0.29057679, 0.2903308 , 0.29044773,
+       0.29020062, 0.29019231, 0.28993187, 0.29010707, 0.28971184,
+       0.28958626, 0.28965381, 0.28963287, 0.28944092, 0.28956753,
+       0.28921134, 0.28916137, 0.28922074, 0.28901686, 0.28901651,
+       0.289043  , 0.2888695 , 0.28867716, 0.28864561, 0.28862553,
+       0.28863305, 0.28854085, 0.28880253, 0.28845502, 0.28846664,
+       0.28849702, 0.28860305, 0.28827783, 0.28821984, 0.28820085,
+       0.28817507, 0.28810498, 0.28807034, 0.28811434, 0.28847234,
+       0.28819186, 0.28817422, 0.28809429, 0.28788904, 0.28779263,
+       0.28778187, 0.28783788, 0.2877581 , 0.28787401, 0.28776891,
+       0.28771027, 0.28781668, 0.28766526, 0.28763677, 0.28755231,
+       0.28753915, 0.28751178, 0.28749099, 0.28739426, 0.28742068,
+       0.28744191, 0.28735163, 0.2877852 , 0.28728076, 0.28740443,
+       0.28728447, 0.28745049, 0.28721214, 0.28717281, 0.28712585,
+       0.28718025, 0.2871134 , 0.28705782, 0.28711664, 0.28709599,
+       0.        ]))
+results saved in "dump/epsilon-final-decentralized-ring-sorted-40/"
+load dataset
+start experiment
+length of indices: 40
+length of last machine indices: 10000
+Number of different labels: 2
+decentralized-exact: t = 0, epoch = 0, iter = 0, loss = 0.693170313716119, accuracy = 0.498215, elapsed = 0.2869431972503662 s, transmitted = 0.0 MiB
+decentralized-exact: t = 1000, epoch = 0, iter = 1000, loss = 0.3461423408802664, accuracy = 0.874385, elapsed = 5.590842247009277 s, transmitted = 0.00960000000000018 MiB
+decentralized-exact: t = 2000, epoch = 0, iter = 2000, loss = 0.3222953999824849, accuracy = 0.8820675, elapsed = 10.897814750671387 s, transmitted = 0.019200000000000012 MiB
+decentralized-exact: t = 3000, epoch = 0, iter = 3000, loss = 0.31536419500272916, accuracy = 0.88048, elapsed = 16.209757089614868 s, transmitted = 0.028799999999998556 MiB
+decentralized-exact: t = 4000, epoch = 0, iter = 4000, loss = 0.3069523006178996, accuracy = 0.8878575, elapsed = 21.516026258468628 s, transmitted = 0.0383999999999971 MiB
+decentralized-exact: t = 5000, epoch = 0, iter = 5000, loss = 0.3032062471132551, accuracy = 0.88936, elapsed = 26.78144383430481 s, transmitted = 0.04799999999999565 MiB
+decentralized-exact: t = 6000, epoch = 0, iter = 6000, loss = 0.3011287893802814, accuracy = 0.89011, elapsed = 32.0501012802124 s, transmitted = 0.05759999999999419 MiB
+decentralized-exact: t = 7000, epoch = 0, iter = 7000, loss = 0.30058736459141727, accuracy = 0.8880575, elapsed = 37.33005094528198 s, transmitted = 0.067199999999994 MiB
+decentralized-exact: t = 8000, epoch = 0, iter = 8000, loss = 0.29852604717304354, accuracy = 0.890705, elapsed = 42.59924602508545 s, transmitted = 0.07679999999999983 MiB
+decentralized-exact: t = 9000, epoch = 0, iter = 9000, loss = 0.2972173020642738, accuracy = 0.8914, elapsed = 47.88094925880432 s, transmitted = 0.08640000000000565 MiB
+epoch 0: loss 0.29613729902999447 score 0.892185
+decentralized-exact: t = 10000, epoch = 1, iter = 0, loss = 0.29613729902999447, accuracy = 0.892185, elapsed = 53.42455697059631 s, transmitted = 0.09600000000001147 MiB
+decentralized-exact: t = 11000, epoch = 1, iter = 1000, loss = 0.2953528944765505, accuracy = 0.892685, elapsed = 58.72024631500244 s, transmitted = 0.10560000000001729 MiB
+decentralized-exact: t = 12000, epoch = 1, iter = 2000, loss = 0.2951684867759693, accuracy = 0.892595, elapsed = 64.00219106674194 s, transmitted = 0.1152000000000231 MiB
+decentralized-exact: t = 13000, epoch = 1, iter = 3000, loss = 0.2958102200932066, accuracy = 0.89076, elapsed = 69.26583313941956 s, transmitted = 0.12480000000002893 MiB
+decentralized-exact: t = 14000, epoch = 1, iter = 4000, loss = 0.29408420781938044, accuracy = 0.8928125, elapsed = 74.52881646156311 s, transmitted = 0.13440000000003474 MiB
+decentralized-exact: t = 15000, epoch = 1, iter = 5000, loss = 0.2938118886488656, accuracy = 0.8930025, elapsed = 79.7960216999054 s, transmitted = 0.14400000000004057 MiB
+decentralized-exact: t = 16000, epoch = 1, iter = 6000, loss = 0.2932907153745554, accuracy = 0.89351, elapsed = 85.09348821640015 s, transmitted = 0.1536000000000464 MiB
+decentralized-exact: t = 17000, epoch = 1, iter = 7000, loss = 0.2927570365546883, accuracy = 0.8938775, elapsed = 90.44035506248474 s, transmitted = 0.16320000000005222 MiB
+decentralized-exact: t = 18000, epoch = 1, iter = 8000, loss = 0.2923413363766255, accuracy = 0.89403, elapsed = 95.77819204330444 s, transmitted = 0.17280000000005805 MiB
+decentralized-exact: t = 19000, epoch = 1, iter = 9000, loss = 0.2921527292464264, accuracy = 0.894235, elapsed = 101.05177998542786 s, transmitted = 0.18240000000006384 MiB
+epoch 1: loss 0.2919239823333816 score 0.8941
+decentralized-exact: t = 20000, epoch = 2, iter = 0, loss = 0.2919239823333816, accuracy = 0.8941, elapsed = 106.62727379798889 s, transmitted = 0.19200000000006967 MiB
+decentralized-exact: t = 21000, epoch = 2, iter = 1000, loss = 0.2920237298055957, accuracy = 0.8940525, elapsed = 111.8899667263031 s, transmitted = 0.2016000000000755 MiB
+decentralized-exact: t = 22000, epoch = 2, iter = 2000, loss = 0.2915670490660744, accuracy = 0.89428, elapsed = 117.1876802444458 s, transmitted = 0.21120000000008132 MiB
+decentralized-exact: t = 23000, epoch = 2, iter = 3000, loss = 0.2917022483628968, accuracy = 0.8938625, elapsed = 122.47558832168579 s, transmitted = 0.22080000000008715 MiB
+decentralized-exact: t = 24000, epoch = 2, iter = 4000, loss = 0.29110310412382395, accuracy = 0.894635, elapsed = 127.78108859062195 s, transmitted = 0.23040000000009295 MiB
+decentralized-exact: t = 25000, epoch = 2, iter = 5000, loss = 0.29090143481157194, accuracy = 0.8946675, elapsed = 133.08116459846497 s, transmitted = 0.24000000000009877 MiB
+decentralized-exact: t = 26000, epoch = 2, iter = 6000, loss = 0.2906283378567156, accuracy = 0.8947125, elapsed = 138.3724067211151 s, transmitted = 0.2496000000001046 MiB
+decentralized-exact: t = 27000, epoch = 2, iter = 7000, loss = 0.29071493883979904, accuracy = 0.894705, elapsed = 143.65328979492188 s, transmitted = 0.2592000000001104 MiB
+decentralized-exact: t = 28000, epoch = 2, iter = 8000, loss = 0.29042105932154644, accuracy = 0.894925, elapsed = 148.9429841041565 s, transmitted = 0.268800000000096 MiB
+decentralized-exact: t = 29000, epoch = 2, iter = 9000, loss = 0.2902516019219329, accuracy = 0.8949325, elapsed = 154.22464847564697 s, transmitted = 0.27840000000007276 MiB
+epoch 2: loss 0.2901629946698054 score 0.895085
+decentralized-exact: t = 30000, epoch = 3, iter = 0, loss = 0.2901629946698054, accuracy = 0.895085, elapsed = 159.7947337627411 s, transmitted = 0.2880000000000495 MiB
+decentralized-exact: t = 31000, epoch = 3, iter = 1000, loss = 0.2900283448549261, accuracy = 0.8953575, elapsed = 165.10154914855957 s, transmitted = 0.2976000000000262 MiB
+decentralized-exact: t = 32000, epoch = 3, iter = 2000, loss = 0.2899407683362343, accuracy = 0.8953975, elapsed = 170.44353246688843 s, transmitted = 0.3072000000000029 MiB
+decentralized-exact: t = 33000, epoch = 3, iter = 3000, loss = 0.28992578325010293, accuracy = 0.8952925, elapsed = 175.73263359069824 s, transmitted = 0.31679999999997965 MiB
+decentralized-exact: t = 34000, epoch = 3, iter = 4000, loss = 0.28967962579616424, accuracy = 0.89556, elapsed = 181.03364634513855 s, transmitted = 0.32639999999995634 MiB
+decentralized-exact: t = 35000, epoch = 3, iter = 5000, loss = 0.2895944883630112, accuracy = 0.8956325, elapsed = 186.35188555717468 s, transmitted = 0.3359999999999331 MiB
+decentralized-exact: t = 36000, epoch = 3, iter = 6000, loss = 0.2895745301823559, accuracy = 0.895515, elapsed = 191.64562487602234 s, transmitted = 0.34559999999990976 MiB
+decentralized-exact: t = 37000, epoch = 3, iter = 7000, loss = 0.2894136640161951, accuracy = 0.895655, elapsed = 196.97438549995422 s, transmitted = 0.3551999999998865 MiB
+decentralized-exact: t = 38000, epoch = 3, iter = 8000, loss = 0.28929044400092785, accuracy = 0.8956675, elapsed = 202.2982521057129 s, transmitted = 0.36479999999986323 MiB
+decentralized-exact: t = 39000, epoch = 3, iter = 9000, loss = 0.2893645003022646, accuracy = 0.89554, elapsed = 207.6188645362854 s, transmitted = 0.3743999999998399 MiB
+epoch 3: loss 0.28913252961517716 score 0.8958225
+decentralized-exact: t = 40000, epoch = 4, iter = 0, loss = 0.28913252961517716, accuracy = 0.8958225, elapsed = 213.24409437179565 s, transmitted = 0.38399999999981665 MiB
+decentralized-exact: t = 41000, epoch = 4, iter = 1000, loss = 0.28909324449417023, accuracy = 0.8958525, elapsed = 218.5921711921692 s, transmitted = 0.39359999999979334 MiB
+decentralized-exact: t = 42000, epoch = 4, iter = 2000, loss = 0.28918537507138853, accuracy = 0.8957225, elapsed = 223.92120003700256 s, transmitted = 0.4031999999997701 MiB
+decentralized-exact: t = 43000, epoch = 4, iter = 3000, loss = 0.28894857574849236, accuracy = 0.8959175, elapsed = 229.26730370521545 s, transmitted = 0.4127999999997468 MiB
+decentralized-exact: t = 44000, epoch = 4, iter = 4000, loss = 0.28884322965856635, accuracy = 0.8960275, elapsed = 234.58913826942444 s, transmitted = 0.4223999999997235 MiB
+decentralized-exact: t = 45000, epoch = 4, iter = 5000, loss = 0.28895292928913097, accuracy = 0.895745, elapsed = 239.95424699783325 s, transmitted = 0.43199999999970023 MiB
+decentralized-exact: t = 46000, epoch = 4, iter = 6000, loss = 0.2887720802931744, accuracy = 0.8959625, elapsed = 245.27255725860596 s, transmitted = 0.441599999999677 MiB
+decentralized-exact: t = 47000, epoch = 4, iter = 7000, loss = 0.288914633175814, accuracy = 0.895745, elapsed = 250.6041715145111 s, transmitted = 0.45119999999965366 MiB
+decentralized-exact: t = 48000, epoch = 4, iter = 8000, loss = 0.288686594324796, accuracy = 0.8959475, elapsed = 255.95940470695496 s, transmitted = 0.4607999999996304 MiB
+decentralized-exact: t = 49000, epoch = 4, iter = 9000, loss = 0.28854199715241075, accuracy = 0.8959625, elapsed = 261.2906017303467 s, transmitted = 0.4703999999996071 MiB
+epoch 4: loss 0.288693665338404 score 0.8959025
+decentralized-exact: t = 50000, epoch = 5, iter = 0, loss = 0.288693665338404, accuracy = 0.8959025, elapsed = 266.8909285068512 s, transmitted = 0.4799999999995838 MiB
+decentralized-exact: t = 51000, epoch = 5, iter = 1000, loss = 0.2884942450954643, accuracy = 0.89607, elapsed = 272.22486996650696 s, transmitted = 0.48959999999956055 MiB
+decentralized-exact: t = 52000, epoch = 5, iter = 2000, loss = 0.2885006456539343, accuracy = 0.8960225, elapsed = 277.54244112968445 s, transmitted = 0.49919999999953724 MiB
+decentralized-exact: t = 53000, epoch = 5, iter = 3000, loss = 0.28855100864238786, accuracy = 0.8959725, elapsed = 282.8716707229614 s, transmitted = 0.508799999999514 MiB
+decentralized-exact: t = 54000, epoch = 5, iter = 4000, loss = 0.2884440924649568, accuracy = 0.89605, elapsed = 288.202027797699 s, transmitted = 0.5183999999994907 MiB
+decentralized-exact: t = 55000, epoch = 5, iter = 5000, loss = 0.288341412131805, accuracy = 0.8960625, elapsed = 293.5298767089844 s, transmitted = 0.5279999999994675 MiB
+decentralized-exact: t = 56000, epoch = 5, iter = 6000, loss = 0.2882834342860231, accuracy = 0.89617, elapsed = 298.8574113845825 s, transmitted = 0.5375999999994441 MiB
+decentralized-exact: t = 57000, epoch = 5, iter = 7000, loss = 0.28848714345136156, accuracy = 0.8958075, elapsed = 304.14960980415344 s, transmitted = 0.5471999999994208 MiB
+decentralized-exact: t = 58000, epoch = 5, iter = 8000, loss = 0.2881925438993728, accuracy = 0.8962125, elapsed = 309.40866327285767 s, transmitted = 0.5567999999993976 MiB
+decentralized-exact: t = 59000, epoch = 5, iter = 9000, loss = 0.28809815803566546, accuracy = 0.8962875, elapsed = 314.6873242855072 s, transmitted = 0.5663999999993743 MiB
+epoch 5: loss 0.28805825396286505 score 0.89632
+decentralized-exact: t = 60000, epoch = 6, iter = 0, loss = 0.28805825396286505, accuracy = 0.89632, elapsed = 320.228880405426 s, transmitted = 0.575999999999351 MiB
+decentralized-exact: t = 61000, epoch = 6, iter = 1000, loss = 0.2880850093850739, accuracy = 0.896355, elapsed = 325.54710268974304 s, transmitted = 0.5855999999993277 MiB
+decentralized-exact: t = 62000, epoch = 6, iter = 2000, loss = 0.2880872429351761, accuracy = 0.89627, elapsed = 330.81114387512207 s, transmitted = 0.5951999999993044 MiB
+decentralized-exact: t = 63000, epoch = 6, iter = 3000, loss = 0.28796946620032576, accuracy = 0.8964075, elapsed = 336.0769395828247 s, transmitted = 0.6047999999992811 MiB
+decentralized-exact: t = 64000, epoch = 6, iter = 4000, loss = 0.2880468270065163, accuracy = 0.89624, elapsed = 341.3438341617584 s, transmitted = 0.6143999999992579 MiB
+decentralized-exact: t = 65000, epoch = 6, iter = 5000, loss = 0.28797337055669964, accuracy = 0.89628, elapsed = 346.66491508483887 s, transmitted = 0.6239999999992346 MiB
+decentralized-exact: t = 66000, epoch = 6, iter = 6000, loss = 0.28788537052163116, accuracy = 0.8964475, elapsed = 351.92500472068787 s, transmitted = 0.6335999999992112 MiB
+decentralized-exact: t = 67000, epoch = 6, iter = 7000, loss = 0.2878230994837311, accuracy = 0.896555, elapsed = 357.1773416996002 s, transmitted = 0.643199999999188 MiB
+decentralized-exact: t = 68000, epoch = 6, iter = 8000, loss = 0.2878315403915012, accuracy = 0.8963375, elapsed = 362.4496371746063 s, transmitted = 0.6527999999991647 MiB
+decentralized-exact: t = 69000, epoch = 6, iter = 9000, loss = 0.28775819898555044, accuracy = 0.8964875, elapsed = 367.70750522613525 s, transmitted = 0.6623999999991415 MiB
+epoch 6: loss 0.2877259539802392 score 0.896475
+decentralized-exact: t = 70000, epoch = 7, iter = 0, loss = 0.2877259539802392, accuracy = 0.896475, elapsed = 373.2695827484131 s, transmitted = 0.6719999999991182 MiB
+decentralized-exact: t = 71000, epoch = 7, iter = 1000, loss = 0.28800496569063744, accuracy = 0.896135, elapsed = 378.50730085372925 s, transmitted = 0.6815999999990948 MiB
+decentralized-exact: t = 72000, epoch = 7, iter = 2000, loss = 0.28769292985355444, accuracy = 0.8964625, elapsed = 383.7505826950073 s, transmitted = 0.6911999999990716 MiB
+decentralized-exact: t = 73000, epoch = 7, iter = 3000, loss = 0.28762667565844174, accuracy = 0.8964675, elapsed = 388.98192071914673 s, transmitted = 0.7007999999990483 MiB
+decentralized-exact: t = 74000, epoch = 7, iter = 4000, loss = 0.28765359633044846, accuracy = 0.896485, elapsed = 394.26221466064453 s, transmitted = 0.710399999999025 MiB
+decentralized-exact: t = 75000, epoch = 7, iter = 5000, loss = 0.28755753346038715, accuracy = 0.89652, elapsed = 399.6816670894623 s, transmitted = 0.7199999999990018 MiB
+decentralized-exact: t = 76000, epoch = 7, iter = 6000, loss = 0.28758794244653124, accuracy = 0.8965575, elapsed = 404.9770886898041 s, transmitted = 0.7295999999989785 MiB
+decentralized-exact: t = 77000, epoch = 7, iter = 7000, loss = 0.287507711609491, accuracy = 0.8966, elapsed = 410.2744903564453 s, transmitted = 0.7391999999989551 MiB
+decentralized-exact: t = 78000, epoch = 7, iter = 8000, loss = 0.2876008110293963, accuracy = 0.8965, elapsed = 415.56680822372437 s, transmitted = 0.7487999999989319 MiB
+decentralized-exact: t = 79000, epoch = 7, iter = 9000, loss = 0.2876298568405252, accuracy = 0.89641, elapsed = 420.89403915405273 s, transmitted = 0.7583999999989086 MiB
+epoch 7: loss 0.2875475080477573 score 0.8964925
+decentralized-exact: t = 80000, epoch = 8, iter = 0, loss = 0.2875475080477573, accuracy = 0.8964925, elapsed = 426.4864835739136 s, transmitted = 0.7679999999988854 MiB
+decentralized-exact: t = 81000, epoch = 8, iter = 1000, loss = 0.2876642300588842, accuracy = 0.8963975, elapsed = 431.7856299877167 s, transmitted = 0.7775999999988621 MiB
+decentralized-exact: t = 82000, epoch = 8, iter = 2000, loss = 0.2874391324095681, accuracy = 0.896645, elapsed = 437.0851855278015 s, transmitted = 0.7871999999988387 MiB
+decentralized-exact: t = 83000, epoch = 8, iter = 3000, loss = 0.2874849093376959, accuracy = 0.89661, elapsed = 442.412406206131 s, transmitted = 0.7967999999988155 MiB
+decentralized-exact: t = 84000, epoch = 8, iter = 4000, loss = 0.2875032127232156, accuracy = 0.8964775, elapsed = 447.73280668258667 s, transmitted = 0.8063999999987922 MiB
+decentralized-exact: t = 85000, epoch = 8, iter = 5000, loss = 0.28732573988626453, accuracy = 0.8967225, elapsed = 453.0686116218567 s, transmitted = 0.8159999999987689 MiB
+decentralized-exact: t = 86000, epoch = 8, iter = 6000, loss = 0.28731186294241096, accuracy = 0.8967975, elapsed = 458.38188314437866 s, transmitted = 0.8255999999987457 MiB
+decentralized-exact: t = 87000, epoch = 8, iter = 7000, loss = 0.2873829152423363, accuracy = 0.8964675, elapsed = 463.6874158382416 s, transmitted = 0.8351999999987223 MiB
+decentralized-exact: t = 88000, epoch = 8, iter = 8000, loss = 0.28727276342488756, accuracy = 0.8967175, elapsed = 468.9875452518463 s, transmitted = 0.844799999998699 MiB
+decentralized-exact: t = 89000, epoch = 8, iter = 9000, loss = 0.2873357589209587, accuracy = 0.8966775, elapsed = 474.2976484298706 s, transmitted = 0.8543999999986758 MiB
+epoch 8: loss 0.28722152072421686 score 0.896765
+decentralized-exact: t = 90000, epoch = 9, iter = 0, loss = 0.28722152072421686, accuracy = 0.896765, elapsed = 479.8755910396576 s, transmitted = 0.8639999999986525 MiB
+decentralized-exact: t = 91000, epoch = 9, iter = 1000, loss = 0.2872099157056229, accuracy = 0.8967825, elapsed = 485.1872580051422 s, transmitted = 0.8735999999986293 MiB
+decentralized-exact: t = 92000, epoch = 9, iter = 2000, loss = 0.28723551508481837, accuracy = 0.896775, elapsed = 490.4883725643158 s, transmitted = 0.8831999999986059 MiB
+decentralized-exact: t = 93000, epoch = 9, iter = 3000, loss = 0.2871622785000226, accuracy = 0.8968, elapsed = 495.7895667552948 s, transmitted = 0.8927999999985826 MiB
+decentralized-exact: t = 94000, epoch = 9, iter = 4000, loss = 0.2874132626874077, accuracy = 0.896385, elapsed = 501.08459186553955 s, transmitted = 0.9023999999985594 MiB
+decentralized-exact: t = 95000, epoch = 9, iter = 5000, loss = 0.28711694696059864, accuracy = 0.896905, elapsed = 506.39332342147827 s, transmitted = 0.9119999999985361 MiB
+decentralized-exact: t = 96000, epoch = 9, iter = 6000, loss = 0.2872425616147133, accuracy = 0.8966975, elapsed = 511.6922986507416 s, transmitted = 0.9215999999985128 MiB
+decentralized-exact: t = 97000, epoch = 9, iter = 7000, loss = 0.28718321158478005, accuracy = 0.896745, elapsed = 516.9717977046967 s, transmitted = 0.9311999999984895 MiB
+decentralized-exact: t = 98000, epoch = 9, iter = 8000, loss = 0.2870653479875225, accuracy = 0.8969625, elapsed = 522.2701494693756 s, transmitted = 0.9407999999984662 MiB
+decentralized-exact: t = 99000, epoch = 9, iter = 9000, loss = 0.2871168417161544, accuracy = 0.8967775, elapsed = 527.5755071640015 s, transmitted = 0.9503999999984429 MiB
+epoch 9: loss 0.2870105855516726 score 0.8970525
+Training took: 532.8650190830231s
+decentralized-exact - score: 0.8970525
+(array([0.69317031, 0.2961373 , 0.29192398, 0.29016299, 0.28913253,
+       0.28869367, 0.28805825, 0.28772595, 0.28754751, 0.28722152,
+       0.28701059]), array([0.69317031, 0.34614234, 0.3222954 , 0.3153642 , 0.3069523 ,
+       0.30320625, 0.30112879, 0.30058736, 0.29852605, 0.2972173 ,
+       0.2961373 , 0.29535289, 0.29516849, 0.29581022, 0.29408421,
+       0.29381189, 0.29329072, 0.29275704, 0.29234134, 0.29215273,
+       0.29192398, 0.29202373, 0.29156705, 0.29170225, 0.2911031 ,
+       0.29090143, 0.29062834, 0.29071494, 0.29042106, 0.2902516 ,
+       0.29016299, 0.29002834, 0.28994077, 0.28992578, 0.28967963,
+       0.28959449, 0.28957453, 0.28941366, 0.28929044, 0.2893645 ,
+       0.28913253, 0.28909324, 0.28918538, 0.28894858, 0.28884323,
+       0.28895293, 0.28877208, 0.28891463, 0.28868659, 0.288542  ,
+       0.28869367, 0.28849425, 0.28850065, 0.28855101, 0.28844409,
+       0.28834141, 0.28828343, 0.28848714, 0.28819254, 0.28809816,
+       0.28805825, 0.28808501, 0.28808724, 0.28796947, 0.28804683,
+       0.28797337, 0.28788537, 0.2878231 , 0.28783154, 0.2877582 ,
+       0.28772595, 0.28800497, 0.28769293, 0.28762668, 0.2876536 ,
+       0.28755753, 0.28758794, 0.28750771, 0.28760081, 0.28762986,
+       0.28754751, 0.28766423, 0.28743913, 0.28748491, 0.28750321,
+       0.28732574, 0.28731186, 0.28738292, 0.28727276, 0.28733576,
+       0.28722152, 0.28720992, 0.28723552, 0.28716228, 0.28741326,
+       0.28711695, 0.28724256, 0.28718321, 0.28706535, 0.28711684,
+       0.        ]))
+results saved in "dump/epsilon-final-decentralized-ring-sorted-40/"
+load dataset
+start experiment
+length of indices: 40
+length of last machine indices: 10000
+Number of different labels: 2
+decentralized-top-20: t = 0, epoch = 0, iter = 0, loss = 0.6933288597305111, accuracy = 0.4924525, elapsed = 0.8177196979522705 s, transmitted = 0.0 MiB
+decentralized-top-20: t = 1000, epoch = 0, iter = 1000, loss = 0.3464906816197276, accuracy = 0.8556125, elapsed = 18.528971195220947 s, transmitted = 0.00960000000000018 MiB
+decentralized-top-20: t = 2000, epoch = 0, iter = 2000, loss = 0.3148753790928681, accuracy = 0.88082, elapsed = 35.958468198776245 s, transmitted = 0.019200000000000012 MiB
+decentralized-top-20: t = 3000, epoch = 0, iter = 3000, loss = 0.3136125125210914, accuracy = 0.875785, elapsed = 52.08960318565369 s, transmitted = 0.028799999999998556 MiB
+decentralized-top-20: t = 4000, epoch = 0, iter = 4000, loss = 0.30412159018294604, accuracy = 0.8845325, elapsed = 68.20092582702637 s, transmitted = 0.0383999999999971 MiB
+decentralized-top-20: t = 5000, epoch = 0, iter = 5000, loss = 0.3051160685245791, accuracy = 0.8814, elapsed = 84.47680044174194 s, transmitted = 0.04799999999999565 MiB
+decentralized-top-20: t = 6000, epoch = 0, iter = 6000, loss = 0.3008668443486361, accuracy = 0.8855825, elapsed = 100.6394681930542 s, transmitted = 0.05759999999999419 MiB
+decentralized-top-20: t = 7000, epoch = 0, iter = 7000, loss = 0.2971611640794608, accuracy = 0.88969, elapsed = 116.77626848220825 s, transmitted = 0.067199999999994 MiB
+decentralized-top-20: t = 8000, epoch = 0, iter = 8000, loss = 0.29670088559139524, accuracy = 0.88923, elapsed = 132.92853689193726 s, transmitted = 0.07679999999999983 MiB
+decentralized-top-20: t = 9000, epoch = 0, iter = 9000, loss = 0.29459627244558223, accuracy = 0.89151, elapsed = 149.08111476898193 s, transmitted = 0.08640000000000565 MiB
+epoch 0: loss 0.29626235701890563 score 0.888755
+decentralized-top-20: t = 10000, epoch = 1, iter = 0, loss = 0.29626235701890563, accuracy = 0.888755, elapsed = 166.09346556663513 s, transmitted = 0.09600000000001147 MiB
+decentralized-top-20: t = 11000, epoch = 1, iter = 1000, loss = 0.29335272890095104, accuracy = 0.8925675, elapsed = 182.21438884735107 s, transmitted = 0.10560000000001729 MiB
+decentralized-top-20: t = 12000, epoch = 1, iter = 2000, loss = 0.29343028529549225, accuracy = 0.8919525, elapsed = 198.36194825172424 s, transmitted = 0.1152000000000231 MiB
+decentralized-top-20: t = 13000, epoch = 1, iter = 3000, loss = 0.292537642488662, accuracy = 0.8928075, elapsed = 214.49762153625488 s, transmitted = 0.12480000000002893 MiB
+decentralized-top-20: t = 14000, epoch = 1, iter = 4000, loss = 0.29217058185634487, accuracy = 0.893055, elapsed = 230.68247389793396 s, transmitted = 0.13440000000003474 MiB
+decentralized-top-20: t = 15000, epoch = 1, iter = 5000, loss = 0.29185706682910123, accuracy = 0.89326, elapsed = 246.83212757110596 s, transmitted = 0.14400000000004057 MiB
+decentralized-top-20: t = 16000, epoch = 1, iter = 6000, loss = 0.2923871917379603, accuracy = 0.8923525, elapsed = 263.01850390434265 s, transmitted = 0.1536000000000464 MiB
+decentralized-top-20: t = 17000, epoch = 1, iter = 7000, loss = 0.2911558804322087, accuracy = 0.89375, elapsed = 279.19412565231323 s, transmitted = 0.16320000000005222 MiB
+decentralized-top-20: t = 18000, epoch = 1, iter = 8000, loss = 0.2911466408207192, accuracy = 0.893725, elapsed = 295.3451986312866 s, transmitted = 0.17280000000005805 MiB
+decentralized-top-20: t = 19000, epoch = 1, iter = 9000, loss = 0.290768146201986, accuracy = 0.8939875, elapsed = 311.51828169822693 s, transmitted = 0.18240000000006384 MiB
+epoch 1: loss 0.29125393809575206 score 0.8933075
+decentralized-top-20: t = 20000, epoch = 2, iter = 0, loss = 0.29125393809575206, accuracy = 0.8933075, elapsed = 328.5394871234894 s, transmitted = 0.19200000000006967 MiB
+decentralized-top-20: t = 21000, epoch = 2, iter = 1000, loss = 0.2903884468704137, accuracy = 0.89438, elapsed = 344.7322175502777 s, transmitted = 0.2016000000000755 MiB
+decentralized-top-20: t = 22000, epoch = 2, iter = 2000, loss = 0.29100721564644827, accuracy = 0.893225, elapsed = 360.9269645214081 s, transmitted = 0.21120000000008132 MiB
+decentralized-top-20: t = 23000, epoch = 2, iter = 3000, loss = 0.29008597669640135, accuracy = 0.89448, elapsed = 377.12926626205444 s, transmitted = 0.22080000000008715 MiB
+decentralized-top-20: t = 24000, epoch = 2, iter = 4000, loss = 0.29037654940661584, accuracy = 0.89417, elapsed = 393.2505877017975 s, transmitted = 0.23040000000009295 MiB
+decentralized-top-20: t = 25000, epoch = 2, iter = 5000, loss = 0.28986580927713185, accuracy = 0.89475, elapsed = 409.3653004169464 s, transmitted = 0.24000000000009877 MiB
+decentralized-top-20: t = 26000, epoch = 2, iter = 6000, loss = 0.2900319996743997, accuracy = 0.8943875, elapsed = 425.4691424369812 s, transmitted = 0.2496000000001046 MiB
+decentralized-top-20: t = 27000, epoch = 2, iter = 7000, loss = 0.28964800813804, accuracy = 0.8948875, elapsed = 441.5646438598633 s, transmitted = 0.2592000000001104 MiB
+decentralized-top-20: t = 28000, epoch = 2, iter = 8000, loss = 0.2895271261407023, accuracy = 0.8948275, elapsed = 457.676873922348 s, transmitted = 0.268800000000096 MiB
+decentralized-top-20: t = 29000, epoch = 2, iter = 9000, loss = 0.28940352048007784, accuracy = 0.894955, elapsed = 473.798632144928 s, transmitted = 0.27840000000007276 MiB
+epoch 2: loss 0.2894384768690414 score 0.894865
+decentralized-top-20: t = 30000, epoch = 3, iter = 0, loss = 0.2894384768690414, accuracy = 0.894865, elapsed = 490.7430856227875 s, transmitted = 0.2880000000000495 MiB
+decentralized-top-20: t = 31000, epoch = 3, iter = 1000, loss = 0.2891918069461028, accuracy = 0.895165, elapsed = 506.85658955574036 s, transmitted = 0.2976000000000262 MiB
+decentralized-top-20: t = 32000, epoch = 3, iter = 2000, loss = 0.28916392389841605, accuracy = 0.895275, elapsed = 522.8935792446136 s, transmitted = 0.3072000000000029 MiB
+decentralized-top-20: t = 33000, epoch = 3, iter = 3000, loss = 0.28907608949060637, accuracy = 0.8953075, elapsed = 538.9544486999512 s, transmitted = 0.31679999999997965 MiB
+decentralized-top-20: t = 34000, epoch = 3, iter = 4000, loss = 0.28950869753657404, accuracy = 0.894445, elapsed = 555.0363259315491 s, transmitted = 0.32639999999995634 MiB
+decentralized-top-20: t = 35000, epoch = 3, iter = 5000, loss = 0.28890720017113614, accuracy = 0.8952875, elapsed = 571.1078560352325 s, transmitted = 0.3359999999999331 MiB
+decentralized-top-20: t = 36000, epoch = 3, iter = 6000, loss = 0.28895444429773576, accuracy = 0.895215, elapsed = 587.1999323368073 s, transmitted = 0.34559999999990976 MiB
+decentralized-top-20: t = 37000, epoch = 3, iter = 7000, loss = 0.28881167972898186, accuracy = 0.895375, elapsed = 603.2603373527527 s, transmitted = 0.3551999999998865 MiB
+decentralized-top-20: t = 38000, epoch = 3, iter = 8000, loss = 0.2887036811040164, accuracy = 0.895535, elapsed = 619.3473012447357 s, transmitted = 0.36479999999986323 MiB
+decentralized-top-20: t = 39000, epoch = 3, iter = 9000, loss = 0.2889747968219744, accuracy = 0.8948475, elapsed = 635.4156007766724 s, transmitted = 0.3743999999998399 MiB
+epoch 3: loss 0.2888144425297841 score 0.8952325
+decentralized-top-20: t = 40000, epoch = 4, iter = 0, loss = 0.2888144425297841, accuracy = 0.8952325, elapsed = 652.3338584899902 s, transmitted = 0.38399999999981665 MiB
+decentralized-top-20: t = 41000, epoch = 4, iter = 1000, loss = 0.28876000102223254, accuracy = 0.8951825, elapsed = 668.4096884727478 s, transmitted = 0.39359999999979334 MiB
+decentralized-top-20: t = 42000, epoch = 4, iter = 2000, loss = 0.28945047685137903, accuracy = 0.894185, elapsed = 684.4912667274475 s, transmitted = 0.4031999999997701 MiB
+decentralized-top-20: t = 43000, epoch = 4, iter = 3000, loss = 0.2884044219157365, accuracy = 0.895555, elapsed = 700.5781941413879 s, transmitted = 0.4127999999997468 MiB
+decentralized-top-20: t = 44000, epoch = 4, iter = 4000, loss = 0.2886716391072065, accuracy = 0.895025, elapsed = 716.6457231044769 s, transmitted = 0.4223999999997235 MiB
+decentralized-top-20: t = 45000, epoch = 4, iter = 5000, loss = 0.28886943318650726, accuracy = 0.8949125, elapsed = 732.7567915916443 s, transmitted = 0.43199999999970023 MiB
+decentralized-top-20: t = 46000, epoch = 4, iter = 6000, loss = 0.28824782580537767, accuracy = 0.8955475, elapsed = 748.8621282577515 s, transmitted = 0.441599999999677 MiB
+decentralized-top-20: t = 47000, epoch = 4, iter = 7000, loss = 0.28823402828799605, accuracy = 0.8956675, elapsed = 764.9310729503632 s, transmitted = 0.45119999999965366 MiB
+decentralized-top-20: t = 48000, epoch = 4, iter = 8000, loss = 0.28821568411471216, accuracy = 0.895605, elapsed = 781.0229880809784 s, transmitted = 0.4607999999996304 MiB
+decentralized-top-20: t = 49000, epoch = 4, iter = 9000, loss = 0.28818320703317307, accuracy = 0.8956475, elapsed = 797.114857673645 s, transmitted = 0.4703999999996071 MiB
+epoch 4: loss 0.2882441636094747 score 0.89548
+decentralized-top-20: t = 50000, epoch = 5, iter = 0, loss = 0.2882441636094747, accuracy = 0.89548, elapsed = 814.0573239326477 s, transmitted = 0.4799999999995838 MiB
+decentralized-top-20: t = 51000, epoch = 5, iter = 1000, loss = 0.2884313015950793, accuracy = 0.8953075, elapsed = 830.1602001190186 s, transmitted = 0.48959999999956055 MiB
+decentralized-top-20: t = 52000, epoch = 5, iter = 2000, loss = 0.2880790784171814, accuracy = 0.8958025, elapsed = 846.2621142864227 s, transmitted = 0.49919999999953724 MiB
+decentralized-top-20: t = 53000, epoch = 5, iter = 3000, loss = 0.28815280775175, accuracy = 0.89552, elapsed = 862.3643574714661 s, transmitted = 0.508799999999514 MiB
+decentralized-top-20: t = 54000, epoch = 5, iter = 4000, loss = 0.2881156256259035, accuracy = 0.8956975, elapsed = 878.470874786377 s, transmitted = 0.5183999999994907 MiB
+decentralized-top-20: t = 55000, epoch = 5, iter = 5000, loss = 0.28793602138049057, accuracy = 0.895805, elapsed = 894.563726902008 s, transmitted = 0.5279999999994675 MiB
+decentralized-top-20: t = 56000, epoch = 5, iter = 6000, loss = 0.287885402140209, accuracy = 0.8957525, elapsed = 910.6514456272125 s, transmitted = 0.5375999999994441 MiB
+decentralized-top-20: t = 57000, epoch = 5, iter = 7000, loss = 0.2879297529224257, accuracy = 0.89575, elapsed = 926.7383217811584 s, transmitted = 0.5471999999994208 MiB
+decentralized-top-20: t = 58000, epoch = 5, iter = 8000, loss = 0.2880349121666824, accuracy = 0.895705, elapsed = 942.8160064220428 s, transmitted = 0.5567999999993976 MiB
+decentralized-top-20: t = 59000, epoch = 5, iter = 9000, loss = 0.28789311649776067, accuracy = 0.8958775, elapsed = 958.8964531421661 s, transmitted = 0.5663999999993743 MiB
+epoch 5: loss 0.287763904994134 score 0.895925
+decentralized-top-20: t = 60000, epoch = 6, iter = 0, loss = 0.287763904994134, accuracy = 0.895925, elapsed = 975.848739862442 s, transmitted = 0.575999999999351 MiB
+decentralized-top-20: t = 61000, epoch = 6, iter = 1000, loss = 0.2877506965101405, accuracy = 0.8959025, elapsed = 991.9433829784393 s, transmitted = 0.5855999999993277 MiB
+decentralized-top-20: t = 62000, epoch = 6, iter = 2000, loss = 0.28783209837456064, accuracy = 0.8957325, elapsed = 1008.0539464950562 s, transmitted = 0.5951999999993044 MiB
+decentralized-top-20: t = 63000, epoch = 6, iter = 3000, loss = 0.28772090008064644, accuracy = 0.8959525, elapsed = 1024.15904378891 s, transmitted = 0.6047999999992811 MiB
+decentralized-top-20: t = 64000, epoch = 6, iter = 4000, loss = 0.2877336792171438, accuracy = 0.8959925, elapsed = 1040.2430698871613 s, transmitted = 0.6143999999992579 MiB
+decentralized-top-20: t = 65000, epoch = 6, iter = 5000, loss = 0.287661355965883, accuracy = 0.896055, elapsed = 1056.3126270771027 s, transmitted = 0.6239999999992346 MiB
+decentralized-top-20: t = 66000, epoch = 6, iter = 6000, loss = 0.2876274039342156, accuracy = 0.896085, elapsed = 1072.3817119598389 s, transmitted = 0.6335999999992112 MiB
+decentralized-top-20: t = 67000, epoch = 6, iter = 7000, loss = 0.28760817977620395, accuracy = 0.8961575, elapsed = 1088.4729568958282 s, transmitted = 0.643199999999188 MiB
+decentralized-top-20: t = 68000, epoch = 6, iter = 8000, loss = 0.2876887518666976, accuracy = 0.896075, elapsed = 1104.5610933303833 s, transmitted = 0.6527999999991647 MiB
+decentralized-top-20: t = 69000, epoch = 6, iter = 9000, loss = 0.28757091412887337, accuracy = 0.896185, elapsed = 1120.6597278118134 s, transmitted = 0.6623999999991415 MiB
+epoch 6: loss 0.28787215961725265 score 0.89562
+decentralized-top-20: t = 70000, epoch = 7, iter = 0, loss = 0.28787215961725265, accuracy = 0.89562, elapsed = 1137.6073906421661 s, transmitted = 0.6719999999991182 MiB
+decentralized-top-20: t = 71000, epoch = 7, iter = 1000, loss = 0.2875163088270323, accuracy = 0.8962375, elapsed = 1153.7160098552704 s, transmitted = 0.6815999999990948 MiB
+decentralized-top-20: t = 72000, epoch = 7, iter = 2000, loss = 0.28749225773533615, accuracy = 0.89616, elapsed = 1169.8371541500092 s, transmitted = 0.6911999999990716 MiB
+decentralized-top-20: t = 73000, epoch = 7, iter = 3000, loss = 0.287622334198433, accuracy = 0.896105, elapsed = 1186.0016078948975 s, transmitted = 0.7007999999990483 MiB
+decentralized-top-20: t = 74000, epoch = 7, iter = 4000, loss = 0.28746849080120523, accuracy = 0.896185, elapsed = 1202.129160642624 s, transmitted = 0.710399999999025 MiB
+decentralized-top-20: t = 75000, epoch = 7, iter = 5000, loss = 0.2877770856748039, accuracy = 0.89584, elapsed = 1218.3175134658813 s, transmitted = 0.7199999999990018 MiB
+decentralized-top-20: t = 76000, epoch = 7, iter = 6000, loss = 0.28750157720465763, accuracy = 0.8962075, elapsed = 1234.5115013122559 s, transmitted = 0.7295999999989785 MiB
+decentralized-top-20: t = 77000, epoch = 7, iter = 7000, loss = 0.28740138164191875, accuracy = 0.896275, elapsed = 1250.676702260971 s, transmitted = 0.7391999999989551 MiB
+decentralized-top-20: t = 78000, epoch = 7, iter = 8000, loss = 0.2874095478204663, accuracy = 0.896355, elapsed = 1266.8339669704437 s, transmitted = 0.7487999999989319 MiB
+decentralized-top-20: t = 79000, epoch = 7, iter = 9000, loss = 0.28740154007271534, accuracy = 0.8963125, elapsed = 1282.9951059818268 s, transmitted = 0.7583999999989086 MiB
+epoch 7: loss 0.28760380274627223 score 0.896065
+decentralized-top-20: t = 80000, epoch = 8, iter = 0, loss = 0.28760380274627223, accuracy = 0.896065, elapsed = 1299.962880373001 s, transmitted = 0.7679999999988854 MiB
+decentralized-top-20: t = 81000, epoch = 8, iter = 1000, loss = 0.2873779688010619, accuracy = 0.896315, elapsed = 1316.0988504886627 s, transmitted = 0.7775999999988621 MiB
+decentralized-top-20: t = 82000, epoch = 8, iter = 2000, loss = 0.2873485265137498, accuracy = 0.896315, elapsed = 1332.2667977809906 s, transmitted = 0.7871999999988387 MiB
+decentralized-top-20: t = 83000, epoch = 8, iter = 3000, loss = 0.28733861933998217, accuracy = 0.8963325, elapsed = 1348.4124698638916 s, transmitted = 0.7967999999988155 MiB
+decentralized-top-20: t = 84000, epoch = 8, iter = 4000, loss = 0.28729160816007854, accuracy = 0.896345, elapsed = 1364.560533285141 s, transmitted = 0.8063999999987922 MiB
+decentralized-top-20: t = 85000, epoch = 8, iter = 5000, loss = 0.2872869663738867, accuracy = 0.8962525, elapsed = 1380.7147035598755 s, transmitted = 0.8159999999987689 MiB
+decentralized-top-20: t = 86000, epoch = 8, iter = 6000, loss = 0.2873004493049532, accuracy = 0.8963475, elapsed = 1396.8877835273743 s, transmitted = 0.8255999999987457 MiB
+decentralized-top-20: t = 87000, epoch = 8, iter = 7000, loss = 0.28726809772670303, accuracy = 0.8963825, elapsed = 1413.0473816394806 s, transmitted = 0.8351999999987223 MiB
+decentralized-top-20: t = 88000, epoch = 8, iter = 8000, loss = 0.28733590112839846, accuracy = 0.896245, elapsed = 1429.2325367927551 s, transmitted = 0.844799999998699 MiB
+decentralized-top-20: t = 89000, epoch = 8, iter = 9000, loss = 0.28737303439832235, accuracy = 0.8962125, elapsed = 1445.4258832931519 s, transmitted = 0.8543999999986758 MiB
+epoch 8: loss 0.2874703833041121 score 0.8961225
+decentralized-top-20: t = 90000, epoch = 9, iter = 0, loss = 0.2874703833041121, accuracy = 0.8961225, elapsed = 1462.4788799285889 s, transmitted = 0.8639999999986525 MiB
+decentralized-top-20: t = 91000, epoch = 9, iter = 1000, loss = 0.2872620621362749, accuracy = 0.8963875, elapsed = 1478.6790795326233 s, transmitted = 0.8735999999986293 MiB
+decentralized-top-20: t = 92000, epoch = 9, iter = 2000, loss = 0.28728289422247727, accuracy = 0.8964325, elapsed = 1494.8918404579163 s, transmitted = 0.8831999999986059 MiB
+decentralized-top-20: t = 93000, epoch = 9, iter = 3000, loss = 0.2872623579336059, accuracy = 0.8963675, elapsed = 1511.0416882038116 s, transmitted = 0.8927999999985826 MiB
+decentralized-top-20: t = 94000, epoch = 9, iter = 4000, loss = 0.28727076114138766, accuracy = 0.8964, elapsed = 1527.199755191803 s, transmitted = 0.9023999999985594 MiB
+decentralized-top-20: t = 95000, epoch = 9, iter = 5000, loss = 0.287218073324642, accuracy = 0.896525, elapsed = 1543.3162293434143 s, transmitted = 0.9119999999985361 MiB
+decentralized-top-20: t = 96000, epoch = 9, iter = 6000, loss = 0.28727199231886724, accuracy = 0.8963875, elapsed = 1559.4311916828156 s, transmitted = 0.9215999999985128 MiB
+decentralized-top-20: t = 97000, epoch = 9, iter = 7000, loss = 0.28718386296860055, accuracy = 0.8965025, elapsed = 1575.5487267971039 s, transmitted = 0.9311999999984895 MiB
+decentralized-top-20: t = 98000, epoch = 9, iter = 8000, loss = 0.28714977687207965, accuracy = 0.896515, elapsed = 1591.6689157485962 s, transmitted = 0.9407999999984662 MiB
+decentralized-top-20: t = 99000, epoch = 9, iter = 9000, loss = 0.2871491887708813, accuracy = 0.896545, elapsed = 1607.9721381664276 s, transmitted = 0.9503999999984429 MiB
+epoch 9: loss 0.2871362696865411 score 0.896455
+Training took: 1624.1233923435211s
+decentralized-top-20 - score: 0.896455
+(array([0.69332886, 0.29626236, 0.29125394, 0.28943848, 0.28881444,
+       0.28824416, 0.2877639 , 0.28787216, 0.2876038 , 0.28747038,
+       0.28713627]), array([0.69332886, 0.34649068, 0.31487538, 0.31361251, 0.30412159,
+       0.30511607, 0.30086684, 0.29716116, 0.29670089, 0.29459627,
+       0.29626236, 0.29335273, 0.29343029, 0.29253764, 0.29217058,
+       0.29185707, 0.29238719, 0.29115588, 0.29114664, 0.29076815,
+       0.29125394, 0.29038845, 0.29100722, 0.29008598, 0.29037655,
+       0.28986581, 0.290032  , 0.28964801, 0.28952713, 0.28940352,
+       0.28943848, 0.28919181, 0.28916392, 0.28907609, 0.2895087 ,
+       0.2889072 , 0.28895444, 0.28881168, 0.28870368, 0.2889748 ,
+       0.28881444, 0.28876   , 0.28945048, 0.28840442, 0.28867164,
+       0.28886943, 0.28824783, 0.28823403, 0.28821568, 0.28818321,
+       0.28824416, 0.2884313 , 0.28807908, 0.28815281, 0.28811563,
+       0.28793602, 0.2878854 , 0.28792975, 0.28803491, 0.28789312,
+       0.2877639 , 0.2877507 , 0.2878321 , 0.2877209 , 0.28773368,
+       0.28766136, 0.2876274 , 0.28760818, 0.28768875, 0.28757091,
+       0.28787216, 0.28751631, 0.28749226, 0.28762233, 0.28746849,
+       0.28777709, 0.28750158, 0.28740138, 0.28740955, 0.28740154,
+       0.2876038 , 0.28737797, 0.28734853, 0.28733862, 0.28729161,
+       0.28728697, 0.28730045, 0.2872681 , 0.2873359 , 0.28737303,
+       0.28747038, 0.28726206, 0.28728289, 0.28726236, 0.28727076,
+       0.28721807, 0.28727199, 0.28718386, 0.28714978, 0.28714919,
+       0.        ]))
+results saved in "dump/epsilon-final-choco-top-20-ring-sorted-40/"
+load dataset
+start experiment
+length of indices: 40
+length of last machine indices: 10000
+Number of different labels: 2
+decentralized-random-20: t = 0, epoch = 0, iter = 0, loss = 0.6929611871071939, accuracy = 0.50954, elapsed = 0.32978296279907227 s, transmitted = 0.0 MiB
+decentralized-random-20: t = 1000, epoch = 0, iter = 1000, loss = inf, accuracy = 0.5002975, elapsed = 12.005146026611328 s, transmitted = 0.00960000000000018 MiB
+finish trainig
+epoch 0: loss inf score 0.5002975
+finish trainig
+Training took: 12.276468276977539s
+decentralized-random-20 - score: 0.5002975
+(array([0.69296119,        inf, 0.        , 0.        , 0.        ,
+       0.        , 0.        , 0.        , 0.        , 0.        ,
+       0.        ]), array([0.69296119,        inf, 0.        , 0.        , 0.        ,
+       0.        , 0.        , 0.        , 0.        , 0.        ,
+       0.        , 0.        , 0.        , 0.        , 0.        ,
+       0.        , 0.        , 0.        , 0.        , 0.        ,
+       0.        , 0.        , 0.        , 0.        , 0.        ,
+       0.        , 0.        , 0.        , 0.        , 0.        ,
+       0.        , 0.        , 0.        , 0.        , 0.        ,
+       0.        , 0.        , 0.        , 0.        , 0.        ,
+       0.        , 0.        , 0.        , 0.        , 0.        ,
+       0.        , 0.        , 0.        , 0.        , 0.        ,
+       0.        , 0.        , 0.        , 0.        , 0.        ,
+       0.        , 0.        , 0.        , 0.        , 0.        ,
+       0.        , 0.        , 0.        , 0.        , 0.        ,
+       0.        , 0.        , 0.        , 0.        , 0.        ,
+       0.        , 0.        , 0.        , 0.        , 0.        ,
+       0.        , 0.        , 0.        , 0.        , 0.        ,
+       0.        , 0.        , 0.        , 0.        , 0.        ,
+       0.        , 0.        , 0.        , 0.        , 0.        ,
+       0.        , 0.        , 0.        , 0.        , 0.        ,
+       0.        , 0.        , 0.        , 0.        , 0.        ,
+       0.        ]))
+results saved in "dump/epsilon-final-choco-random-20-sorted-40/"
+load dataset
+start experiment
+length of indices: 40
+length of last machine indices: 10000
+Number of different labels: 2
+dcd-psgd-random-20: t = 0, epoch = 0, iter = 0, loss = 0.6927524536800808, accuracy = 0.5355425, elapsed = 0.8595190048217773 s, transmitted = 0.0 MiB
+dcd-psgd-random-20: t = 1000, epoch = 0, iter = 1000, loss = inf, accuracy = 0.5421975, elapsed = 11.229694128036499 s, transmitted = 0.00960000000000018 MiB
+finish trainig
+epoch 0: loss inf score 0.5421975
+finish trainig
+Training took: 12.0734224319458s
+dcd-psgd-random-20 - score: 0.5421975
+(array([0.69275245,        inf, 0.        , 0.        , 0.        ,
+       0.        , 0.        , 0.        , 0.        , 0.        ,
+       0.        ]), array([0.69275245,        inf, 0.        , 0.        , 0.        ,
+       0.        , 0.        , 0.        , 0.        , 0.        ,
+       0.        , 0.        , 0.        , 0.        , 0.        ,
+       0.        , 0.        , 0.        , 0.        , 0.        ,
+       0.        , 0.        , 0.        , 0.        , 0.        ,
+       0.        , 0.        , 0.        , 0.        , 0.        ,
+       0.        , 0.        , 0.        , 0.        , 0.        ,
+       0.        , 0.        , 0.        , 0.        , 0.        ,
+       0.        , 0.        , 0.        , 0.        , 0.        ,
+       0.        , 0.        , 0.        , 0.        , 0.        ,
+       0.        , 0.        , 0.        , 0.        , 0.        ,
+       0.        , 0.        , 0.        , 0.        , 0.        ,
+       0.        , 0.        , 0.        , 0.        , 0.        ,
+       0.        , 0.        , 0.        , 0.        , 0.        ,
+       0.        , 0.        , 0.        , 0.        , 0.        ,
+       0.        , 0.        , 0.        , 0.        , 0.        ,
+       0.        , 0.        , 0.        , 0.        , 0.        ,
+       0.        , 0.        , 0.        , 0.        , 0.        ,
+       0.        , 0.        , 0.        , 0.        , 0.        ,
+       0.        , 0.        , 0.        , 0.        , 0.        ,
+       0.        ]))
+results saved in "dump/epsilon-final-dcd-random-20-sorted-40/"
+load dataset
+start experiment
+length of indices: 40
+length of last machine indices: 10000
+Number of different labels: 2
+ecd-psgd-random: t = 0, epoch = 0, iter = 0, loss = 0.693202933779546, accuracy = 0.495015, elapsed = 0.858055591583252 s, transmitted = 0.0 MiB
+ecd-psgd-random: t = 1000, epoch = 0, iter = 1000, loss = 0.6931472133990341, accuracy = 0.4982325, elapsed = 11.769077777862549 s, transmitted = 0.00960000000000018 MiB
+ecd-psgd-random: t = 2000, epoch = 0, iter = 2000, loss = 0.6931471967783611, accuracy = 0.49664, elapsed = 22.733546257019043 s, transmitted = 0.019200000000000012 MiB
+ecd-psgd-random: t = 3000, epoch = 0, iter = 3000, loss = 0.6931471834475117, accuracy = 0.498655, elapsed = 33.70413017272949 s, transmitted = 0.028799999999998556 MiB
+ecd-psgd-random: t = 4000, epoch = 0, iter = 4000, loss = 0.6931471885784168, accuracy = 0.4948375, elapsed = 44.62863612174988 s, transmitted = 0.0383999999999971 MiB
+ecd-psgd-random: t = 5000, epoch = 0, iter = 5000, loss = 0.6931471847772075, accuracy = 0.49783, elapsed = 55.56303381919861 s, transmitted = 0.04799999999999565 MiB
+ecd-psgd-random: t = 6000, epoch = 0, iter = 6000, loss = 0.6931471800845399, accuracy = 0.50003, elapsed = 66.4717333316803 s, transmitted = 0.05759999999999419 MiB
+ecd-psgd-random: t = 7000, epoch = 0, iter = 7000, loss = 0.693147178453563, accuracy = 0.502085, elapsed = 77.37470126152039 s, transmitted = 0.067199999999994 MiB
+ecd-psgd-random: t = 8000, epoch = 0, iter = 8000, loss = 0.6931471715815706, accuracy = 0.49999, elapsed = 88.28415369987488 s, transmitted = 0.07679999999999983 MiB
+ecd-psgd-random: t = 9000, epoch = 0, iter = 9000, loss = 0.693147172905393, accuracy = 0.5003, elapsed = 99.16593861579895 s, transmitted = 0.08640000000000565 MiB
+epoch 0: loss 0.6931471660236398 score 0.5018525
+ecd-psgd-random: t = 10000, epoch = 1, iter = 0, loss = 0.6931471660236398, accuracy = 0.5018525, elapsed = 110.89804577827454 s, transmitted = 0.09600000000001147 MiB
+ecd-psgd-random: t = 11000, epoch = 1, iter = 1000, loss = 0.6931471734906033, accuracy = 0.5010325, elapsed = 121.81709718704224 s, transmitted = 0.10560000000001729 MiB
+ecd-psgd-random: t = 12000, epoch = 1, iter = 2000, loss = 0.6931471192644111, accuracy = 0.51264, elapsed = 132.75435972213745 s, transmitted = 0.1152000000000231 MiB
+ecd-psgd-random: t = 13000, epoch = 1, iter = 3000, loss = 0.6931471247504576, accuracy = 0.512325, elapsed = 143.60983848571777 s, transmitted = 0.12480000000002893 MiB
+ecd-psgd-random: t = 14000, epoch = 1, iter = 4000, loss = 0.6931471369322153, accuracy = 0.5111125, elapsed = 154.47625398635864 s, transmitted = 0.13440000000003474 MiB
+ecd-psgd-random: t = 15000, epoch = 1, iter = 5000, loss = 0.6931471350346439, accuracy = 0.5134825, elapsed = 165.36648535728455 s, transmitted = 0.14400000000004057 MiB
+ecd-psgd-random: t = 16000, epoch = 1, iter = 6000, loss = 0.6931471321532937, accuracy = 0.5144825, elapsed = 176.25446772575378 s, transmitted = 0.1536000000000464 MiB
+ecd-psgd-random: t = 17000, epoch = 1, iter = 7000, loss = 0.693147135833331, accuracy = 0.509505, elapsed = 187.14138412475586 s, transmitted = 0.16320000000005222 MiB
+ecd-psgd-random: t = 18000, epoch = 1, iter = 8000, loss = 0.693147158404781, accuracy = 0.5057225, elapsed = 198.00952768325806 s, transmitted = 0.17280000000005805 MiB
+ecd-psgd-random: t = 19000, epoch = 1, iter = 9000, loss = 0.6931471601380994, accuracy = 0.5058475, elapsed = 208.89673614501953 s, transmitted = 0.18240000000006384 MiB
+epoch 1: loss 0.6931471600401616 score 0.507805
+ecd-psgd-random: t = 20000, epoch = 2, iter = 0, loss = 0.6931471600401616, accuracy = 0.507805, elapsed = 220.63270163536072 s, transmitted = 0.19200000000006967 MiB
+ecd-psgd-random: t = 21000, epoch = 2, iter = 1000, loss = 0.6931471608995861, accuracy = 0.50802, elapsed = 231.49763250350952 s, transmitted = 0.2016000000000755 MiB
+ecd-psgd-random: t = 22000, epoch = 2, iter = 2000, loss = 0.6931471598979546, accuracy = 0.5086925, elapsed = 242.37619853019714 s, transmitted = 0.21120000000008132 MiB
+ecd-psgd-random: t = 23000, epoch = 2, iter = 3000, loss = 0.6931471609917811, accuracy = 0.5047375, elapsed = 253.2566840648651 s, transmitted = 0.22080000000008715 MiB
+ecd-psgd-random: t = 24000, epoch = 2, iter = 4000, loss = 0.6931471727025323, accuracy = 0.50204, elapsed = 263.9941334724426 s, transmitted = 0.23040000000009295 MiB
+ecd-psgd-random: t = 25000, epoch = 2, iter = 5000, loss = 0.6931471759716311, accuracy = 0.50096, elapsed = 274.7612051963806 s, transmitted = 0.24000000000009877 MiB
+ecd-psgd-random: t = 26000, epoch = 2, iter = 6000, loss = 0.6931471801216589, accuracy = 0.49981, elapsed = 285.63177490234375 s, transmitted = 0.2496000000001046 MiB
+ecd-psgd-random: t = 27000, epoch = 2, iter = 7000, loss = 0.6931471788396067, accuracy = 0.5002125, elapsed = 296.582501411438 s, transmitted = 0.2592000000001104 MiB
+ecd-psgd-random: t = 28000, epoch = 2, iter = 8000, loss = 0.6931471799878507, accuracy = 0.4998375, elapsed = 307.3922049999237 s, transmitted = 0.268800000000096 MiB
+ecd-psgd-random: t = 29000, epoch = 2, iter = 9000, loss = 0.6931471807231746, accuracy = 0.50004, elapsed = 318.2167582511902 s, transmitted = 0.27840000000007276 MiB
+epoch 2: loss 0.6931471822646098 score 0.499205
+ecd-psgd-random: t = 30000, epoch = 3, iter = 0, loss = 0.6931471822646098, accuracy = 0.499205, elapsed = 329.85304737091064 s, transmitted = 0.2880000000000495 MiB
+ecd-psgd-random: t = 31000, epoch = 3, iter = 1000, loss = 0.6931472042257755, accuracy = 0.4919825, elapsed = 340.6641614437103 s, transmitted = 0.2976000000000262 MiB
+ecd-psgd-random: t = 32000, epoch = 3, iter = 2000, loss = 0.693147201927349, accuracy = 0.4937625, elapsed = 351.48123598098755 s, transmitted = 0.3072000000000029 MiB
+ecd-psgd-random: t = 33000, epoch = 3, iter = 3000, loss = 0.6931471999738412, accuracy = 0.494045, elapsed = 362.3029601573944 s, transmitted = 0.31679999999997965 MiB
+ecd-psgd-random: t = 34000, epoch = 3, iter = 4000, loss = 0.6931471998466923, accuracy = 0.4934525, elapsed = 373.16975474357605 s, transmitted = 0.32639999999995634 MiB
+ecd-psgd-random: t = 35000, epoch = 3, iter = 5000, loss = 0.6931472035509968, accuracy = 0.4921925, elapsed = 383.98243713378906 s, transmitted = 0.3359999999999331 MiB
+ecd-psgd-random: t = 36000, epoch = 3, iter = 6000, loss = 0.6931472080293665, accuracy = 0.4915575, elapsed = 394.7894854545593 s, transmitted = 0.34559999999990976 MiB
+ecd-psgd-random: t = 37000, epoch = 3, iter = 7000, loss = 0.6931472041950204, accuracy = 0.4917675, elapsed = 405.6019015312195 s, transmitted = 0.3551999999998865 MiB
+ecd-psgd-random: t = 38000, epoch = 3, iter = 8000, loss = 0.6931471990562506, accuracy = 0.4931125, elapsed = 416.3836169242859 s, transmitted = 0.36479999999986323 MiB
+ecd-psgd-random: t = 39000, epoch = 3, iter = 9000, loss = 0.6931471997656868, accuracy = 0.4919125, elapsed = 427.1545612812042 s, transmitted = 0.3743999999998399 MiB
+epoch 3: loss 0.6931472003522025 score 0.4910575
+ecd-psgd-random: t = 40000, epoch = 4, iter = 0, loss = 0.6931472003522025, accuracy = 0.4910575, elapsed = 438.81298184394836 s, transmitted = 0.38399999999981665 MiB
+ecd-psgd-random: t = 41000, epoch = 4, iter = 1000, loss = 0.6931471987297229, accuracy = 0.491885, elapsed = 449.6235556602478 s, transmitted = 0.39359999999979334 MiB
+ecd-psgd-random: t = 42000, epoch = 4, iter = 2000, loss = 0.6931471990925103, accuracy = 0.4909125, elapsed = 460.4324462413788 s, transmitted = 0.4031999999997701 MiB
+ecd-psgd-random: t = 43000, epoch = 4, iter = 3000, loss = 0.6931471987084863, accuracy = 0.4924425, elapsed = 471.2832353115082 s, transmitted = 0.4127999999997468 MiB
+ecd-psgd-random: t = 44000, epoch = 4, iter = 4000, loss = 0.6931472000402055, accuracy = 0.4928825, elapsed = 482.1056604385376 s, transmitted = 0.4223999999997235 MiB
+ecd-psgd-random: t = 45000, epoch = 4, iter = 5000, loss = 0.6931472022690257, accuracy = 0.4916425, elapsed = 492.9538486003876 s, transmitted = 0.43199999999970023 MiB
+ecd-psgd-random: t = 46000, epoch = 4, iter = 6000, loss = 0.6931472030295441, accuracy = 0.4913525, elapsed = 503.7748291492462 s, transmitted = 0.441599999999677 MiB
+ecd-psgd-random: t = 47000, epoch = 4, iter = 7000, loss = 0.6931472009129517, accuracy = 0.4931725, elapsed = 514.5762441158295 s, transmitted = 0.45119999999965366 MiB
+ecd-psgd-random: t = 48000, epoch = 4, iter = 8000, loss = 0.6931472001296092, accuracy = 0.4934975, elapsed = 525.3797867298126 s, transmitted = 0.4607999999996304 MiB
+ecd-psgd-random: t = 49000, epoch = 4, iter = 9000, loss = 0.6931471733059792, accuracy = 0.50174, elapsed = 536.1837956905365 s, transmitted = 0.4703999999996071 MiB
+epoch 4: loss 0.6931471729310957 score 0.50211
+ecd-psgd-random: t = 50000, epoch = 5, iter = 0, loss = 0.6931471729310957, accuracy = 0.50211, elapsed = 547.7618005275726 s, transmitted = 0.4799999999995838 MiB
+ecd-psgd-random: t = 51000, epoch = 5, iter = 1000, loss = 0.6931471724139882, accuracy = 0.50064, elapsed = 558.499858379364 s, transmitted = 0.48959999999956055 MiB
+ecd-psgd-random: t = 52000, epoch = 5, iter = 2000, loss = 0.693147173077726, accuracy = 0.50069, elapsed = 569.2529945373535 s, transmitted = 0.49919999999953724 MiB
+ecd-psgd-random: t = 53000, epoch = 5, iter = 3000, loss = 0.6931471743886374, accuracy = 0.5006525, elapsed = 580.0483770370483 s, transmitted = 0.508799999999514 MiB
+ecd-psgd-random: t = 54000, epoch = 5, iter = 4000, loss = 0.6931471731962924, accuracy = 0.501, elapsed = 590.8784413337708 s, transmitted = 0.5183999999994907 MiB
+ecd-psgd-random: t = 55000, epoch = 5, iter = 5000, loss = 0.6931471742789924, accuracy = 0.5006775, elapsed = 601.7070317268372 s, transmitted = 0.5279999999994675 MiB
+ecd-psgd-random: t = 56000, epoch = 5, iter = 6000, loss = 0.6931471746380545, accuracy = 0.50096, elapsed = 612.5502300262451 s, transmitted = 0.5375999999994441 MiB
+ecd-psgd-random: t = 57000, epoch = 5, iter = 7000, loss = 0.6931471741590193, accuracy = 0.5011, elapsed = 623.3937747478485 s, transmitted = 0.5471999999994208 MiB
+ecd-psgd-random: t = 58000, epoch = 5, iter = 8000, loss = 0.6931471733426159, accuracy = 0.50136, elapsed = 634.238960981369 s, transmitted = 0.5567999999993976 MiB
+ecd-psgd-random: t = 59000, epoch = 5, iter = 9000, loss = 0.6931471455508463, accuracy = 0.5109775, elapsed = 645.0833561420441 s, transmitted = 0.5663999999993743 MiB
+epoch 5: loss 0.693147136884689 score 0.515265
+ecd-psgd-random: t = 60000, epoch = 6, iter = 0, loss = 0.693147136884689, accuracy = 0.515265, elapsed = 656.7834284305573 s, transmitted = 0.575999999999351 MiB
+ecd-psgd-random: t = 61000, epoch = 6, iter = 1000, loss = 0.6931471532153765, accuracy = 0.5086175, elapsed = 667.627231836319 s, transmitted = 0.5855999999993277 MiB
+ecd-psgd-random: t = 62000, epoch = 6, iter = 2000, loss = 0.6931471530094245, accuracy = 0.5088, elapsed = 678.4690346717834 s, transmitted = 0.5951999999993044 MiB
+ecd-psgd-random: t = 63000, epoch = 6, iter = 3000, loss = 0.6931471535425047, accuracy = 0.5090675, elapsed = 689.3161082267761 s, transmitted = 0.6047999999992811 MiB
+ecd-psgd-random: t = 64000, epoch = 6, iter = 4000, loss = 0.6931471541711826, accuracy = 0.5091675, elapsed = 700.1537866592407 s, transmitted = 0.6143999999992579 MiB
+ecd-psgd-random: t = 65000, epoch = 6, iter = 5000, loss = 0.6931471283430928, accuracy = 0.50287, elapsed = 710.9970772266388 s, transmitted = 0.6239999999992346 MiB
+ecd-psgd-random: t = 66000, epoch = 6, iter = 6000, loss = 0.693147129930015, accuracy = 0.5028625, elapsed = 721.842570066452 s, transmitted = 0.6335999999992112 MiB
+ecd-psgd-random: t = 67000, epoch = 6, iter = 7000, loss = 0.6931471308522497, accuracy = 0.50265, elapsed = 732.6919958591461 s, transmitted = 0.643199999999188 MiB
+ecd-psgd-random: t = 68000, epoch = 6, iter = 8000, loss = 0.6931471322199045, accuracy = 0.5026475, elapsed = 743.5619447231293 s, transmitted = 0.6527999999991647 MiB
+ecd-psgd-random: t = 69000, epoch = 6, iter = 9000, loss = 0.6931471321879698, accuracy = 0.502815, elapsed = 754.3958072662354 s, transmitted = 0.6623999999991415 MiB
+epoch 6: loss 0.6931471341663854 score 0.5027575
+ecd-psgd-random: t = 70000, epoch = 7, iter = 0, loss = 0.6931471341663854, accuracy = 0.5027575, elapsed = 766.0589888095856 s, transmitted = 0.6719999999991182 MiB
+ecd-psgd-random: t = 71000, epoch = 7, iter = 1000, loss = 0.6931471358253879, accuracy = 0.5027225, elapsed = 776.8978984355927 s, transmitted = 0.6815999999990948 MiB
+ecd-psgd-random: t = 72000, epoch = 7, iter = 2000, loss = 0.6931471373009984, accuracy = 0.502805, elapsed = 787.7380952835083 s, transmitted = 0.6911999999990716 MiB
+ecd-psgd-random: t = 73000, epoch = 7, iter = 3000, loss = 0.6931471389550813, accuracy = 0.502715, elapsed = 798.6170854568481 s, transmitted = 0.7007999999990483 MiB
+ecd-psgd-random: t = 74000, epoch = 7, iter = 4000, loss = 0.6931471399044942, accuracy = 0.50283, elapsed = 809.483062505722 s, transmitted = 0.710399999999025 MiB
+ecd-psgd-random: t = 75000, epoch = 7, iter = 5000, loss = 0.6931471410159535, accuracy = 0.50275, elapsed = 820.3519911766052 s, transmitted = 0.7199999999990018 MiB
+ecd-psgd-random: t = 76000, epoch = 7, iter = 6000, loss = 0.693147141262303, accuracy = 0.5029025, elapsed = 831.2187449932098 s, transmitted = 0.7295999999989785 MiB
+ecd-psgd-random: t = 77000, epoch = 7, iter = 7000, loss = 0.6931471425674245, accuracy = 0.5027875, elapsed = 842.096319437027 s, transmitted = 0.7391999999989551 MiB
+ecd-psgd-random: t = 78000, epoch = 7, iter = 8000, loss = 0.6931471447997308, accuracy = 0.5027325, elapsed = 852.8256006240845 s, transmitted = 0.7487999999989319 MiB
+ecd-psgd-random: t = 79000, epoch = 7, iter = 9000, loss = 0.6931471442447831, accuracy = 0.5029175, elapsed = 863.5804860591888 s, transmitted = 0.7583999999989086 MiB
+epoch 7: loss 0.6931471450645286 score 0.502975
+ecd-psgd-random: t = 80000, epoch = 8, iter = 0, loss = 0.6931471450645286, accuracy = 0.502975, elapsed = 875.1765558719635 s, transmitted = 0.7679999999988854 MiB
+ecd-psgd-random: t = 81000, epoch = 8, iter = 1000, loss = 0.6931471474115355, accuracy = 0.5027675, elapsed = 885.9290838241577 s, transmitted = 0.7775999999988621 MiB
+ecd-psgd-random: t = 82000, epoch = 8, iter = 2000, loss = 0.6931471462357934, accuracy = 0.50294, elapsed = 896.6881387233734 s, transmitted = 0.7871999999988387 MiB
+ecd-psgd-random: t = 83000, epoch = 8, iter = 3000, loss = 0.6931471474104791, accuracy = 0.5028825, elapsed = 907.4176659584045 s, transmitted = 0.7967999999988155 MiB
+ecd-psgd-random: t = 84000, epoch = 8, iter = 4000, loss = 0.6931471491023191, accuracy = 0.502825, elapsed = 918.1631922721863 s, transmitted = 0.8063999999987922 MiB
+ecd-psgd-random: t = 85000, epoch = 8, iter = 5000, loss = 0.6931471500329087, accuracy = 0.502855, elapsed = 928.8848683834076 s, transmitted = 0.8159999999987689 MiB
+ecd-psgd-random: t = 86000, epoch = 8, iter = 6000, loss = 0.6931471615497646, accuracy = 0.50185, elapsed = 939.63569688797 s, transmitted = 0.8255999999987457 MiB
+ecd-psgd-random: t = 87000, epoch = 8, iter = 7000, loss = 0.6931471622245593, accuracy = 0.501665, elapsed = 950.3858699798584 s, transmitted = 0.8351999999987223 MiB
+ecd-psgd-random: t = 88000, epoch = 8, iter = 8000, loss = 0.6931471626715713, accuracy = 0.5016675, elapsed = 961.0383172035217 s, transmitted = 0.844799999998699 MiB
+ecd-psgd-random: t = 89000, epoch = 8, iter = 9000, loss = 0.6931471632969087, accuracy = 0.5023775, elapsed = 971.7838859558105 s, transmitted = 0.8543999999986758 MiB
+epoch 8: loss 0.6931471635838782 score 0.50245
+ecd-psgd-random: t = 90000, epoch = 9, iter = 0, loss = 0.6931471635838782, accuracy = 0.50245, elapsed = 983.3782913684845 s, transmitted = 0.8639999999986525 MiB
+ecd-psgd-random: t = 91000, epoch = 9, iter = 1000, loss = 0.6931471635814227, accuracy = 0.502065, elapsed = 994.1937832832336 s, transmitted = 0.8735999999986293 MiB
+ecd-psgd-random: t = 92000, epoch = 9, iter = 2000, loss = 0.6931471635498655, accuracy = 0.50219, elapsed = 1005.1017618179321 s, transmitted = 0.8831999999986059 MiB
+ecd-psgd-random: t = 93000, epoch = 9, iter = 3000, loss = 0.6931471640812281, accuracy = 0.50221, elapsed = 1016.0075299739838 s, transmitted = 0.8927999999985826 MiB
+ecd-psgd-random: t = 94000, epoch = 9, iter = 4000, loss = 0.693147164315305, accuracy = 0.502055, elapsed = 1026.9257488250732 s, transmitted = 0.9023999999985594 MiB
+ecd-psgd-random: t = 95000, epoch = 9, iter = 5000, loss = 0.6931471648374736, accuracy = 0.501985, elapsed = 1037.807641029358 s, transmitted = 0.9119999999985361 MiB
+ecd-psgd-random: t = 96000, epoch = 9, iter = 6000, loss = 0.6931471649028809, accuracy = 0.5020875, elapsed = 1048.6870167255402 s, transmitted = 0.9215999999985128 MiB
+ecd-psgd-random: t = 97000, epoch = 9, iter = 7000, loss = 0.6931471641530186, accuracy = 0.50196, elapsed = 1059.5755894184113 s, transmitted = 0.9311999999984895 MiB
+ecd-psgd-random: t = 98000, epoch = 9, iter = 8000, loss = 0.6931471653468007, accuracy = 0.50185, elapsed = 1070.4715576171875 s, transmitted = 0.9407999999984662 MiB
+ecd-psgd-random: t = 99000, epoch = 9, iter = 9000, loss = 0.6931471656571039, accuracy = 0.50189, elapsed = 1081.355684041977 s, transmitted = 0.9503999999984429 MiB
+epoch 9: loss 0.6931471662225308 score 0.501855
+Training took: 1092.2118649482727s
+ecd-psgd-random - score: 0.501855
+(array([0.69320293, 0.69314717, 0.69314716, 0.69314718, 0.6931472 ,
+       0.69314717, 0.69314714, 0.69314713, 0.69314715, 0.69314716,
+       0.69314717]), array([0.69320293, 0.69314721, 0.6931472 , 0.69314718, 0.69314719,
+       0.69314718, 0.69314718, 0.69314718, 0.69314717, 0.69314717,
+       0.69314717, 0.69314717, 0.69314712, 0.69314712, 0.69314714,
+       0.69314714, 0.69314713, 0.69314714, 0.69314716, 0.69314716,
+       0.69314716, 0.69314716, 0.69314716, 0.69314716, 0.69314717,
+       0.69314718, 0.69314718, 0.69314718, 0.69314718, 0.69314718,
+       0.69314718, 0.6931472 , 0.6931472 , 0.6931472 , 0.6931472 ,
+       0.6931472 , 0.69314721, 0.6931472 , 0.6931472 , 0.6931472 ,
+       0.6931472 , 0.6931472 , 0.6931472 , 0.6931472 , 0.6931472 ,
+       0.6931472 , 0.6931472 , 0.6931472 , 0.6931472 , 0.69314717,
+       0.69314717, 0.69314717, 0.69314717, 0.69314717, 0.69314717,
+       0.69314717, 0.69314717, 0.69314717, 0.69314717, 0.69314715,
+       0.69314714, 0.69314715, 0.69314715, 0.69314715, 0.69314715,
+       0.69314713, 0.69314713, 0.69314713, 0.69314713, 0.69314713,
+       0.69314713, 0.69314714, 0.69314714, 0.69314714, 0.69314714,
+       0.69314714, 0.69314714, 0.69314714, 0.69314714, 0.69314714,
+       0.69314715, 0.69314715, 0.69314715, 0.69314715, 0.69314715,
+       0.69314715, 0.69314716, 0.69314716, 0.69314716, 0.69314716,
+       0.69314716, 0.69314716, 0.69314716, 0.69314716, 0.69314716,
+       0.69314716, 0.69314716, 0.69314716, 0.69314717, 0.69314717,
+       0.        ]))/users/arijitx/ChocoSGD/convex_code/base_logistic.py:29: RuntimeWarning: overflow encountered in exp
+  loss = np.sum(np.log(1 + np.exp(-y * (A @ x)))) / A.shape[0]
+
+results saved in "dump/epsilon-final-ecd-random-20-sorted-40/"

@@ -1,0 +1,1160 @@
+Namespace(experiment='final')
+load dataset
+start experiment
+length of indices: 40
+length of last machine indices: 10000
+Number of different labels: 2
+dpsgd-qsgd-4-unbiased: t = 0, epoch = 0, iter = 0, loss = 0.6932539074829182, accuracy = 0.4920525, elapsed = 0.812800407409668 s, transmitted = 0.0 MiB
+dpsgd-qsgd-4-unbiased: t = 1000, epoch = 0, iter = 1000, loss = 0.3473585755091947, accuracy = 0.8747275, elapsed = 6.806114673614502 s, transmitted = 0.06 MiB
+dpsgd-qsgd-4-unbiased: t = 2000, epoch = 0, iter = 2000, loss = 0.32195277900551417, accuracy = 0.88195, elapsed = 13.183784484863281 s, transmitted = 0.12 MiB
+dpsgd-qsgd-4-unbiased: t = 3000, epoch = 0, iter = 3000, loss = 0.31794379170771586, accuracy = 0.87657, elapsed = 19.21277141571045 s, transmitted = 0.18 MiB
+dpsgd-qsgd-4-unbiased: t = 4000, epoch = 0, iter = 4000, loss = 0.3067469727229247, accuracy = 0.888305, elapsed = 25.237102031707764 s, transmitted = 0.24 MiB
+dpsgd-qsgd-4-unbiased: t = 5000, epoch = 0, iter = 5000, loss = 0.3120844084997414, accuracy = 0.87745, elapsed = 31.26403021812439 s, transmitted = 0.3 MiB
+dpsgd-qsgd-4-unbiased: t = 6000, epoch = 0, iter = 6000, loss = 0.30123392473563587, accuracy = 0.890645, elapsed = 37.36385202407837 s, transmitted = 0.36 MiB
+dpsgd-qsgd-4-unbiased: t = 7000, epoch = 0, iter = 7000, loss = 0.29952142772843066, accuracy = 0.8909725, elapsed = 43.577913761138916 s, transmitted = 0.42 MiB
+dpsgd-qsgd-4-unbiased: t = 8000, epoch = 0, iter = 8000, loss = 0.2987028992629648, accuracy = 0.89085, elapsed = 49.7025260925293 s, transmitted = 0.48 MiB
+dpsgd-qsgd-4-unbiased: t = 9000, epoch = 0, iter = 9000, loss = 0.29712634410634614, accuracy = 0.89186, elapsed = 55.82847023010254 s, transmitted = 0.54 MiB
+epoch 0: loss 0.2963603788806805 score 0.8923725
+dpsgd-qsgd-4-unbiased: t = 10000, epoch = 1, iter = 0, loss = 0.2963603788806805, accuracy = 0.8923725, elapsed = 62.747944593429565 s, transmitted = 0.6 MiB
+dpsgd-qsgd-4-unbiased: t = 11000, epoch = 1, iter = 1000, loss = 0.29533793698055727, accuracy = 0.892655, elapsed = 68.7313916683197 s, transmitted = 0.66 MiB
+dpsgd-qsgd-4-unbiased: t = 12000, epoch = 1, iter = 2000, loss = 0.2947744617707928, accuracy = 0.892875, elapsed = 74.73030424118042 s, transmitted = 0.72 MiB
+dpsgd-qsgd-4-unbiased: t = 13000, epoch = 1, iter = 3000, loss = 0.29439335431192815, accuracy = 0.8931675, elapsed = 80.74043893814087 s, transmitted = 0.78 MiB
+dpsgd-qsgd-4-unbiased: t = 14000, epoch = 1, iter = 4000, loss = 0.295425592875823, accuracy = 0.8913425, elapsed = 86.7215518951416 s, transmitted = 0.84 MiB
+dpsgd-qsgd-4-unbiased: t = 15000, epoch = 1, iter = 5000, loss = 0.2934675140729323, accuracy = 0.893505, elapsed = 92.71278643608093 s, transmitted = 0.9 MiB
+dpsgd-qsgd-4-unbiased: t = 16000, epoch = 1, iter = 6000, loss = 0.29347536722591294, accuracy = 0.8932725, elapsed = 98.69711017608643 s, transmitted = 0.96 MiB
+dpsgd-qsgd-4-unbiased: t = 17000, epoch = 1, iter = 7000, loss = 0.2926855227873921, accuracy = 0.89405, elapsed = 104.68035054206848 s, transmitted = 1.02 MiB
+dpsgd-qsgd-4-unbiased: t = 18000, epoch = 1, iter = 8000, loss = 0.29248746872058873, accuracy = 0.893895, elapsed = 110.66052198410034 s, transmitted = 1.08 MiB
+dpsgd-qsgd-4-unbiased: t = 19000, epoch = 1, iter = 9000, loss = 0.29304392933998635, accuracy = 0.89294, elapsed = 116.66275262832642 s, transmitted = 1.14 MiB
+epoch 1: loss 0.29191056691138517 score 0.8942375
+dpsgd-qsgd-4-unbiased: t = 20000, epoch = 2, iter = 0, loss = 0.29191056691138517, accuracy = 0.8942375, elapsed = 123.52635145187378 s, transmitted = 1.2 MiB
+dpsgd-qsgd-4-unbiased: t = 21000, epoch = 2, iter = 1000, loss = 0.29156562927902663, accuracy = 0.8946625, elapsed = 129.52017617225647 s, transmitted = 1.26 MiB
+dpsgd-qsgd-4-unbiased: t = 22000, epoch = 2, iter = 2000, loss = 0.2916311733765861, accuracy = 0.894465, elapsed = 135.50375127792358 s, transmitted = 1.32 MiB
+dpsgd-qsgd-4-unbiased: t = 23000, epoch = 2, iter = 3000, loss = 0.2912747084272156, accuracy = 0.8946675, elapsed = 141.47998714447021 s, transmitted = 1.38 MiB
+dpsgd-qsgd-4-unbiased: t = 24000, epoch = 2, iter = 4000, loss = 0.29112882356470965, accuracy = 0.8947325, elapsed = 147.46396493911743 s, transmitted = 1.44 MiB
+dpsgd-qsgd-4-unbiased: t = 25000, epoch = 2, iter = 5000, loss = 0.2908558829216367, accuracy = 0.894895, elapsed = 153.4715187549591 s, transmitted = 1.5 MiB
+dpsgd-qsgd-4-unbiased: t = 26000, epoch = 2, iter = 6000, loss = 0.2911568596341544, accuracy = 0.8943175, elapsed = 159.45013737678528 s, transmitted = 1.56 MiB
+dpsgd-qsgd-4-unbiased: t = 27000, epoch = 2, iter = 7000, loss = 0.2906341263027169, accuracy = 0.894815, elapsed = 165.44699096679688 s, transmitted = 1.62 MiB
+dpsgd-qsgd-4-unbiased: t = 28000, epoch = 2, iter = 8000, loss = 0.29043062539133496, accuracy = 0.894945, elapsed = 171.4225766658783 s, transmitted = 1.68 MiB
+dpsgd-qsgd-4-unbiased: t = 29000, epoch = 2, iter = 9000, loss = 0.29030616219255656, accuracy = 0.8951025, elapsed = 177.41632723808289 s, transmitted = 1.74 MiB
+epoch 2: loss 0.2901277735896491 score 0.8952275
+dpsgd-qsgd-4-unbiased: t = 30000, epoch = 3, iter = 0, loss = 0.2901277735896491, accuracy = 0.8952275, elapsed = 184.25057983398438 s, transmitted = 1.8 MiB
+dpsgd-qsgd-4-unbiased: t = 31000, epoch = 3, iter = 1000, loss = 0.2900048296705513, accuracy = 0.8952275, elapsed = 190.2503957748413 s, transmitted = 1.86 MiB
+dpsgd-qsgd-4-unbiased: t = 32000, epoch = 3, iter = 2000, loss = 0.2898477451336763, accuracy = 0.89528, elapsed = 196.20342087745667 s, transmitted = 1.92 MiB
+dpsgd-qsgd-4-unbiased: t = 33000, epoch = 3, iter = 3000, loss = 0.2898055827315344, accuracy = 0.8954575, elapsed = 202.18584084510803 s, transmitted = 1.98 MiB
+dpsgd-qsgd-4-unbiased: t = 34000, epoch = 3, iter = 4000, loss = 0.2897517332167569, accuracy = 0.8952525, elapsed = 208.16936326026917 s, transmitted = 2.04 MiB
+dpsgd-qsgd-4-unbiased: t = 35000, epoch = 3, iter = 5000, loss = 0.2896654485889166, accuracy = 0.8951675, elapsed = 214.14962244033813 s, transmitted = 2.1 MiB
+dpsgd-qsgd-4-unbiased: t = 36000, epoch = 3, iter = 6000, loss = 0.2894946374369318, accuracy = 0.895405, elapsed = 220.1573407649994 s, transmitted = 2.16 MiB
+dpsgd-qsgd-4-unbiased: t = 37000, epoch = 3, iter = 7000, loss = 0.28947054914482817, accuracy = 0.8953675, elapsed = 226.17307686805725 s, transmitted = 2.22 MiB
+dpsgd-qsgd-4-unbiased: t = 38000, epoch = 3, iter = 8000, loss = 0.28944633222670746, accuracy = 0.8954, elapsed = 232.15656638145447 s, transmitted = 2.28 MiB
+dpsgd-qsgd-4-unbiased: t = 39000, epoch = 3, iter = 9000, loss = 0.28921342097856884, accuracy = 0.8956625, elapsed = 238.1400876045227 s, transmitted = 2.34 MiB
+epoch 3: loss 0.28914618870340736 score 0.8956125
+dpsgd-qsgd-4-unbiased: t = 40000, epoch = 4, iter = 0, loss = 0.28914618870340736, accuracy = 0.8956125, elapsed = 244.97753500938416 s, transmitted = 2.4 MiB
+dpsgd-qsgd-4-unbiased: t = 41000, epoch = 4, iter = 1000, loss = 0.2891220645853021, accuracy = 0.89564, elapsed = 250.95153546333313 s, transmitted = 2.46 MiB
+dpsgd-qsgd-4-unbiased: t = 42000, epoch = 4, iter = 2000, loss = 0.28928106448183294, accuracy = 0.895455, elapsed = 257.0671217441559 s, transmitted = 2.52 MiB
+dpsgd-qsgd-4-unbiased: t = 43000, epoch = 4, iter = 3000, loss = 0.2891044215081444, accuracy = 0.8956575, elapsed = 263.18604040145874 s, transmitted = 2.58 MiB
+dpsgd-qsgd-4-unbiased: t = 44000, epoch = 4, iter = 4000, loss = 0.28890560569542423, accuracy = 0.895905, elapsed = 269.39513778686523 s, transmitted = 2.64 MiB
+dpsgd-qsgd-4-unbiased: t = 45000, epoch = 4, iter = 5000, loss = 0.28925343683332777, accuracy = 0.8952575, elapsed = 275.36265659332275 s, transmitted = 2.7 MiB
+dpsgd-qsgd-4-unbiased: t = 46000, epoch = 4, iter = 6000, loss = 0.2888774393551919, accuracy = 0.895715, elapsed = 281.3250434398651 s, transmitted = 2.76 MiB
+dpsgd-qsgd-4-unbiased: t = 47000, epoch = 4, iter = 7000, loss = 0.2888118894652529, accuracy = 0.895905, elapsed = 287.330283164978 s, transmitted = 2.82 MiB
+dpsgd-qsgd-4-unbiased: t = 48000, epoch = 4, iter = 8000, loss = 0.2887131602417969, accuracy = 0.896005, elapsed = 293.35007071495056 s, transmitted = 2.88 MiB
+dpsgd-qsgd-4-unbiased: t = 49000, epoch = 4, iter = 9000, loss = 0.2886457645548702, accuracy = 0.8959525, elapsed = 299.36900186538696 s, transmitted = 2.94 MiB
+epoch 4: loss 0.2886021497405288 score 0.8960125
+dpsgd-qsgd-4-unbiased: t = 50000, epoch = 5, iter = 0, loss = 0.2886021497405288, accuracy = 0.8960125, elapsed = 306.19158482551575 s, transmitted = 3.0 MiB
+dpsgd-qsgd-4-unbiased: t = 51000, epoch = 5, iter = 1000, loss = 0.28857948545071144, accuracy = 0.89601, elapsed = 312.2019076347351 s, transmitted = 3.06 MiB
+dpsgd-qsgd-4-unbiased: t = 52000, epoch = 5, iter = 2000, loss = 0.28848003020781354, accuracy = 0.896055, elapsed = 318.2207040786743 s, transmitted = 3.12 MiB
+dpsgd-qsgd-4-unbiased: t = 53000, epoch = 5, iter = 3000, loss = 0.2884105338260442, accuracy = 0.89612, elapsed = 324.2041325569153 s, transmitted = 3.18 MiB
+dpsgd-qsgd-4-unbiased: t = 54000, epoch = 5, iter = 4000, loss = 0.2885710729668103, accuracy = 0.8959, elapsed = 330.1931777000427 s, transmitted = 3.24 MiB
+dpsgd-qsgd-4-unbiased: t = 55000, epoch = 5, iter = 5000, loss = 0.2883013952543778, accuracy = 0.89622, elapsed = 336.1624937057495 s, transmitted = 3.3 MiB
+dpsgd-qsgd-4-unbiased: t = 56000, epoch = 5, iter = 6000, loss = 0.28825206088394756, accuracy = 0.8962325, elapsed = 342.0689465999603 s, transmitted = 3.36 MiB
+dpsgd-qsgd-4-unbiased: t = 57000, epoch = 5, iter = 7000, loss = 0.2882212046762212, accuracy = 0.896255, elapsed = 348.07595348358154 s, transmitted = 3.42 MiB
+dpsgd-qsgd-4-unbiased: t = 58000, epoch = 5, iter = 8000, loss = 0.2883158515625746, accuracy = 0.896205, elapsed = 354.115464925766 s, transmitted = 3.48 MiB
+dpsgd-qsgd-4-unbiased: t = 59000, epoch = 5, iter = 9000, loss = 0.28817570252267305, accuracy = 0.8962, elapsed = 360.133095741272 s, transmitted = 3.54 MiB
+epoch 5: loss 0.2881654553986582 score 0.8962475
+dpsgd-qsgd-4-unbiased: t = 60000, epoch = 6, iter = 0, loss = 0.2881654553986582, accuracy = 0.8962475, elapsed = 366.99988865852356 s, transmitted = 3.6 MiB
+dpsgd-qsgd-4-unbiased: t = 61000, epoch = 6, iter = 1000, loss = 0.28814595858243447, accuracy = 0.89623, elapsed = 372.9984471797943 s, transmitted = 3.66 MiB
+dpsgd-qsgd-4-unbiased: t = 62000, epoch = 6, iter = 2000, loss = 0.288041172628689, accuracy = 0.8964025, elapsed = 379.01626563072205 s, transmitted = 3.72 MiB
+dpsgd-qsgd-4-unbiased: t = 63000, epoch = 6, iter = 3000, loss = 0.28803721178042946, accuracy = 0.89636, elapsed = 385.03436064720154 s, transmitted = 3.78 MiB
+dpsgd-qsgd-4-unbiased: t = 64000, epoch = 6, iter = 4000, loss = 0.2880501748491828, accuracy = 0.8963175, elapsed = 391.0502915382385 s, transmitted = 3.84 MiB
+dpsgd-qsgd-4-unbiased: t = 65000, epoch = 6, iter = 5000, loss = 0.28805436564892795, accuracy = 0.8961475, elapsed = 397.10090041160583 s, transmitted = 3.9 MiB
+dpsgd-qsgd-4-unbiased: t = 66000, epoch = 6, iter = 6000, loss = 0.2879026501470024, accuracy = 0.8963625, elapsed = 403.12012910842896 s, transmitted = 3.96 MiB
+dpsgd-qsgd-4-unbiased: t = 67000, epoch = 6, iter = 7000, loss = 0.2880900363206436, accuracy = 0.8960875, elapsed = 409.15276408195496 s, transmitted = 4.02 MiB
+dpsgd-qsgd-4-unbiased: t = 68000, epoch = 6, iter = 8000, loss = 0.2878642119274605, accuracy = 0.896515, elapsed = 415.18703842163086 s, transmitted = 4.08 MiB
+dpsgd-qsgd-4-unbiased: t = 69000, epoch = 6, iter = 9000, loss = 0.28782008060033354, accuracy = 0.8964975, elapsed = 421.21753001213074 s, transmitted = 4.14 MiB
+epoch 6: loss 0.28805616478155 score 0.896035
+dpsgd-qsgd-4-unbiased: t = 70000, epoch = 7, iter = 0, loss = 0.28805616478155, accuracy = 0.896035, elapsed = 428.0921366214752 s, transmitted = 4.2 MiB
+dpsgd-qsgd-4-unbiased: t = 71000, epoch = 7, iter = 1000, loss = 0.28776520667262034, accuracy = 0.896435, elapsed = 434.0847747325897 s, transmitted = 4.26 MiB
+dpsgd-qsgd-4-unbiased: t = 72000, epoch = 7, iter = 2000, loss = 0.2877456681015815, accuracy = 0.8964325, elapsed = 440.0920081138611 s, transmitted = 4.32 MiB
+dpsgd-qsgd-4-unbiased: t = 73000, epoch = 7, iter = 3000, loss = 0.2876854996645316, accuracy = 0.8965775, elapsed = 446.12277841567993 s, transmitted = 4.38 MiB
+dpsgd-qsgd-4-unbiased: t = 74000, epoch = 7, iter = 4000, loss = 0.2876743752818804, accuracy = 0.8966, elapsed = 452.1430697441101 s, transmitted = 4.44 MiB
+dpsgd-qsgd-4-unbiased: t = 75000, epoch = 7, iter = 5000, loss = 0.28771251326921693, accuracy = 0.896445, elapsed = 458.18991804122925 s, transmitted = 4.5 MiB
+dpsgd-qsgd-4-unbiased: t = 76000, epoch = 7, iter = 6000, loss = 0.2876994860239286, accuracy = 0.8964075, elapsed = 464.21695256233215 s, transmitted = 4.56 MiB
+dpsgd-qsgd-4-unbiased: t = 77000, epoch = 7, iter = 7000, loss = 0.2877067352221209, accuracy = 0.896395, elapsed = 470.2328517436981 s, transmitted = 4.62 MiB
+dpsgd-qsgd-4-unbiased: t = 78000, epoch = 7, iter = 8000, loss = 0.28755059524558063, accuracy = 0.8965975, elapsed = 476.2460958957672 s, transmitted = 4.68 MiB
+dpsgd-qsgd-4-unbiased: t = 79000, epoch = 7, iter = 9000, loss = 0.2875466640642792, accuracy = 0.8966675, elapsed = 482.2646749019623 s, transmitted = 4.74 MiB
+epoch 7: loss 0.287535365548837 score 0.89663
+dpsgd-qsgd-4-unbiased: t = 80000, epoch = 8, iter = 0, loss = 0.287535365548837, accuracy = 0.89663, elapsed = 489.101544380188 s, transmitted = 4.8 MiB
+dpsgd-qsgd-4-unbiased: t = 81000, epoch = 8, iter = 1000, loss = 0.2874919752567993, accuracy = 0.8966075, elapsed = 495.15386843681335 s, transmitted = 4.86 MiB
+dpsgd-qsgd-4-unbiased: t = 82000, epoch = 8, iter = 2000, loss = 0.28760774914997267, accuracy = 0.8964575, elapsed = 501.1834578514099 s, transmitted = 4.92 MiB
+dpsgd-qsgd-4-unbiased: t = 83000, epoch = 8, iter = 3000, loss = 0.2874617532685863, accuracy = 0.8966775, elapsed = 507.19766545295715 s, transmitted = 4.98 MiB
+dpsgd-qsgd-4-unbiased: t = 84000, epoch = 8, iter = 4000, loss = 0.2874229404366937, accuracy = 0.8966375, elapsed = 513.2091920375824 s, transmitted = 5.04 MiB
+dpsgd-qsgd-4-unbiased: t = 85000, epoch = 8, iter = 5000, loss = 0.2873731094703936, accuracy = 0.896795, elapsed = 519.2370400428772 s, transmitted = 5.1 MiB
+dpsgd-qsgd-4-unbiased: t = 86000, epoch = 8, iter = 6000, loss = 0.28733044915900047, accuracy = 0.8968175, elapsed = 525.2451295852661 s, transmitted = 5.16 MiB
+dpsgd-qsgd-4-unbiased: t = 87000, epoch = 8, iter = 7000, loss = 0.28731503188645363, accuracy = 0.89681, elapsed = 531.2636594772339 s, transmitted = 5.22 MiB
+dpsgd-qsgd-4-unbiased: t = 88000, epoch = 8, iter = 8000, loss = 0.2872827206793039, accuracy = 0.8968675, elapsed = 537.3059892654419 s, transmitted = 5.28 MiB
+dpsgd-qsgd-4-unbiased: t = 89000, epoch = 8, iter = 9000, loss = 0.2873059167863458, accuracy = 0.8966275, elapsed = 543.3378012180328 s, transmitted = 5.34 MiB
+epoch 8: loss 0.28721617720794734 score 0.8968075
+dpsgd-qsgd-4-unbiased: t = 90000, epoch = 9, iter = 0, loss = 0.28721617720794734, accuracy = 0.8968075, elapsed = 550.2285106182098 s, transmitted = 5.4 MiB
+dpsgd-qsgd-4-unbiased: t = 91000, epoch = 9, iter = 1000, loss = 0.2872418466511874, accuracy = 0.8967475, elapsed = 556.2556977272034 s, transmitted = 5.46 MiB
+dpsgd-qsgd-4-unbiased: t = 92000, epoch = 9, iter = 2000, loss = 0.2872165976857609, accuracy = 0.8968275, elapsed = 562.2864193916321 s, transmitted = 5.52 MiB
+dpsgd-qsgd-4-unbiased: t = 93000, epoch = 9, iter = 3000, loss = 0.2871681007050308, accuracy = 0.8968625, elapsed = 568.3316938877106 s, transmitted = 5.58 MiB
+dpsgd-qsgd-4-unbiased: t = 94000, epoch = 9, iter = 4000, loss = 0.28719842325231515, accuracy = 0.89673, elapsed = 574.3864524364471 s, transmitted = 5.64 MiB
+dpsgd-qsgd-4-unbiased: t = 95000, epoch = 9, iter = 5000, loss = 0.2871664016838374, accuracy = 0.8967925, elapsed = 580.41783618927 s, transmitted = 5.7 MiB
+dpsgd-qsgd-4-unbiased: t = 96000, epoch = 9, iter = 6000, loss = 0.2870980348090693, accuracy = 0.89687, elapsed = 586.4621648788452 s, transmitted = 5.76 MiB
+dpsgd-qsgd-4-unbiased: t = 97000, epoch = 9, iter = 7000, loss = 0.2870755220271455, accuracy = 0.896965, elapsed = 592.5026569366455 s, transmitted = 5.82 MiB
+dpsgd-qsgd-4-unbiased: t = 98000, epoch = 9, iter = 8000, loss = 0.28710160409982793, accuracy = 0.8970075, elapsed = 598.5532813072205 s, transmitted = 5.88 MiB
+dpsgd-qsgd-4-unbiased: t = 99000, epoch = 9, iter = 9000, loss = 0.28704405622010853, accuracy = 0.8969625, elapsed = 604.6131205558777 s, transmitted = 5.94 MiB
+epoch 9: loss 0.28703754324217595 score 0.8969725
+Training took: 610.6355564594269s
+dpsgd-qsgd-4-unbiased - score: 0.8969725
+(array([0.69325391, 0.29636038, 0.29191057, 0.29012777, 0.28914619,
+       0.28860215, 0.28816546, 0.28805616, 0.28753537, 0.28721618,
+       0.28703754]), array([0.69325391, 0.34735858, 0.32195278, 0.31794379, 0.30674697,
+       0.31208441, 0.30123392, 0.29952143, 0.2987029 , 0.29712634,
+       0.29636038, 0.29533794, 0.29477446, 0.29439335, 0.29542559,
+       0.29346751, 0.29347537, 0.29268552, 0.29248747, 0.29304393,
+       0.29191057, 0.29156563, 0.29163117, 0.29127471, 0.29112882,
+       0.29085588, 0.29115686, 0.29063413, 0.29043063, 0.29030616,
+       0.29012777, 0.29000483, 0.28984775, 0.28980558, 0.28975173,
+       0.28966545, 0.28949464, 0.28947055, 0.28944633, 0.28921342,
+       0.28914619, 0.28912206, 0.28928106, 0.28910442, 0.28890561,
+       0.28925344, 0.28887744, 0.28881189, 0.28871316, 0.28864576,
+       0.28860215, 0.28857949, 0.28848003, 0.28841053, 0.28857107,
+       0.2883014 , 0.28825206, 0.2882212 , 0.28831585, 0.2881757 ,
+       0.28816546, 0.28814596, 0.28804117, 0.28803721, 0.28805017,
+       0.28805437, 0.28790265, 0.28809004, 0.28786421, 0.28782008,
+       0.28805616, 0.28776521, 0.28774567, 0.2876855 , 0.28767438,
+       0.28771251, 0.28769949, 0.28770674, 0.2875506 , 0.28754666,
+       0.28753537, 0.28749198, 0.28760775, 0.28746175, 0.28742294,
+       0.28737311, 0.28733045, 0.28731503, 0.28728272, 0.28730592,
+       0.28721618, 0.28724185, 0.2872166 , 0.2871681 , 0.28719842,
+       0.2871664 , 0.28709803, 0.28707552, 0.2871016 , 0.28704406,
+       0.        ]))
+results saved in "dump/epsilon-final-decentralized-ring-sorted-40/"
+load dataset
+start experiment
+length of indices: 40
+length of last machine indices: 10000
+Number of different labels: 2
+dpsgd-qsgd-8-unbiased: t = 0, epoch = 0, iter = 0, loss = 0.6934951025958344, accuracy = 0.4700675, elapsed = 0.8574824333190918 s, transmitted = 0.0 MiB
+dpsgd-qsgd-8-unbiased: t = 1000, epoch = 0, iter = 1000, loss = 0.3518772099220071, accuracy = 0.8632225, elapsed = 6.823209047317505 s, transmitted = 0.12 MiB
+dpsgd-qsgd-8-unbiased: t = 2000, epoch = 0, iter = 2000, loss = 0.32314890942835495, accuracy = 0.879545, elapsed = 12.75588870048523 s, transmitted = 0.24 MiB
+dpsgd-qsgd-8-unbiased: t = 3000, epoch = 0, iter = 3000, loss = 0.31173261411960235, accuracy = 0.8862775, elapsed = 18.690644025802612 s, transmitted = 0.36 MiB
+dpsgd-qsgd-8-unbiased: t = 4000, epoch = 0, iter = 4000, loss = 0.30679909067076905, accuracy = 0.88794, elapsed = 24.644474983215332 s, transmitted = 0.48 MiB
+dpsgd-qsgd-8-unbiased: t = 5000, epoch = 0, iter = 5000, loss = 0.30344109939786335, accuracy = 0.88964, elapsed = 30.610894203186035 s, transmitted = 0.6 MiB
+dpsgd-qsgd-8-unbiased: t = 6000, epoch = 0, iter = 6000, loss = 0.30079878678345884, accuracy = 0.8906625, elapsed = 36.581324338912964 s, transmitted = 0.72 MiB
+dpsgd-qsgd-8-unbiased: t = 7000, epoch = 0, iter = 7000, loss = 0.2996678858588118, accuracy = 0.89046, elapsed = 42.54278635978699 s, transmitted = 0.84 MiB
+dpsgd-qsgd-8-unbiased: t = 8000, epoch = 0, iter = 8000, loss = 0.2979337386058716, accuracy = 0.8915625, elapsed = 48.47030019760132 s, transmitted = 0.96 MiB
+dpsgd-qsgd-8-unbiased: t = 9000, epoch = 0, iter = 9000, loss = 0.29695992304018026, accuracy = 0.8919825, elapsed = 54.39760899543762 s, transmitted = 1.08 MiB
+epoch 0: loss 0.2967861454903826 score 0.8913575
+dpsgd-qsgd-8-unbiased: t = 10000, epoch = 1, iter = 0, loss = 0.2967861454903826, accuracy = 0.8913575, elapsed = 61.17321157455444 s, transmitted = 1.2 MiB
+dpsgd-qsgd-8-unbiased: t = 11000, epoch = 1, iter = 1000, loss = 0.29549079830714214, accuracy = 0.892475, elapsed = 67.1069962978363 s, transmitted = 1.32 MiB
+dpsgd-qsgd-8-unbiased: t = 12000, epoch = 1, iter = 2000, loss = 0.29464129693214797, accuracy = 0.8931325, elapsed = 73.04071640968323 s, transmitted = 1.44 MiB
+dpsgd-qsgd-8-unbiased: t = 13000, epoch = 1, iter = 3000, loss = 0.2942705709313208, accuracy = 0.8931175, elapsed = 78.98455166816711 s, transmitted = 1.56 MiB
+dpsgd-qsgd-8-unbiased: t = 14000, epoch = 1, iter = 4000, loss = 0.2937363573508167, accuracy = 0.89329, elapsed = 84.95338821411133 s, transmitted = 1.68 MiB
+dpsgd-qsgd-8-unbiased: t = 15000, epoch = 1, iter = 5000, loss = 0.2932834216716009, accuracy = 0.8936575, elapsed = 90.92301106452942 s, transmitted = 1.8 MiB
+dpsgd-qsgd-8-unbiased: t = 16000, epoch = 1, iter = 6000, loss = 0.29292928956960307, accuracy = 0.8939725, elapsed = 96.90242052078247 s, transmitted = 1.92 MiB
+dpsgd-qsgd-8-unbiased: t = 17000, epoch = 1, iter = 7000, loss = 0.2928407808676546, accuracy = 0.89395, elapsed = 102.89666795730591 s, transmitted = 2.04 MiB
+dpsgd-qsgd-8-unbiased: t = 18000, epoch = 1, iter = 8000, loss = 0.2922603506302487, accuracy = 0.8942675, elapsed = 108.88751077651978 s, transmitted = 2.16 MiB
+dpsgd-qsgd-8-unbiased: t = 19000, epoch = 1, iter = 9000, loss = 0.2920407856715959, accuracy = 0.894305, elapsed = 114.88789057731628 s, transmitted = 2.28 MiB
+epoch 1: loss 0.291842022733332 score 0.89441
+dpsgd-qsgd-8-unbiased: t = 20000, epoch = 2, iter = 0, loss = 0.291842022733332, accuracy = 0.89441, elapsed = 121.69499731063843 s, transmitted = 2.4 MiB
+dpsgd-qsgd-8-unbiased: t = 21000, epoch = 2, iter = 1000, loss = 0.2915958995403596, accuracy = 0.8946, elapsed = 127.7058596611023 s, transmitted = 2.52 MiB
+dpsgd-qsgd-8-unbiased: t = 22000, epoch = 2, iter = 2000, loss = 0.2918909411825347, accuracy = 0.8939425, elapsed = 133.6881332397461 s, transmitted = 2.64 MiB
+dpsgd-qsgd-8-unbiased: t = 23000, epoch = 2, iter = 3000, loss = 0.29122977084686974, accuracy = 0.8946425, elapsed = 139.6794834136963 s, transmitted = 2.76 MiB
+dpsgd-qsgd-8-unbiased: t = 24000, epoch = 2, iter = 4000, loss = 0.29176011935462154, accuracy = 0.89409, elapsed = 145.66930484771729 s, transmitted = 2.88 MiB
+dpsgd-qsgd-8-unbiased: t = 25000, epoch = 2, iter = 5000, loss = 0.2910620283819607, accuracy = 0.8946525, elapsed = 151.64568400382996 s, transmitted = 3.0 MiB
+dpsgd-qsgd-8-unbiased: t = 26000, epoch = 2, iter = 6000, loss = 0.29068328955412287, accuracy = 0.8949675, elapsed = 157.6307249069214 s, transmitted = 3.12 MiB
+dpsgd-qsgd-8-unbiased: t = 27000, epoch = 2, iter = 7000, loss = 0.290551789689895, accuracy = 0.8951475, elapsed = 163.59563899040222 s, transmitted = 3.24 MiB
+dpsgd-qsgd-8-unbiased: t = 28000, epoch = 2, iter = 8000, loss = 0.2905461345496948, accuracy = 0.89491, elapsed = 169.56459832191467 s, transmitted = 3.36 MiB
+dpsgd-qsgd-8-unbiased: t = 29000, epoch = 2, iter = 9000, loss = 0.2903293598373908, accuracy = 0.8952175, elapsed = 175.53650450706482 s, transmitted = 3.48 MiB
+epoch 2: loss 0.2902606124798601 score 0.8952525
+dpsgd-qsgd-8-unbiased: t = 30000, epoch = 3, iter = 0, loss = 0.2902606124798601, accuracy = 0.8952525, elapsed = 182.36748886108398 s, transmitted = 3.6 MiB
+dpsgd-qsgd-8-unbiased: t = 31000, epoch = 3, iter = 1000, loss = 0.2900387227122021, accuracy = 0.8953425, elapsed = 188.3478808403015 s, transmitted = 3.72 MiB
+dpsgd-qsgd-8-unbiased: t = 32000, epoch = 3, iter = 2000, loss = 0.2898997651827809, accuracy = 0.8953425, elapsed = 194.30485463142395 s, transmitted = 3.84 MiB
+dpsgd-qsgd-8-unbiased: t = 33000, epoch = 3, iter = 3000, loss = 0.2900863890350673, accuracy = 0.8950025, elapsed = 200.28734159469604 s, transmitted = 3.96 MiB
+dpsgd-qsgd-8-unbiased: t = 34000, epoch = 3, iter = 4000, loss = 0.2896531944240806, accuracy = 0.895645, elapsed = 206.27586388587952 s, transmitted = 4.08 MiB
+dpsgd-qsgd-8-unbiased: t = 35000, epoch = 3, iter = 5000, loss = 0.28956869689281406, accuracy = 0.895535, elapsed = 212.27658796310425 s, transmitted = 4.2 MiB
+dpsgd-qsgd-8-unbiased: t = 36000, epoch = 3, iter = 6000, loss = 0.28961446280665976, accuracy = 0.8954375, elapsed = 218.2648367881775 s, transmitted = 4.32 MiB
+dpsgd-qsgd-8-unbiased: t = 37000, epoch = 3, iter = 7000, loss = 0.28938256224097186, accuracy = 0.89568, elapsed = 224.27516102790833 s, transmitted = 4.44 MiB
+dpsgd-qsgd-8-unbiased: t = 38000, epoch = 3, iter = 8000, loss = 0.2895996096031853, accuracy = 0.89528, elapsed = 230.24763917922974 s, transmitted = 4.56 MiB
+dpsgd-qsgd-8-unbiased: t = 39000, epoch = 3, iter = 9000, loss = 0.28925746999644486, accuracy = 0.89563, elapsed = 236.2308566570282 s, transmitted = 4.68 MiB
+epoch 3: loss 0.2892648889586169 score 0.895695
+dpsgd-qsgd-8-unbiased: t = 40000, epoch = 4, iter = 0, loss = 0.2892648889586169, accuracy = 0.895695, elapsed = 243.0747561454773 s, transmitted = 4.8 MiB
+dpsgd-qsgd-8-unbiased: t = 41000, epoch = 4, iter = 1000, loss = 0.2892844944994232, accuracy = 0.89557, elapsed = 249.07449674606323 s, transmitted = 4.92 MiB
+dpsgd-qsgd-8-unbiased: t = 42000, epoch = 4, iter = 2000, loss = 0.2890334945741978, accuracy = 0.8959175, elapsed = 255.0317234992981 s, transmitted = 5.04 MiB
+dpsgd-qsgd-8-unbiased: t = 43000, epoch = 4, iter = 3000, loss = 0.28991804119828485, accuracy = 0.8945625, elapsed = 261.0703854560852 s, transmitted = 5.16 MiB
+dpsgd-qsgd-8-unbiased: t = 44000, epoch = 4, iter = 4000, loss = 0.2888991064632394, accuracy = 0.89583, elapsed = 267.11539602279663 s, transmitted = 5.28 MiB
+dpsgd-qsgd-8-unbiased: t = 45000, epoch = 4, iter = 5000, loss = 0.2888957456041125, accuracy = 0.8959875, elapsed = 273.1383137702942 s, transmitted = 5.4 MiB
+dpsgd-qsgd-8-unbiased: t = 46000, epoch = 4, iter = 6000, loss = 0.2887594751761336, accuracy = 0.8959475, elapsed = 279.1674704551697 s, transmitted = 5.52 MiB
+dpsgd-qsgd-8-unbiased: t = 47000, epoch = 4, iter = 7000, loss = 0.2887485858597707, accuracy = 0.89617, elapsed = 285.1854794025421 s, transmitted = 5.64 MiB
+dpsgd-qsgd-8-unbiased: t = 48000, epoch = 4, iter = 8000, loss = 0.2886664194200333, accuracy = 0.896095, elapsed = 291.2128143310547 s, transmitted = 5.76 MiB
+dpsgd-qsgd-8-unbiased: t = 49000, epoch = 4, iter = 9000, loss = 0.28870800890366527, accuracy = 0.896025, elapsed = 297.2474660873413 s, transmitted = 5.88 MiB
+epoch 4: loss 0.2886681448613416 score 0.89601
+dpsgd-qsgd-8-unbiased: t = 50000, epoch = 5, iter = 0, loss = 0.2886681448613416, accuracy = 0.89601, elapsed = 304.14262199401855 s, transmitted = 6.0 MiB
+dpsgd-qsgd-8-unbiased: t = 51000, epoch = 5, iter = 1000, loss = 0.28852210025866926, accuracy = 0.89626, elapsed = 310.1794548034668 s, transmitted = 6.12 MiB
+dpsgd-qsgd-8-unbiased: t = 52000, epoch = 5, iter = 2000, loss = 0.2884486108854185, accuracy = 0.89632, elapsed = 316.20775389671326 s, transmitted = 6.24 MiB
+dpsgd-qsgd-8-unbiased: t = 53000, epoch = 5, iter = 3000, loss = 0.28930031099423503, accuracy = 0.8949625, elapsed = 322.2681472301483 s, transmitted = 6.36 MiB
+dpsgd-qsgd-8-unbiased: t = 54000, epoch = 5, iter = 4000, loss = 0.2884492061758557, accuracy = 0.8962175, elapsed = 328.3375566005707 s, transmitted = 6.48 MiB
+dpsgd-qsgd-8-unbiased: t = 55000, epoch = 5, iter = 5000, loss = 0.28836141821968037, accuracy = 0.89635, elapsed = 334.4483120441437 s, transmitted = 6.6 MiB
+dpsgd-qsgd-8-unbiased: t = 56000, epoch = 5, iter = 6000, loss = 0.28835889098356793, accuracy = 0.8962725, elapsed = 340.5673863887787 s, transmitted = 6.72 MiB
+dpsgd-qsgd-8-unbiased: t = 57000, epoch = 5, iter = 7000, loss = 0.28829584248343904, accuracy = 0.896335, elapsed = 346.67085003852844 s, transmitted = 6.84 MiB
+dpsgd-qsgd-8-unbiased: t = 58000, epoch = 5, iter = 8000, loss = 0.28833938774661627, accuracy = 0.89619, elapsed = 352.75617003440857 s, transmitted = 6.96 MiB
+dpsgd-qsgd-8-unbiased: t = 59000, epoch = 5, iter = 9000, loss = 0.2881618171236754, accuracy = 0.896465, elapsed = 358.8640377521515 s, transmitted = 7.08 MiB
+epoch 5: loss 0.28810933838338515 score 0.8965175
+dpsgd-qsgd-8-unbiased: t = 60000, epoch = 6, iter = 0, loss = 0.28810933838338515, accuracy = 0.8965175, elapsed = 365.806622505188 s, transmitted = 7.2 MiB
+dpsgd-qsgd-8-unbiased: t = 61000, epoch = 6, iter = 1000, loss = 0.28813281259645723, accuracy = 0.8963475, elapsed = 371.87935400009155 s, transmitted = 7.32 MiB
+dpsgd-qsgd-8-unbiased: t = 62000, epoch = 6, iter = 2000, loss = 0.2880247233419347, accuracy = 0.89645, elapsed = 377.9449601173401 s, transmitted = 7.44 MiB
+dpsgd-qsgd-8-unbiased: t = 63000, epoch = 6, iter = 3000, loss = 0.2879770803494274, accuracy = 0.89645, elapsed = 384.0267562866211 s, transmitted = 7.56 MiB
+dpsgd-qsgd-8-unbiased: t = 64000, epoch = 6, iter = 4000, loss = 0.28794836702142657, accuracy = 0.89655, elapsed = 390.1111943721771 s, transmitted = 7.68 MiB
+dpsgd-qsgd-8-unbiased: t = 65000, epoch = 6, iter = 5000, loss = 0.28798394538730643, accuracy = 0.8965075, elapsed = 396.1850209236145 s, transmitted = 7.8 MiB
+dpsgd-qsgd-8-unbiased: t = 66000, epoch = 6, iter = 6000, loss = 0.2880249093441497, accuracy = 0.8964625, elapsed = 402.26451110839844 s, transmitted = 7.92 MiB
+dpsgd-qsgd-8-unbiased: t = 67000, epoch = 6, iter = 7000, loss = 0.2878912211306274, accuracy = 0.896745, elapsed = 408.33174109458923 s, transmitted = 8.04 MiB
+dpsgd-qsgd-8-unbiased: t = 68000, epoch = 6, iter = 8000, loss = 0.2880453028556891, accuracy = 0.8963225, elapsed = 414.4001922607422 s, transmitted = 8.16 MiB
+dpsgd-qsgd-8-unbiased: t = 69000, epoch = 6, iter = 9000, loss = 0.2878224559203943, accuracy = 0.89668, elapsed = 420.4709596633911 s, transmitted = 8.28 MiB
+epoch 6: loss 0.2877699033971184 score 0.8967275
+dpsgd-qsgd-8-unbiased: t = 70000, epoch = 7, iter = 0, loss = 0.2877699033971184, accuracy = 0.8967275, elapsed = 427.41429471969604 s, transmitted = 8.4 MiB
+dpsgd-qsgd-8-unbiased: t = 71000, epoch = 7, iter = 1000, loss = 0.28771897511908767, accuracy = 0.896705, elapsed = 433.50686144828796 s, transmitted = 8.52 MiB
+dpsgd-qsgd-8-unbiased: t = 72000, epoch = 7, iter = 2000, loss = 0.2878860421712546, accuracy = 0.896395, elapsed = 439.57821774482727 s, transmitted = 8.64 MiB
+dpsgd-qsgd-8-unbiased: t = 73000, epoch = 7, iter = 3000, loss = 0.2878643233250915, accuracy = 0.896455, elapsed = 445.6430859565735 s, transmitted = 8.76 MiB
+dpsgd-qsgd-8-unbiased: t = 74000, epoch = 7, iter = 4000, loss = 0.2876208027052259, accuracy = 0.896765, elapsed = 451.71391439437866 s, transmitted = 8.88 MiB
+dpsgd-qsgd-8-unbiased: t = 75000, epoch = 7, iter = 5000, loss = 0.2877471101825655, accuracy = 0.8963975, elapsed = 457.80680298805237 s, transmitted = 9.0 MiB
+dpsgd-qsgd-8-unbiased: t = 76000, epoch = 7, iter = 6000, loss = 0.2876238645703583, accuracy = 0.8967575, elapsed = 463.89915895462036 s, transmitted = 9.12 MiB
+dpsgd-qsgd-8-unbiased: t = 77000, epoch = 7, iter = 7000, loss = 0.28753058034086204, accuracy = 0.8968525, elapsed = 470.0262682437897 s, transmitted = 9.24 MiB
+dpsgd-qsgd-8-unbiased: t = 78000, epoch = 7, iter = 8000, loss = 0.2876474678241534, accuracy = 0.89645, elapsed = 476.1388313770294 s, transmitted = 9.36 MiB
+dpsgd-qsgd-8-unbiased: t = 79000, epoch = 7, iter = 9000, loss = 0.2874848145616345, accuracy = 0.89668, elapsed = 482.2121982574463 s, transmitted = 9.48 MiB
+epoch 7: loss 0.28749235574724613 score 0.89663
+dpsgd-qsgd-8-unbiased: t = 80000, epoch = 8, iter = 0, loss = 0.28749235574724613, accuracy = 0.89663, elapsed = 489.18276047706604 s, transmitted = 9.6 MiB
+dpsgd-qsgd-8-unbiased: t = 81000, epoch = 8, iter = 1000, loss = 0.28766700937099404, accuracy = 0.89627, elapsed = 495.2807867527008 s, transmitted = 9.72 MiB
+dpsgd-qsgd-8-unbiased: t = 82000, epoch = 8, iter = 2000, loss = 0.2876248908723745, accuracy = 0.8964025, elapsed = 501.3800582885742 s, transmitted = 9.84 MiB
+dpsgd-qsgd-8-unbiased: t = 83000, epoch = 8, iter = 3000, loss = 0.28748985267962024, accuracy = 0.8965025, elapsed = 507.4678316116333 s, transmitted = 9.96 MiB
+dpsgd-qsgd-8-unbiased: t = 84000, epoch = 8, iter = 4000, loss = 0.28737782805727685, accuracy = 0.89668, elapsed = 513.5608024597168 s, transmitted = 10.08 MiB
+dpsgd-qsgd-8-unbiased: t = 85000, epoch = 8, iter = 5000, loss = 0.2873186411401628, accuracy = 0.89694, elapsed = 519.6486320495605 s, transmitted = 10.2 MiB
+dpsgd-qsgd-8-unbiased: t = 86000, epoch = 8, iter = 6000, loss = 0.2873988542924166, accuracy = 0.89654, elapsed = 525.7411828041077 s, transmitted = 10.32 MiB
+dpsgd-qsgd-8-unbiased: t = 87000, epoch = 8, iter = 7000, loss = 0.28730483036959215, accuracy = 0.89698, elapsed = 531.8198387622833 s, transmitted = 10.44 MiB
+dpsgd-qsgd-8-unbiased: t = 88000, epoch = 8, iter = 8000, loss = 0.28724759275514083, accuracy = 0.8968925, elapsed = 537.9331429004669 s, transmitted = 10.56 MiB
+dpsgd-qsgd-8-unbiased: t = 89000, epoch = 8, iter = 9000, loss = 0.28723683577530856, accuracy = 0.89713, elapsed = 544.0405926704407 s, transmitted = 10.68 MiB
+epoch 8: loss 0.28725672295774496 score 0.8971325
+dpsgd-qsgd-8-unbiased: t = 90000, epoch = 9, iter = 0, loss = 0.28725672295774496, accuracy = 0.8971325, elapsed = 550.9894320964813 s, transmitted = 10.8 MiB
+dpsgd-qsgd-8-unbiased: t = 91000, epoch = 9, iter = 1000, loss = 0.2872268122994397, accuracy = 0.897075, elapsed = 557.0660147666931 s, transmitted = 10.92 MiB
+dpsgd-qsgd-8-unbiased: t = 92000, epoch = 9, iter = 2000, loss = 0.2872889133609886, accuracy = 0.896615, elapsed = 563.1600940227509 s, transmitted = 11.04 MiB
+dpsgd-qsgd-8-unbiased: t = 93000, epoch = 9, iter = 3000, loss = 0.2871875570557587, accuracy = 0.897085, elapsed = 569.2701606750488 s, transmitted = 11.16 MiB
+dpsgd-qsgd-8-unbiased: t = 94000, epoch = 9, iter = 4000, loss = 0.2871052766911826, accuracy = 0.897065, elapsed = 575.3020262718201 s, transmitted = 11.28 MiB
+dpsgd-qsgd-8-unbiased: t = 95000, epoch = 9, iter = 5000, loss = 0.28735255585036423, accuracy = 0.8965975, elapsed = 581.3631808757782 s, transmitted = 11.4 MiB
+dpsgd-qsgd-8-unbiased: t = 96000, epoch = 9, iter = 6000, loss = 0.2871666351728812, accuracy = 0.8967325, elapsed = 587.4128439426422 s, transmitted = 11.52 MiB
+dpsgd-qsgd-8-unbiased: t = 97000, epoch = 9, iter = 7000, loss = 0.2870874795238925, accuracy = 0.897065, elapsed = 593.4782557487488 s, transmitted = 11.64 MiB
+dpsgd-qsgd-8-unbiased: t = 98000, epoch = 9, iter = 8000, loss = 0.2870165918754214, accuracy = 0.89711, elapsed = 599.5443072319031 s, transmitted = 11.76 MiB
+dpsgd-qsgd-8-unbiased: t = 99000, epoch = 9, iter = 9000, loss = 0.28699736518697516, accuracy = 0.8971125, elapsed = 605.6042110919952 s, transmitted = 11.88 MiB
+epoch 9: loss 0.2869813735077177 score 0.8971275
+Training took: 611.6753766536713s
+dpsgd-qsgd-8-unbiased - score: 0.8971275
+(array([0.6934951 , 0.29678615, 0.29184202, 0.29026061, 0.28926489,
+       0.28866814, 0.28810934, 0.2877699 , 0.28749236, 0.28725672,
+       0.28698137]), array([0.6934951 , 0.35187721, 0.32314891, 0.31173261, 0.30679909,
+       0.3034411 , 0.30079879, 0.29966789, 0.29793374, 0.29695992,
+       0.29678615, 0.2954908 , 0.2946413 , 0.29427057, 0.29373636,
+       0.29328342, 0.29292929, 0.29284078, 0.29226035, 0.29204079,
+       0.29184202, 0.2915959 , 0.29189094, 0.29122977, 0.29176012,
+       0.29106203, 0.29068329, 0.29055179, 0.29054613, 0.29032936,
+       0.29026061, 0.29003872, 0.28989977, 0.29008639, 0.28965319,
+       0.2895687 , 0.28961446, 0.28938256, 0.28959961, 0.28925747,
+       0.28926489, 0.28928449, 0.28903349, 0.28991804, 0.28889911,
+       0.28889575, 0.28875948, 0.28874859, 0.28866642, 0.28870801,
+       0.28866814, 0.2885221 , 0.28844861, 0.28930031, 0.28844921,
+       0.28836142, 0.28835889, 0.28829584, 0.28833939, 0.28816182,
+       0.28810934, 0.28813281, 0.28802472, 0.28797708, 0.28794837,
+       0.28798395, 0.28802491, 0.28789122, 0.2880453 , 0.28782246,
+       0.2877699 , 0.28771898, 0.28788604, 0.28786432, 0.2876208 ,
+       0.28774711, 0.28762386, 0.28753058, 0.28764747, 0.28748481,
+       0.28749236, 0.28766701, 0.28762489, 0.28748985, 0.28737783,
+       0.28731864, 0.28739885, 0.28730483, 0.28724759, 0.28723684,
+       0.28725672, 0.28722681, 0.28728891, 0.28718756, 0.28710528,
+       0.28735256, 0.28716664, 0.28708748, 0.28701659, 0.28699737,
+       0.        ]))
+results saved in "dump/epsilon-final-decentralized-ring-sorted-40/"
+load dataset
+start experiment
+length of indices: 40
+length of last machine indices: 10000
+Number of different labels: 2
+decentralized-qsgd-4-biased: t = 0, epoch = 0, iter = 0, loss = 0.693038439077127, accuracy = 0.510755, elapsed = 0.8592078685760498 s, transmitted = 0.0 MiB
+decentralized-qsgd-4-biased: t = 1000, epoch = 0, iter = 1000, loss = 0.34977064599522345, accuracy = 0.85435, elapsed = 19.947253704071045 s, transmitted = 0.06 MiB
+decentralized-qsgd-4-biased: t = 2000, epoch = 0, iter = 2000, loss = 0.3195059347189446, accuracy = 0.877605, elapsed = 39.08845925331116 s, transmitted = 0.12 MiB
+decentralized-qsgd-4-biased: t = 3000, epoch = 0, iter = 3000, loss = 0.3177457514624395, accuracy = 0.8730025, elapsed = 58.216973304748535 s, transmitted = 0.18 MiB
+decentralized-qsgd-4-biased: t = 4000, epoch = 0, iter = 4000, loss = 0.3084657118853751, accuracy = 0.8812175, elapsed = 77.30338621139526 s, transmitted = 0.24 MiB
+decentralized-qsgd-4-biased: t = 5000, epoch = 0, iter = 5000, loss = 0.30258205397914156, accuracy = 0.8864375, elapsed = 96.36644268035889 s, transmitted = 0.3 MiB
+decentralized-qsgd-4-biased: t = 6000, epoch = 0, iter = 6000, loss = 0.30387689830429376, accuracy = 0.8832775, elapsed = 115.42562484741211 s, transmitted = 0.36 MiB
+decentralized-qsgd-4-biased: t = 7000, epoch = 0, iter = 7000, loss = 0.30036362522333737, accuracy = 0.8869325, elapsed = 134.53787302970886 s, transmitted = 0.42 MiB
+decentralized-qsgd-4-biased: t = 8000, epoch = 0, iter = 8000, loss = 0.2974566802183977, accuracy = 0.889985, elapsed = 153.67956519126892 s, transmitted = 0.48 MiB
+decentralized-qsgd-4-biased: t = 9000, epoch = 0, iter = 9000, loss = 0.2957957530254586, accuracy = 0.8915375, elapsed = 172.72053503990173 s, transmitted = 0.54 MiB
+epoch 0: loss 0.29486459905538376 score 0.892025
+decentralized-qsgd-4-biased: t = 10000, epoch = 1, iter = 0, loss = 0.29486459905538376, accuracy = 0.892025, elapsed = 192.57687640190125 s, transmitted = 0.6 MiB
+decentralized-qsgd-4-biased: t = 11000, epoch = 1, iter = 1000, loss = 0.29496074162867064, accuracy = 0.8915725, elapsed = 211.87118291854858 s, transmitted = 0.66 MiB
+decentralized-qsgd-4-biased: t = 12000, epoch = 1, iter = 2000, loss = 0.2936874437267528, accuracy = 0.8927575, elapsed = 231.02442121505737 s, transmitted = 0.72 MiB
+decentralized-qsgd-4-biased: t = 13000, epoch = 1, iter = 3000, loss = 0.29358266648188286, accuracy = 0.8927225, elapsed = 250.27637553215027 s, transmitted = 0.78 MiB
+decentralized-qsgd-4-biased: t = 14000, epoch = 1, iter = 4000, loss = 0.2928851295349894, accuracy = 0.892965, elapsed = 269.3445370197296 s, transmitted = 0.84 MiB
+decentralized-qsgd-4-biased: t = 15000, epoch = 1, iter = 5000, loss = 0.2925375394251603, accuracy = 0.8934875, elapsed = 288.48404717445374 s, transmitted = 0.9 MiB
+decentralized-qsgd-4-biased: t = 16000, epoch = 1, iter = 6000, loss = 0.2921721835908547, accuracy = 0.8937825, elapsed = 307.5794267654419 s, transmitted = 0.96 MiB
+decentralized-qsgd-4-biased: t = 17000, epoch = 1, iter = 7000, loss = 0.29188210804748166, accuracy = 0.89386, elapsed = 326.6781702041626 s, transmitted = 1.02 MiB
+decentralized-qsgd-4-biased: t = 18000, epoch = 1, iter = 8000, loss = 0.29251785467633595, accuracy = 0.8926275, elapsed = 345.69675850868225 s, transmitted = 1.08 MiB
+decentralized-qsgd-4-biased: t = 19000, epoch = 1, iter = 9000, loss = 0.2919943702310427, accuracy = 0.893095, elapsed = 364.7162718772888 s, transmitted = 1.14 MiB
+epoch 1: loss 0.29124268861968894 score 0.8941075
+decentralized-qsgd-4-biased: t = 20000, epoch = 2, iter = 0, loss = 0.29124268861968894, accuracy = 0.8941075, elapsed = 384.5897135734558 s, transmitted = 1.2 MiB
+decentralized-qsgd-4-biased: t = 21000, epoch = 2, iter = 1000, loss = 0.29142997481985855, accuracy = 0.8936875, elapsed = 403.6190278530121 s, transmitted = 1.26 MiB
+decentralized-qsgd-4-biased: t = 22000, epoch = 2, iter = 2000, loss = 0.2909235105934263, accuracy = 0.894355, elapsed = 422.64340448379517 s, transmitted = 1.32 MiB
+decentralized-qsgd-4-biased: t = 23000, epoch = 2, iter = 3000, loss = 0.29065406033796576, accuracy = 0.894675, elapsed = 441.64559292793274 s, transmitted = 1.38 MiB
+decentralized-qsgd-4-biased: t = 24000, epoch = 2, iter = 4000, loss = 0.29097701522965136, accuracy = 0.8941925, elapsed = 460.59295105934143 s, transmitted = 1.44 MiB
+decentralized-qsgd-4-biased: t = 25000, epoch = 2, iter = 5000, loss = 0.29054398698599243, accuracy = 0.8946275, elapsed = 479.55996584892273 s, transmitted = 1.5 MiB
+decentralized-qsgd-4-biased: t = 26000, epoch = 2, iter = 6000, loss = 0.2902290847794292, accuracy = 0.8948775, elapsed = 498.53029322624207 s, transmitted = 1.56 MiB
+decentralized-qsgd-4-biased: t = 27000, epoch = 2, iter = 7000, loss = 0.29012497356906114, accuracy = 0.8949275, elapsed = 517.5576047897339 s, transmitted = 1.62 MiB
+decentralized-qsgd-4-biased: t = 28000, epoch = 2, iter = 8000, loss = 0.2902415881868878, accuracy = 0.8946525, elapsed = 536.5809690952301 s, transmitted = 1.68 MiB
+decentralized-qsgd-4-biased: t = 29000, epoch = 2, iter = 9000, loss = 0.2904065621480601, accuracy = 0.894105, elapsed = 555.5545961856842 s, transmitted = 1.74 MiB
+epoch 2: loss 0.2896931125920265 score 0.8952175
+decentralized-qsgd-4-biased: t = 30000, epoch = 3, iter = 0, loss = 0.2896931125920265, accuracy = 0.8952175, elapsed = 575.4110903739929 s, transmitted = 1.8 MiB
+decentralized-qsgd-4-biased: t = 31000, epoch = 3, iter = 1000, loss = 0.2895642618326088, accuracy = 0.895315, elapsed = 594.4211068153381 s, transmitted = 1.86 MiB
+decentralized-qsgd-4-biased: t = 32000, epoch = 3, iter = 2000, loss = 0.2901654783101813, accuracy = 0.894465, elapsed = 613.4296674728394 s, transmitted = 1.92 MiB
+decentralized-qsgd-4-biased: t = 33000, epoch = 3, iter = 3000, loss = 0.28957043917938863, accuracy = 0.8952, elapsed = 632.4460396766663 s, transmitted = 1.98 MiB
+decentralized-qsgd-4-biased: t = 34000, epoch = 3, iter = 4000, loss = 0.2893250239685813, accuracy = 0.8954025, elapsed = 651.4293084144592 s, transmitted = 2.04 MiB
+decentralized-qsgd-4-biased: t = 35000, epoch = 3, iter = 5000, loss = 0.28927282283328, accuracy = 0.8954425, elapsed = 670.3953783512115 s, transmitted = 2.1 MiB
+decentralized-qsgd-4-biased: t = 36000, epoch = 3, iter = 6000, loss = 0.2893120003595341, accuracy = 0.8954125, elapsed = 689.3628613948822 s, transmitted = 2.16 MiB
+decentralized-qsgd-4-biased: t = 37000, epoch = 3, iter = 7000, loss = 0.28931182046274745, accuracy = 0.895355, elapsed = 708.3334803581238 s, transmitted = 2.22 MiB
+decentralized-qsgd-4-biased: t = 38000, epoch = 3, iter = 8000, loss = 0.289017673557994, accuracy = 0.8954675, elapsed = 727.3236410617828 s, transmitted = 2.28 MiB
+decentralized-qsgd-4-biased: t = 39000, epoch = 3, iter = 9000, loss = 0.28899977629394125, accuracy = 0.895575, elapsed = 746.34139585495 s, transmitted = 2.34 MiB
+epoch 3: loss 0.2889146337945685 score 0.895585
+decentralized-qsgd-4-biased: t = 40000, epoch = 4, iter = 0, loss = 0.2889146337945685, accuracy = 0.895585, elapsed = 766.1872510910034 s, transmitted = 2.4 MiB
+decentralized-qsgd-4-biased: t = 41000, epoch = 4, iter = 1000, loss = 0.28877225568356607, accuracy = 0.89565, elapsed = 785.1521356105804 s, transmitted = 2.46 MiB
+decentralized-qsgd-4-biased: t = 42000, epoch = 4, iter = 2000, loss = 0.28876463707139954, accuracy = 0.89567, elapsed = 804.1293976306915 s, transmitted = 2.52 MiB
+decentralized-qsgd-4-biased: t = 43000, epoch = 4, iter = 3000, loss = 0.28919456390554216, accuracy = 0.8949625, elapsed = 823.1183657646179 s, transmitted = 2.58 MiB
+decentralized-qsgd-4-biased: t = 44000, epoch = 4, iter = 4000, loss = 0.28869329021194207, accuracy = 0.89576, elapsed = 842.0920567512512 s, transmitted = 2.64 MiB
+decentralized-qsgd-4-biased: t = 45000, epoch = 4, iter = 5000, loss = 0.28870095966151593, accuracy = 0.895695, elapsed = 861.0793166160583 s, transmitted = 2.7 MiB
+decentralized-qsgd-4-biased: t = 46000, epoch = 4, iter = 6000, loss = 0.28854068915576225, accuracy = 0.89581, elapsed = 880.0560183525085 s, transmitted = 2.76 MiB
+decentralized-qsgd-4-biased: t = 47000, epoch = 4, iter = 7000, loss = 0.28853341021459233, accuracy = 0.89582, elapsed = 898.9917421340942 s, transmitted = 2.82 MiB
+decentralized-qsgd-4-biased: t = 48000, epoch = 4, iter = 8000, loss = 0.28847578062040624, accuracy = 0.8958425, elapsed = 917.9671249389648 s, transmitted = 2.88 MiB
+decentralized-qsgd-4-biased: t = 49000, epoch = 4, iter = 9000, loss = 0.28876449366820983, accuracy = 0.8955425, elapsed = 936.9530508518219 s, transmitted = 2.94 MiB
+epoch 4: loss 0.288459719322575 score 0.895895
+decentralized-qsgd-4-biased: t = 50000, epoch = 5, iter = 0, loss = 0.288459719322575, accuracy = 0.895895, elapsed = 956.7858293056488 s, transmitted = 3.0 MiB
+decentralized-qsgd-4-biased: t = 51000, epoch = 5, iter = 1000, loss = 0.2884095530009796, accuracy = 0.89592, elapsed = 975.7828357219696 s, transmitted = 3.06 MiB
+decentralized-qsgd-4-biased: t = 52000, epoch = 5, iter = 2000, loss = 0.28824267080775134, accuracy = 0.89592, elapsed = 994.7788276672363 s, transmitted = 3.12 MiB
+decentralized-qsgd-4-biased: t = 53000, epoch = 5, iter = 3000, loss = 0.28825113424678717, accuracy = 0.8959075, elapsed = 1013.8242254257202 s, transmitted = 3.18 MiB
+decentralized-qsgd-4-biased: t = 54000, epoch = 5, iter = 4000, loss = 0.2881953977465305, accuracy = 0.8959125, elapsed = 1032.8000178337097 s, transmitted = 3.24 MiB
+decentralized-qsgd-4-biased: t = 55000, epoch = 5, iter = 5000, loss = 0.2881165998428268, accuracy = 0.89603, elapsed = 1051.7909789085388 s, transmitted = 3.3 MiB
+decentralized-qsgd-4-biased: t = 56000, epoch = 5, iter = 6000, loss = 0.2881237738176909, accuracy = 0.8960825, elapsed = 1070.750566482544 s, transmitted = 3.36 MiB
+decentralized-qsgd-4-biased: t = 57000, epoch = 5, iter = 7000, loss = 0.2880558307551272, accuracy = 0.8961325, elapsed = 1089.7647647857666 s, transmitted = 3.42 MiB
+decentralized-qsgd-4-biased: t = 58000, epoch = 5, iter = 8000, loss = 0.28800745539348016, accuracy = 0.8961875, elapsed = 1108.7556910514832 s, transmitted = 3.48 MiB
+decentralized-qsgd-4-biased: t = 59000, epoch = 5, iter = 9000, loss = 0.28813418529507623, accuracy = 0.89602, elapsed = 1127.6644456386566 s, transmitted = 3.54 MiB
+epoch 5: loss 0.288056996913046 score 0.896165
+decentralized-qsgd-4-biased: t = 60000, epoch = 6, iter = 0, loss = 0.288056996913046, accuracy = 0.896165, elapsed = 1147.4433407783508 s, transmitted = 3.6 MiB
+decentralized-qsgd-4-biased: t = 61000, epoch = 6, iter = 1000, loss = 0.28796126839556485, accuracy = 0.8962175, elapsed = 1166.3538088798523 s, transmitted = 3.66 MiB
+decentralized-qsgd-4-biased: t = 62000, epoch = 6, iter = 2000, loss = 0.2878942764136387, accuracy = 0.89623, elapsed = 1185.2867412567139 s, transmitted = 3.72 MiB
+decentralized-qsgd-4-biased: t = 63000, epoch = 6, iter = 3000, loss = 0.2878377590501296, accuracy = 0.8962, elapsed = 1204.2179386615753 s, transmitted = 3.78 MiB
+decentralized-qsgd-4-biased: t = 64000, epoch = 6, iter = 4000, loss = 0.28791410847398846, accuracy = 0.896145, elapsed = 1223.1615464687347 s, transmitted = 3.84 MiB
+decentralized-qsgd-4-biased: t = 65000, epoch = 6, iter = 5000, loss = 0.2879097346640816, accuracy = 0.896255, elapsed = 1242.0712594985962 s, transmitted = 3.9 MiB
+decentralized-qsgd-4-biased: t = 66000, epoch = 6, iter = 6000, loss = 0.2877610086291013, accuracy = 0.8963925, elapsed = 1260.9872498512268 s, transmitted = 3.96 MiB
+decentralized-qsgd-4-biased: t = 67000, epoch = 6, iter = 7000, loss = 0.2878547905137932, accuracy = 0.89618, elapsed = 1279.951042175293 s, transmitted = 4.02 MiB
+decentralized-qsgd-4-biased: t = 68000, epoch = 6, iter = 8000, loss = 0.2881195127962075, accuracy = 0.89588, elapsed = 1298.8423566818237 s, transmitted = 4.08 MiB
+decentralized-qsgd-4-biased: t = 69000, epoch = 6, iter = 9000, loss = 0.2877590298975596, accuracy = 0.89631, elapsed = 1317.7165760993958 s, transmitted = 4.14 MiB
+epoch 6: loss 0.2876690306001289 score 0.89629
+decentralized-qsgd-4-biased: t = 70000, epoch = 7, iter = 0, loss = 0.2876690306001289, accuracy = 0.89629, elapsed = 1337.434152841568 s, transmitted = 4.2 MiB
+decentralized-qsgd-4-biased: t = 71000, epoch = 7, iter = 1000, loss = 0.2876299943597152, accuracy = 0.89645, elapsed = 1356.3478651046753 s, transmitted = 4.26 MiB
+decentralized-qsgd-4-biased: t = 72000, epoch = 7, iter = 2000, loss = 0.28761784615732805, accuracy = 0.89646, elapsed = 1375.2985916137695 s, transmitted = 4.32 MiB
+decentralized-qsgd-4-biased: t = 73000, epoch = 7, iter = 3000, loss = 0.2876069745850222, accuracy = 0.896535, elapsed = 1394.3205254077911 s, transmitted = 4.38 MiB
+decentralized-qsgd-4-biased: t = 74000, epoch = 7, iter = 4000, loss = 0.2877760458578482, accuracy = 0.8961575, elapsed = 1413.347160577774 s, transmitted = 4.44 MiB
+decentralized-qsgd-4-biased: t = 75000, epoch = 7, iter = 5000, loss = 0.2875577844401227, accuracy = 0.8964825, elapsed = 1432.3119835853577 s, transmitted = 4.5 MiB
+decentralized-qsgd-4-biased: t = 76000, epoch = 7, iter = 6000, loss = 0.28755493870676285, accuracy = 0.8964875, elapsed = 1451.3032882213593 s, transmitted = 4.56 MiB
+decentralized-qsgd-4-biased: t = 77000, epoch = 7, iter = 7000, loss = 0.28765826640800274, accuracy = 0.896315, elapsed = 1470.3092975616455 s, transmitted = 4.62 MiB
+decentralized-qsgd-4-biased: t = 78000, epoch = 7, iter = 8000, loss = 0.28750816374370636, accuracy = 0.8966075, elapsed = 1489.2700572013855 s, transmitted = 4.68 MiB
+decentralized-qsgd-4-biased: t = 79000, epoch = 7, iter = 9000, loss = 0.2874664401335617, accuracy = 0.8965725, elapsed = 1508.2884089946747 s, transmitted = 4.74 MiB
+epoch 7: loss 0.28769788394281864 score 0.8961525
+decentralized-qsgd-4-biased: t = 80000, epoch = 8, iter = 0, loss = 0.28769788394281864, accuracy = 0.8961525, elapsed = 1528.1551299095154 s, transmitted = 4.8 MiB
+decentralized-qsgd-4-biased: t = 81000, epoch = 8, iter = 1000, loss = 0.2874598697233978, accuracy = 0.8965125, elapsed = 1547.177652835846 s, transmitted = 4.86 MiB
+decentralized-qsgd-4-biased: t = 82000, epoch = 8, iter = 2000, loss = 0.2874255831421938, accuracy = 0.8966, elapsed = 1566.1930539608002 s, transmitted = 4.92 MiB
+decentralized-qsgd-4-biased: t = 83000, epoch = 8, iter = 3000, loss = 0.2873977679719253, accuracy = 0.8966225, elapsed = 1585.1923263072968 s, transmitted = 4.98 MiB
+decentralized-qsgd-4-biased: t = 84000, epoch = 8, iter = 4000, loss = 0.2874688798371525, accuracy = 0.8965575, elapsed = 1604.2127735614777 s, transmitted = 5.04 MiB
+decentralized-qsgd-4-biased: t = 85000, epoch = 8, iter = 5000, loss = 0.2873719121147353, accuracy = 0.8966075, elapsed = 1622.7881343364716 s, transmitted = 5.1 MiB
+decentralized-qsgd-4-biased: t = 86000, epoch = 8, iter = 6000, loss = 0.28751610444228615, accuracy = 0.896375, elapsed = 1641.3341536521912 s, transmitted = 5.16 MiB
+decentralized-qsgd-4-biased: t = 87000, epoch = 8, iter = 7000, loss = 0.28731905861715273, accuracy = 0.8967025, elapsed = 1659.8749027252197 s, transmitted = 5.22 MiB
+decentralized-qsgd-4-biased: t = 88000, epoch = 8, iter = 8000, loss = 0.28731205142346167, accuracy = 0.8967575, elapsed = 1678.4082791805267 s, transmitted = 5.28 MiB
+decentralized-qsgd-4-biased: t = 89000, epoch = 8, iter = 9000, loss = 0.2872954698018427, accuracy = 0.8967225, elapsed = 1696.9590764045715 s, transmitted = 5.34 MiB
+epoch 8: loss 0.287507815204385 score 0.8962975
+decentralized-qsgd-4-biased: t = 90000, epoch = 9, iter = 0, loss = 0.287507815204385, accuracy = 0.8962975, elapsed = 1716.3623485565186 s, transmitted = 5.4 MiB
+decentralized-qsgd-4-biased: t = 91000, epoch = 9, iter = 1000, loss = 0.28727181304426674, accuracy = 0.8967525, elapsed = 1734.8963944911957 s, transmitted = 5.46 MiB
+decentralized-qsgd-4-biased: t = 92000, epoch = 9, iter = 2000, loss = 0.2871782301611608, accuracy = 0.896775, elapsed = 1753.4240822792053 s, transmitted = 5.52 MiB
+decentralized-qsgd-4-biased: t = 93000, epoch = 9, iter = 3000, loss = 0.28724054255808057, accuracy = 0.8966975, elapsed = 1771.945693731308 s, transmitted = 5.58 MiB
+decentralized-qsgd-4-biased: t = 94000, epoch = 9, iter = 4000, loss = 0.28725976383377255, accuracy = 0.8966675, elapsed = 1790.4913530349731 s, transmitted = 5.64 MiB
+decentralized-qsgd-4-biased: t = 95000, epoch = 9, iter = 5000, loss = 0.2871458595644719, accuracy = 0.8967675, elapsed = 1809.0164098739624 s, transmitted = 5.7 MiB
+decentralized-qsgd-4-biased: t = 96000, epoch = 9, iter = 6000, loss = 0.28712320274896147, accuracy = 0.896815, elapsed = 1827.5546295642853 s, transmitted = 5.76 MiB
+decentralized-qsgd-4-biased: t = 97000, epoch = 9, iter = 7000, loss = 0.2871275702251277, accuracy = 0.896825, elapsed = 1846.0964856147766 s, transmitted = 5.82 MiB
+decentralized-qsgd-4-biased: t = 98000, epoch = 9, iter = 8000, loss = 0.2871276787166689, accuracy = 0.89682, elapsed = 1864.5916271209717 s, transmitted = 5.88 MiB
+decentralized-qsgd-4-biased: t = 99000, epoch = 9, iter = 9000, loss = 0.28714273352258396, accuracy = 0.89673, elapsed = 1883.1178121566772 s, transmitted = 5.94 MiB
+epoch 9: loss 0.28710927993991103 score 0.8968225
+Training took: 1901.63037443161s
+decentralized-qsgd-4-biased - score: 0.8968225
+(array([0.69303844, 0.2948646 , 0.29124269, 0.28969311, 0.28891463,
+       0.28845972, 0.288057  , 0.28766903, 0.28769788, 0.28750782,
+       0.28710928]), array([0.69303844, 0.34977065, 0.31950593, 0.31774575, 0.30846571,
+       0.30258205, 0.3038769 , 0.30036363, 0.29745668, 0.29579575,
+       0.2948646 , 0.29496074, 0.29368744, 0.29358267, 0.29288513,
+       0.29253754, 0.29217218, 0.29188211, 0.29251785, 0.29199437,
+       0.29124269, 0.29142997, 0.29092351, 0.29065406, 0.29097702,
+       0.29054399, 0.29022908, 0.29012497, 0.29024159, 0.29040656,
+       0.28969311, 0.28956426, 0.29016548, 0.28957044, 0.28932502,
+       0.28927282, 0.289312  , 0.28931182, 0.28901767, 0.28899978,
+       0.28891463, 0.28877226, 0.28876464, 0.28919456, 0.28869329,
+       0.28870096, 0.28854069, 0.28853341, 0.28847578, 0.28876449,
+       0.28845972, 0.28840955, 0.28824267, 0.28825113, 0.2881954 ,
+       0.2881166 , 0.28812377, 0.28805583, 0.28800746, 0.28813419,
+       0.288057  , 0.28796127, 0.28789428, 0.28783776, 0.28791411,
+       0.28790973, 0.28776101, 0.28785479, 0.28811951, 0.28775903,
+       0.28766903, 0.28762999, 0.28761785, 0.28760697, 0.28777605,
+       0.28755778, 0.28755494, 0.28765827, 0.28750816, 0.28746644,
+       0.28769788, 0.28745987, 0.28742558, 0.28739777, 0.28746888,
+       0.28737191, 0.2875161 , 0.28731906, 0.28731205, 0.28729547,
+       0.28750782, 0.28727181, 0.28717823, 0.28724054, 0.28725976,
+       0.28714586, 0.2871232 , 0.28712757, 0.28712768, 0.28714273,
+       0.        ]))
+results saved in "dump/epsilon-final-choco-qsgd-4bit-sorted-40/"
+load dataset
+start experiment
+length of indices: 40
+length of last machine indices: 10000
+Number of different labels: 2
+decentralized-qsgd-4-unbiased: t = 0, epoch = 0, iter = 0, loss = 0.6932176957838065, accuracy = 0.4981, elapsed = 0.8566522598266602 s, transmitted = 0.0 MiB
+decentralized-qsgd-4-unbiased: t = 1000, epoch = 0, iter = 1000, loss = nan, accuracy = 0.5004425, elapsed = 17.549984216690063 s, transmitted = 0.06 MiB
+finish trainig
+epoch 0: loss nan score 0.5004425
+finish trainig
+Training took: 18.38468599319458s
+decentralized-qsgd-4-unbiased - score: 0.5004425
+(array([0.6932177,       nan, 0.       , 0.       , 0.       , 0.       ,
+       0.       , 0.       , 0.       , 0.       , 0.       ]), array([0.6932177,       nan, 0.       , 0.       , 0.       , 0.       ,
+       0.       , 0.       , 0.       , 0.       , 0.       , 0.       ,
+       0.       , 0.       , 0.       , 0.       , 0.       , 0.       ,
+       0.       , 0.       , 0.       , 0.       , 0.       , 0.       ,
+       0.       , 0.       , 0.       , 0.       , 0.       , 0.       ,
+       0.       , 0.       , 0.       , 0.       , 0.       , 0.       ,
+       0.       , 0.       , 0.       , 0.       , 0.       , 0.       ,
+       0.       , 0.       , 0.       , 0.       , 0.       , 0.       ,
+       0.       , 0.       , 0.       , 0.       , 0.       , 0.       ,
+       0.       , 0.       , 0.       , 0.       , 0.       , 0.       ,
+       0.       , 0.       , 0.       , 0.       , 0.       , 0.       ,
+       0.       , 0.       , 0.       , 0.       , 0.       , 0.       ,
+       0.       , 0.       , 0.       , 0.       , 0.       , 0.       ,
+       0.       , 0.       , 0.       , 0.       , 0.       , 0.       ,
+       0.       , 0.       , 0.       , 0.       , 0.       , 0.       ,
+       0.       , 0.       , 0.       , 0.       , 0.       , 0.       ,
+       0.       , 0.       , 0.       , 0.       , 0.       ]))
+results saved in "dump/epsilon-final-choco-qsgd-4bit-sorted-40/"
+load dataset
+start experiment
+length of indices: 40
+length of last machine indices: 10000
+Number of different labels: 2
+dcd-psgd-qsgd-4: t = 0, epoch = 0, iter = 0, loss = 0.6930009448353633, accuracy = 0.514715, elapsed = 0.8602778911590576 s, transmitted = 0.0 MiB
+dcd-psgd-qsgd-4: t = 1000, epoch = 0, iter = 1000, loss = 0.5549367611620779, accuracy = 0.785505, elapsed = 15.454655408859253 s, transmitted = 0.06 MiB
+dcd-psgd-qsgd-4: t = 2000, epoch = 0, iter = 2000, loss = 0.5037048002954457, accuracy = 0.8140775, elapsed = 29.999855995178223 s, transmitted = 0.12 MiB
+dcd-psgd-qsgd-4: t = 3000, epoch = 0, iter = 3000, loss = 0.47507245448587615, accuracy = 0.83647, elapsed = 44.56854772567749 s, transmitted = 0.18 MiB
+dcd-psgd-qsgd-4: t = 4000, epoch = 0, iter = 4000, loss = 0.45636296661203574, accuracy = 0.84446, elapsed = 59.10405230522156 s, transmitted = 0.24 MiB
+dcd-psgd-qsgd-4: t = 5000, epoch = 0, iter = 5000, loss = 0.4432359680165892, accuracy = 0.8505825, elapsed = 73.68834662437439 s, transmitted = 0.3 MiB
+dcd-psgd-qsgd-4: t = 6000, epoch = 0, iter = 6000, loss = 0.4330411725212647, accuracy = 0.8541025, elapsed = 88.34035420417786 s, transmitted = 0.36 MiB
+dcd-psgd-qsgd-4: t = 7000, epoch = 0, iter = 7000, loss = 0.4251927735657201, accuracy = 0.855, elapsed = 102.89775657653809 s, transmitted = 0.42 MiB
+dcd-psgd-qsgd-4: t = 8000, epoch = 0, iter = 8000, loss = 0.41880547082439185, accuracy = 0.85909, elapsed = 117.45678353309631 s, transmitted = 0.48 MiB
+dcd-psgd-qsgd-4: t = 9000, epoch = 0, iter = 9000, loss = 0.41329184451532025, accuracy = 0.860855, elapsed = 132.01353526115417 s, transmitted = 0.54 MiB
+epoch 0: loss 0.40833988913473523 score 0.862435
+dcd-psgd-qsgd-4: t = 10000, epoch = 1, iter = 0, loss = 0.40833988913473523, accuracy = 0.862435, elapsed = 147.4222321510315 s, transmitted = 0.6 MiB
+dcd-psgd-qsgd-4: t = 11000, epoch = 1, iter = 1000, loss = 0.4043813108288205, accuracy = 0.8635175, elapsed = 161.98649263381958 s, transmitted = 0.66 MiB
+dcd-psgd-qsgd-4: t = 12000, epoch = 1, iter = 2000, loss = 0.40084536567200185, accuracy = 0.86432, elapsed = 176.55115222930908 s, transmitted = 0.72 MiB
+dcd-psgd-qsgd-4: t = 13000, epoch = 1, iter = 3000, loss = 0.39799495185273553, accuracy = 0.8649025, elapsed = 191.1192638874054 s, transmitted = 0.78 MiB
+dcd-psgd-qsgd-4: t = 14000, epoch = 1, iter = 4000, loss = 0.3952490931188476, accuracy = 0.866355, elapsed = 205.68171954154968 s, transmitted = 0.84 MiB
+dcd-psgd-qsgd-4: t = 15000, epoch = 1, iter = 5000, loss = 0.3926937585380685, accuracy = 0.86731, elapsed = 220.25228452682495 s, transmitted = 0.9 MiB
+dcd-psgd-qsgd-4: t = 16000, epoch = 1, iter = 6000, loss = 0.39029332979718706, accuracy = 0.8681325, elapsed = 234.83613848686218 s, transmitted = 0.96 MiB
+dcd-psgd-qsgd-4: t = 17000, epoch = 1, iter = 7000, loss = 0.38819596172909404, accuracy = 0.868675, elapsed = 249.39571809768677 s, transmitted = 1.02 MiB
+dcd-psgd-qsgd-4: t = 18000, epoch = 1, iter = 8000, loss = 0.38636945042333803, accuracy = 0.8691675, elapsed = 263.96486711502075 s, transmitted = 1.08 MiB
+dcd-psgd-qsgd-4: t = 19000, epoch = 1, iter = 9000, loss = 0.38460266709476654, accuracy = 0.8695625, elapsed = 278.5303635597229 s, transmitted = 1.14 MiB
+epoch 1: loss 0.3829298475693408 score 0.87036
+dcd-psgd-qsgd-4: t = 20000, epoch = 2, iter = 0, loss = 0.3829298475693408, accuracy = 0.87036, elapsed = 293.9382600784302 s, transmitted = 1.2 MiB
+dcd-psgd-qsgd-4: t = 21000, epoch = 2, iter = 1000, loss = 0.38151790635172683, accuracy = 0.8706075, elapsed = 308.53100419044495 s, transmitted = 1.26 MiB
+dcd-psgd-qsgd-4: t = 22000, epoch = 2, iter = 2000, loss = 0.38028855521613875, accuracy = 0.87099, elapsed = 323.0982885360718 s, transmitted = 1.32 MiB
+dcd-psgd-qsgd-4: t = 23000, epoch = 2, iter = 3000, loss = 0.37896018174328333, accuracy = 0.87101, elapsed = 337.68032002449036 s, transmitted = 1.38 MiB
+dcd-psgd-qsgd-4: t = 24000, epoch = 2, iter = 4000, loss = 0.37764954976686776, accuracy = 0.87156, elapsed = 352.2497613430023 s, transmitted = 1.44 MiB
+dcd-psgd-qsgd-4: t = 25000, epoch = 2, iter = 5000, loss = 0.3764795663095265, accuracy = 0.8720575, elapsed = 366.8212869167328 s, transmitted = 1.5 MiB
+dcd-psgd-qsgd-4: t = 26000, epoch = 2, iter = 6000, loss = 0.3753723412823593, accuracy = 0.872415, elapsed = 381.398859500885 s, transmitted = 1.56 MiB
+dcd-psgd-qsgd-4: t = 27000, epoch = 2, iter = 7000, loss = 0.3743340391703177, accuracy = 0.8722825, elapsed = 395.9571621417999 s, transmitted = 1.62 MiB
+dcd-psgd-qsgd-4: t = 28000, epoch = 2, iter = 8000, loss = 0.3731883399899203, accuracy = 0.87306, elapsed = 410.5217661857605 s, transmitted = 1.68 MiB
+dcd-psgd-qsgd-4: t = 29000, epoch = 2, iter = 9000, loss = 0.3722628813709777, accuracy = 0.8733175, elapsed = 425.10124111175537 s, transmitted = 1.74 MiB
+epoch 2: loss 0.37129819422985316 score 0.8736525
+dcd-psgd-qsgd-4: t = 30000, epoch = 3, iter = 0, loss = 0.37129819422985316, accuracy = 0.8736525, elapsed = 440.5120508670807 s, transmitted = 1.8 MiB
+dcd-psgd-qsgd-4: t = 31000, epoch = 3, iter = 1000, loss = 0.3704591428111466, accuracy = 0.8737375, elapsed = 455.0670220851898 s, transmitted = 1.86 MiB
+dcd-psgd-qsgd-4: t = 32000, epoch = 3, iter = 2000, loss = 0.3695896824405054, accuracy = 0.8740725, elapsed = 469.6377890110016 s, transmitted = 1.92 MiB
+dcd-psgd-qsgd-4: t = 33000, epoch = 3, iter = 3000, loss = 0.3687477567897244, accuracy = 0.87432, elapsed = 484.1921021938324 s, transmitted = 1.98 MiB
+dcd-psgd-qsgd-4: t = 34000, epoch = 3, iter = 4000, loss = 0.36797901206373557, accuracy = 0.874425, elapsed = 498.7515072822571 s, transmitted = 2.04 MiB
+dcd-psgd-qsgd-4: t = 35000, epoch = 3, iter = 5000, loss = 0.3672168592420157, accuracy = 0.8745975, elapsed = 513.3235878944397 s, transmitted = 2.1 MiB
+dcd-psgd-qsgd-4: t = 36000, epoch = 3, iter = 6000, loss = 0.3665039981084508, accuracy = 0.8747025, elapsed = 527.8812770843506 s, transmitted = 2.16 MiB
+dcd-psgd-qsgd-4: t = 37000, epoch = 3, iter = 7000, loss = 0.36590897441910686, accuracy = 0.87479, elapsed = 542.4519662857056 s, transmitted = 2.22 MiB
+dcd-psgd-qsgd-4: t = 38000, epoch = 3, iter = 8000, loss = 0.3653574831555401, accuracy = 0.8746225, elapsed = 557.0333294868469 s, transmitted = 2.28 MiB
+dcd-psgd-qsgd-4: t = 39000, epoch = 3, iter = 9000, loss = 0.36467245714274965, accuracy = 0.8752, elapsed = 571.60764336586 s, transmitted = 2.34 MiB
+epoch 3: loss 0.36411367106037673 score 0.875585
+dcd-psgd-qsgd-4: t = 40000, epoch = 4, iter = 0, loss = 0.36411367106037673, accuracy = 0.875585, elapsed = 587.0371208190918 s, transmitted = 2.4 MiB
+dcd-psgd-qsgd-4: t = 41000, epoch = 4, iter = 1000, loss = 0.3635099672293959, accuracy = 0.8756825, elapsed = 601.5909485816956 s, transmitted = 2.46 MiB
+dcd-psgd-qsgd-4: t = 42000, epoch = 4, iter = 2000, loss = 0.36298024621176406, accuracy = 0.8759025, elapsed = 616.1655478477478 s, transmitted = 2.52 MiB
+dcd-psgd-qsgd-4: t = 43000, epoch = 4, iter = 3000, loss = 0.3624786896449222, accuracy = 0.87595, elapsed = 630.7470505237579 s, transmitted = 2.58 MiB
+dcd-psgd-qsgd-4: t = 44000, epoch = 4, iter = 4000, loss = 0.3619501101947364, accuracy = 0.875775, elapsed = 645.3017461299896 s, transmitted = 2.64 MiB
+dcd-psgd-qsgd-4: t = 45000, epoch = 4, iter = 5000, loss = 0.36142728562219834, accuracy = 0.8761, elapsed = 659.8591048717499 s, transmitted = 2.7 MiB
+dcd-psgd-qsgd-4: t = 46000, epoch = 4, iter = 6000, loss = 0.36096260113398126, accuracy = 0.8762, elapsed = 674.3984680175781 s, transmitted = 2.76 MiB
+dcd-psgd-qsgd-4: t = 47000, epoch = 4, iter = 7000, loss = 0.3605141249151271, accuracy = 0.8762475, elapsed = 688.9385182857513 s, transmitted = 2.82 MiB
+dcd-psgd-qsgd-4: t = 48000, epoch = 4, iter = 8000, loss = 0.36009658495241187, accuracy = 0.8762925, elapsed = 703.4638628959656 s, transmitted = 2.88 MiB
+dcd-psgd-qsgd-4: t = 49000, epoch = 4, iter = 9000, loss = 0.3596240258295787, accuracy = 0.876415, elapsed = 717.994927406311 s, transmitted = 2.94 MiB
+epoch 4: loss 0.3591787997242824 score 0.87672
+dcd-psgd-qsgd-4: t = 50000, epoch = 5, iter = 0, loss = 0.3591787997242824, accuracy = 0.87672, elapsed = 733.3735594749451 s, transmitted = 3.0 MiB
+dcd-psgd-qsgd-4: t = 51000, epoch = 5, iter = 1000, loss = 0.3587493058431363, accuracy = 0.8767175, elapsed = 747.9215834140778 s, transmitted = 3.06 MiB
+dcd-psgd-qsgd-4: t = 52000, epoch = 5, iter = 2000, loss = 0.3583648328802469, accuracy = 0.8768175, elapsed = 762.4668414592743 s, transmitted = 3.12 MiB
+dcd-psgd-qsgd-4: t = 53000, epoch = 5, iter = 3000, loss = 0.3580014424580576, accuracy = 0.8769175, elapsed = 777.0418045520782 s, transmitted = 3.18 MiB
+dcd-psgd-qsgd-4: t = 54000, epoch = 5, iter = 4000, loss = 0.35758459536817455, accuracy = 0.8770325, elapsed = 791.5901327133179 s, transmitted = 3.24 MiB
+dcd-psgd-qsgd-4: t = 55000, epoch = 5, iter = 5000, loss = 0.35723004888019794, accuracy = 0.877045, elapsed = 806.1550054550171 s, transmitted = 3.3 MiB
+dcd-psgd-qsgd-4: t = 56000, epoch = 5, iter = 6000, loss = 0.356797987345479, accuracy = 0.877315, elapsed = 820.7062907218933 s, transmitted = 3.36 MiB
+dcd-psgd-qsgd-4: t = 57000, epoch = 5, iter = 7000, loss = 0.3564180189967376, accuracy = 0.8771775, elapsed = 835.2838237285614 s, transmitted = 3.42 MiB
+dcd-psgd-qsgd-4: t = 58000, epoch = 5, iter = 8000, loss = 0.3560507083187778, accuracy = 0.8774125, elapsed = 849.8480587005615 s, transmitted = 3.48 MiB
+dcd-psgd-qsgd-4: t = 59000, epoch = 5, iter = 9000, loss = 0.3557066355844012, accuracy = 0.877365, elapsed = 864.3962781429291 s, transmitted = 3.54 MiB
+epoch 5: loss 0.35540212627513085 score 0.877675
+dcd-psgd-qsgd-4: t = 60000, epoch = 6, iter = 0, loss = 0.35540212627513085, accuracy = 0.877675, elapsed = 879.7958543300629 s, transmitted = 3.6 MiB
+dcd-psgd-qsgd-4: t = 61000, epoch = 6, iter = 1000, loss = 0.3550642418555368, accuracy = 0.8775225, elapsed = 894.3530714511871 s, transmitted = 3.66 MiB
+dcd-psgd-qsgd-4: t = 62000, epoch = 6, iter = 2000, loss = 0.35473794225178223, accuracy = 0.8777875, elapsed = 908.9688775539398 s, transmitted = 3.72 MiB
+dcd-psgd-qsgd-4: t = 63000, epoch = 6, iter = 3000, loss = 0.3544013475588086, accuracy = 0.877765, elapsed = 923.5341672897339 s, transmitted = 3.78 MiB
+dcd-psgd-qsgd-4: t = 64000, epoch = 6, iter = 4000, loss = 0.35405156615000366, accuracy = 0.87787, elapsed = 938.0917179584503 s, transmitted = 3.84 MiB
+dcd-psgd-qsgd-4: t = 65000, epoch = 6, iter = 5000, loss = 0.35373481741969887, accuracy = 0.8779475, elapsed = 952.6576628684998 s, transmitted = 3.9 MiB
+dcd-psgd-qsgd-4: t = 66000, epoch = 6, iter = 6000, loss = 0.35344281146601425, accuracy = 0.8781075, elapsed = 967.2246699333191 s, transmitted = 3.96 MiB
+dcd-psgd-qsgd-4: t = 67000, epoch = 6, iter = 7000, loss = 0.35313935494548193, accuracy = 0.8780825, elapsed = 981.7572822570801 s, transmitted = 4.02 MiB
+dcd-psgd-qsgd-4: t = 68000, epoch = 6, iter = 8000, loss = 0.35284349513794017, accuracy = 0.87818, elapsed = 996.3038067817688 s, transmitted = 4.08 MiB
+dcd-psgd-qsgd-4: t = 69000, epoch = 6, iter = 9000, loss = 0.35259434172225723, accuracy = 0.8781925, elapsed = 1010.8435115814209 s, transmitted = 4.14 MiB
+epoch 6: loss 0.3523466612791018 score 0.8782625
+dcd-psgd-qsgd-4: t = 70000, epoch = 7, iter = 0, loss = 0.3523466612791018, accuracy = 0.8782625, elapsed = 1026.23251414299 s, transmitted = 4.2 MiB
+dcd-psgd-qsgd-4: t = 71000, epoch = 7, iter = 1000, loss = 0.35209343758679823, accuracy = 0.87839, elapsed = 1040.7964115142822 s, transmitted = 4.26 MiB
+dcd-psgd-qsgd-4: t = 72000, epoch = 7, iter = 2000, loss = 0.3518232590134077, accuracy = 0.87849, elapsed = 1055.3786380290985 s, transmitted = 4.32 MiB
+dcd-psgd-qsgd-4: t = 73000, epoch = 7, iter = 3000, loss = 0.3515754714617549, accuracy = 0.8785025, elapsed = 1069.9182844161987 s, transmitted = 4.38 MiB
+dcd-psgd-qsgd-4: t = 74000, epoch = 7, iter = 4000, loss = 0.3513230816734568, accuracy = 0.8785625, elapsed = 1084.451045036316 s, transmitted = 4.44 MiB
+dcd-psgd-qsgd-4: t = 75000, epoch = 7, iter = 5000, loss = 0.35108307525619303, accuracy = 0.878565, elapsed = 1098.975997686386 s, transmitted = 4.5 MiB
+dcd-psgd-qsgd-4: t = 76000, epoch = 7, iter = 6000, loss = 0.3508632977221183, accuracy = 0.8785925, elapsed = 1113.5469172000885 s, transmitted = 4.56 MiB
+dcd-psgd-qsgd-4: t = 77000, epoch = 7, iter = 7000, loss = 0.35054820189559327, accuracy = 0.878665, elapsed = 1128.0853161811829 s, transmitted = 4.62 MiB
+dcd-psgd-qsgd-4: t = 78000, epoch = 7, iter = 8000, loss = 0.3503246893407349, accuracy = 0.878855, elapsed = 1142.5975909233093 s, transmitted = 4.68 MiB
+dcd-psgd-qsgd-4: t = 79000, epoch = 7, iter = 9000, loss = 0.3500742695449776, accuracy = 0.8789375, elapsed = 1157.1365456581116 s, transmitted = 4.74 MiB
+epoch 7: loss 0.3498953639711887 score 0.8790075
+dcd-psgd-qsgd-4: t = 80000, epoch = 8, iter = 0, loss = 0.3498953639711887, accuracy = 0.8790075, elapsed = 1172.5373275279999 s, transmitted = 4.8 MiB
+dcd-psgd-qsgd-4: t = 81000, epoch = 8, iter = 1000, loss = 0.34963837789611896, accuracy = 0.879085, elapsed = 1187.1217880249023 s, transmitted = 4.86 MiB
+dcd-psgd-qsgd-4: t = 82000, epoch = 8, iter = 2000, loss = 0.3494529232828608, accuracy = 0.879095, elapsed = 1201.6865367889404 s, transmitted = 4.92 MiB
+dcd-psgd-qsgd-4: t = 83000, epoch = 8, iter = 3000, loss = 0.34920896875443663, accuracy = 0.879165, elapsed = 1216.2272522449493 s, transmitted = 4.98 MiB
+dcd-psgd-qsgd-4: t = 84000, epoch = 8, iter = 4000, loss = 0.349006502204965, accuracy = 0.879175, elapsed = 1230.7916147708893 s, transmitted = 5.04 MiB
+dcd-psgd-qsgd-4: t = 85000, epoch = 8, iter = 5000, loss = 0.3487922816484476, accuracy = 0.87927, elapsed = 1245.373697757721 s, transmitted = 5.1 MiB
+dcd-psgd-qsgd-4: t = 86000, epoch = 8, iter = 6000, loss = 0.3485966416401308, accuracy = 0.8792475, elapsed = 1259.9482681751251 s, transmitted = 5.16 MiB
+dcd-psgd-qsgd-4: t = 87000, epoch = 8, iter = 7000, loss = 0.3483786628092032, accuracy = 0.8793625, elapsed = 1274.502296447754 s, transmitted = 5.22 MiB
+dcd-psgd-qsgd-4: t = 88000, epoch = 8, iter = 8000, loss = 0.34817237654292227, accuracy = 0.879365, elapsed = 1289.057697057724 s, transmitted = 5.28 MiB
+dcd-psgd-qsgd-4: t = 89000, epoch = 8, iter = 9000, loss = 0.3479790441404205, accuracy = 0.87939, elapsed = 1303.6255116462708 s, transmitted = 5.34 MiB
+epoch 8: loss 0.34779635761919353 score 0.8795325
+dcd-psgd-qsgd-4: t = 90000, epoch = 9, iter = 0, loss = 0.34779635761919353, accuracy = 0.8795325, elapsed = 1319.053561449051 s, transmitted = 5.4 MiB
+dcd-psgd-qsgd-4: t = 91000, epoch = 9, iter = 1000, loss = 0.34761602157963817, accuracy = 0.8795225, elapsed = 1333.6004002094269 s, transmitted = 5.46 MiB
+dcd-psgd-qsgd-4: t = 92000, epoch = 9, iter = 2000, loss = 0.3474243181677863, accuracy = 0.879595, elapsed = 1348.1539080142975 s, transmitted = 5.52 MiB
+dcd-psgd-qsgd-4: t = 93000, epoch = 9, iter = 3000, loss = 0.34722905540465077, accuracy = 0.8796825, elapsed = 1362.7181899547577 s, transmitted = 5.58 MiB
+dcd-psgd-qsgd-4: t = 94000, epoch = 9, iter = 4000, loss = 0.3470478119230064, accuracy = 0.87964, elapsed = 1377.2801897525787 s, transmitted = 5.64 MiB
+dcd-psgd-qsgd-4: t = 95000, epoch = 9, iter = 5000, loss = 0.3468795908792622, accuracy = 0.879775, elapsed = 1391.8436255455017 s, transmitted = 5.7 MiB
+dcd-psgd-qsgd-4: t = 96000, epoch = 9, iter = 6000, loss = 0.3466813513826293, accuracy = 0.8798475, elapsed = 1406.4563510417938 s, transmitted = 5.76 MiB
+dcd-psgd-qsgd-4: t = 97000, epoch = 9, iter = 7000, loss = 0.3465170815246506, accuracy = 0.8798525, elapsed = 1421.026407957077 s, transmitted = 5.82 MiB
+dcd-psgd-qsgd-4: t = 98000, epoch = 9, iter = 8000, loss = 0.3463347964761852, accuracy = 0.8797925, elapsed = 1435.586130142212 s, transmitted = 5.88 MiB
+dcd-psgd-qsgd-4: t = 99000, epoch = 9, iter = 9000, loss = 0.3461789854448494, accuracy = 0.879865, elapsed = 1450.1298339366913 s, transmitted = 5.94 MiB
+epoch 9: loss 0.3460257716271067 score 0.8799575
+Training took: 1464.6779551506042s
+dcd-psgd-qsgd-4 - score: 0.8799575
+(array([0.69300094, 0.40833989, 0.38292985, 0.37129819, 0.36411367,
+       0.3591788 , 0.35540213, 0.35234666, 0.34989536, 0.34779636,
+       0.34602577]), array([0.69300094, 0.55493676, 0.5037048 , 0.47507245, 0.45636297,
+       0.44323597, 0.43304117, 0.42519277, 0.41880547, 0.41329184,
+       0.40833989, 0.40438131, 0.40084537, 0.39799495, 0.39524909,
+       0.39269376, 0.39029333, 0.38819596, 0.38636945, 0.38460267,
+       0.38292985, 0.38151791, 0.38028856, 0.37896018, 0.37764955,
+       0.37647957, 0.37537234, 0.37433404, 0.37318834, 0.37226288,
+       0.37129819, 0.37045914, 0.36958968, 0.36874776, 0.36797901,
+       0.36721686, 0.366504  , 0.36590897, 0.36535748, 0.36467246,
+       0.36411367, 0.36350997, 0.36298025, 0.36247869, 0.36195011,
+       0.36142729, 0.3609626 , 0.36051412, 0.36009658, 0.35962403,
+       0.3591788 , 0.35874931, 0.35836483, 0.35800144, 0.3575846 ,
+       0.35723005, 0.35679799, 0.35641802, 0.35605071, 0.35570664,
+       0.35540213, 0.35506424, 0.35473794, 0.35440135, 0.35405157,
+       0.35373482, 0.35344281, 0.35313935, 0.3528435 , 0.35259434,
+       0.35234666, 0.35209344, 0.35182326, 0.35157547, 0.35132308,
+       0.35108308, 0.3508633 , 0.3505482 , 0.35032469, 0.35007427,
+       0.34989536, 0.34963838, 0.34945292, 0.34920897, 0.3490065 ,
+       0.34879228, 0.34859664, 0.34837866, 0.34817238, 0.34797904,
+       0.34779636, 0.34761602, 0.34742432, 0.34722906, 0.34704781,
+       0.34687959, 0.34668135, 0.34651708, 0.3463348 , 0.34617899,
+       0.        ]))
+results saved in "dump/epsilon-final-dcd-qsgd-4bit-sorted-40/"
+load dataset
+start experiment
+length of indices: 40
+length of last machine indices: 10000
+Number of different labels: 2
+ecd-psgd-qsgd-4: t = 0, epoch = 0, iter = 0, loss = 0.6932196427224807, accuracy = 0.49442, elapsed = 0.8599686622619629 s, transmitted = 0.0 MiB
+ecd-psgd-qsgd-4: t = 1000, epoch = 0, iter = 1000, loss = 0.7449506142974232, accuracy = 0.511815, elapsed = 17.843631744384766 s, transmitted = 0.06 MiB
+ecd-psgd-qsgd-4: t = 2000, epoch = 0, iter = 2000, loss = 1.007497541548792, accuracy = 0.50896, elapsed = 34.579108476638794 s, transmitted = 0.12 MiB
+ecd-psgd-qsgd-4: t = 3000, epoch = 0, iter = 3000, loss = 1.075047635620197, accuracy = 0.5167675, elapsed = 51.26425337791443 s, transmitted = 0.18 MiB
+ecd-psgd-qsgd-4: t = 4000, epoch = 0, iter = 4000, loss = 1.2836077961788093, accuracy = 0.5136625, elapsed = 67.90013122558594 s, transmitted = 0.24 MiB
+ecd-psgd-qsgd-4: t = 5000, epoch = 0, iter = 5000, loss = 1.7855828780597114, accuracy = 0.5099925, elapsed = 84.57555651664734 s, transmitted = 0.3 MiB
+ecd-psgd-qsgd-4: t = 6000, epoch = 0, iter = 6000, loss = 2.400977640560436, accuracy = 0.511585, elapsed = 101.27933883666992 s, transmitted = 0.36 MiB
+ecd-psgd-qsgd-4: t = 7000, epoch = 0, iter = 7000, loss = 3.162031682241996, accuracy = 0.51204, elapsed = 118.03793096542358 s, transmitted = 0.42 MiB
+ecd-psgd-qsgd-4: t = 8000, epoch = 0, iter = 8000, loss = 3.890497095622919, accuracy = 0.513285, elapsed = 134.76374530792236 s, transmitted = 0.48 MiB
+ecd-psgd-qsgd-4: t = 9000, epoch = 0, iter = 9000, loss = 4.656759736125347, accuracy = 0.5129725, elapsed = 151.43361473083496 s, transmitted = 0.54 MiB
+epoch 0: loss 5.461843703100332 score 0.5114
+ecd-psgd-qsgd-4: t = 10000, epoch = 1, iter = 0, loss = 5.461843703100332, accuracy = 0.5114, elapsed = 168.9793622493744 s, transmitted = 0.6 MiB
+ecd-psgd-qsgd-4: t = 11000, epoch = 1, iter = 1000, loss = 6.182592935793286, accuracy = 0.5100575, elapsed = 185.69790816307068 s, transmitted = 0.66 MiB
+ecd-psgd-qsgd-4: t = 12000, epoch = 1, iter = 2000, loss = 6.566701864360358, accuracy = 0.5086275, elapsed = 202.38780307769775 s, transmitted = 0.72 MiB
+ecd-psgd-qsgd-4: t = 13000, epoch = 1, iter = 3000, loss = 6.840672645032187, accuracy = 0.50734, elapsed = 219.0917489528656 s, transmitted = 0.78 MiB
+ecd-psgd-qsgd-4: t = 14000, epoch = 1, iter = 4000, loss = 7.15844441060939, accuracy = 0.5060775, elapsed = 235.78892993927002 s, transmitted = 0.84 MiB
+ecd-psgd-qsgd-4: t = 15000, epoch = 1, iter = 5000, loss = 7.654586626836531, accuracy = 0.50457, elapsed = 252.47683358192444 s, transmitted = 0.9 MiB
+ecd-psgd-qsgd-4: t = 16000, epoch = 1, iter = 6000, loss = 8.111321611225224, accuracy = 0.50346, elapsed = 269.2221050262451 s, transmitted = 0.96 MiB
+ecd-psgd-qsgd-4: t = 17000, epoch = 1, iter = 7000, loss = 8.297417661341917, accuracy = 0.5026925, elapsed = 285.94969749450684 s, transmitted = 1.02 MiB
+ecd-psgd-qsgd-4: t = 18000, epoch = 1, iter = 8000, loss = 8.312024285782984, accuracy = 0.5017, elapsed = 302.66979026794434 s, transmitted = 1.08 MiB
+ecd-psgd-qsgd-4: t = 19000, epoch = 1, iter = 9000, loss = 8.373640039654365, accuracy = 0.50159, elapsed = 319.36596632003784 s, transmitted = 1.14 MiB
+epoch 1: loss 8.624372678111714 score 0.501285
+ecd-psgd-qsgd-4: t = 20000, epoch = 2, iter = 0, loss = 8.624372678111714, accuracy = 0.501285, elapsed = 336.9708387851715 s, transmitted = 1.2 MiB
+ecd-psgd-qsgd-4: t = 21000, epoch = 2, iter = 1000, loss = 8.780958993176712, accuracy = 0.5007725, elapsed = 353.66126918792725 s, transmitted = 1.26 MiB
+ecd-psgd-qsgd-4: t = 22000, epoch = 2, iter = 2000, loss = 8.957815204666883, accuracy = 0.500655, elapsed = 370.37800788879395 s, transmitted = 1.32 MiB
+ecd-psgd-qsgd-4: t = 23000, epoch = 2, iter = 3000, loss = 9.238651742893998, accuracy = 0.5004525, elapsed = 387.0680572986603 s, transmitted = 1.38 MiB
+ecd-psgd-qsgd-4: t = 24000, epoch = 2, iter = 4000, loss = 9.295909429807285, accuracy = 0.50005, elapsed = 403.74886417388916 s, transmitted = 1.44 MiB
+ecd-psgd-qsgd-4: t = 25000, epoch = 2, iter = 5000, loss = 9.282085582757341, accuracy = 0.49994, elapsed = 420.41488885879517 s, transmitted = 1.5 MiB
+ecd-psgd-qsgd-4: t = 26000, epoch = 2, iter = 6000, loss = 9.12491989635413, accuracy = 0.4998175, elapsed = 437.1060519218445 s, transmitted = 1.56 MiB
+ecd-psgd-qsgd-4: t = 27000, epoch = 2, iter = 7000, loss = 8.87112980294892, accuracy = 0.4999775, elapsed = 453.7759463787079 s, transmitted = 1.62 MiB
+ecd-psgd-qsgd-4: t = 28000, epoch = 2, iter = 8000, loss = 8.5930039554912, accuracy = 0.4996075, elapsed = 470.4810516834259 s, transmitted = 1.68 MiB
+ecd-psgd-qsgd-4: t = 29000, epoch = 2, iter = 9000, loss = 8.329694890653181, accuracy = 0.4993225, elapsed = 487.14403796195984 s, transmitted = 1.74 MiB
+epoch 2: loss 8.065359023441344 score 0.49947
+ecd-psgd-qsgd-4: t = 30000, epoch = 3, iter = 0, loss = 8.065359023441344, accuracy = 0.49947, elapsed = 504.690931558609 s, transmitted = 1.8 MiB
+ecd-psgd-qsgd-4: t = 31000, epoch = 3, iter = 1000, loss = 7.824956584838997, accuracy = 0.4993175, elapsed = 521.4019627571106 s, transmitted = 1.86 MiB
+ecd-psgd-qsgd-4: t = 32000, epoch = 3, iter = 2000, loss = 7.619739855501778, accuracy = 0.4990725, elapsed = 538.0903522968292 s, transmitted = 1.92 MiB
+ecd-psgd-qsgd-4: t = 33000, epoch = 3, iter = 3000, loss = 7.418865886800673, accuracy = 0.49885, elapsed = 554.8946244716644 s, transmitted = 1.98 MiB
+ecd-psgd-qsgd-4: t = 34000, epoch = 3, iter = 4000, loss = 7.2314595794794725, accuracy = 0.498565, elapsed = 571.8396470546722 s, transmitted = 2.04 MiB
+ecd-psgd-qsgd-4: t = 35000, epoch = 3, iter = 5000, loss = 7.121456454279291, accuracy = 0.498535, elapsed = 588.7471256256104 s, transmitted = 2.1 MiB
+ecd-psgd-qsgd-4: t = 36000, epoch = 3, iter = 6000, loss = 6.955602612427229, accuracy = 0.49844, elapsed = 605.7135143280029 s, transmitted = 2.16 MiB
+ecd-psgd-qsgd-4: t = 37000, epoch = 3, iter = 7000, loss = 6.848532631456841, accuracy = 0.4985875, elapsed = 622.6206650733948 s, transmitted = 2.22 MiB
+ecd-psgd-qsgd-4: t = 38000, epoch = 3, iter = 8000, loss = 6.820457461271746, accuracy = 0.4985675, elapsed = 639.5083792209625 s, transmitted = 2.28 MiB
+ecd-psgd-qsgd-4: t = 39000, epoch = 3, iter = 9000, loss = 6.8033199136035165, accuracy = 0.498915, elapsed = 656.3302292823792 s, transmitted = 2.34 MiB
+epoch 3: loss 6.808598078016518 score 0.498955
+ecd-psgd-qsgd-4: t = 40000, epoch = 4, iter = 0, loss = 6.808598078016518, accuracy = 0.498955, elapsed = 673.9797329902649 s, transmitted = 2.4 MiB
+ecd-psgd-qsgd-4: t = 41000, epoch = 4, iter = 1000, loss = 6.858053237031482, accuracy = 0.4988225, elapsed = 690.7861096858978 s, transmitted = 2.46 MiB
+ecd-psgd-qsgd-4: t = 42000, epoch = 4, iter = 2000, loss = 6.958681348361535, accuracy = 0.4985975, elapsed = 707.5956575870514 s, transmitted = 2.52 MiB
+ecd-psgd-qsgd-4: t = 43000, epoch = 4, iter = 3000, loss = 7.093676790778922, accuracy = 0.4985375, elapsed = 724.4151382446289 s, transmitted = 2.58 MiB
+ecd-psgd-qsgd-4: t = 44000, epoch = 4, iter = 4000, loss = 7.157705632982906, accuracy = 0.49848, elapsed = 741.2327175140381 s, transmitted = 2.64 MiB
+ecd-psgd-qsgd-4: t = 45000, epoch = 4, iter = 5000, loss = 7.254682492083548, accuracy = 0.4987775, elapsed = 758.0449523925781 s, transmitted = 2.7 MiB
+ecd-psgd-qsgd-4: t = 46000, epoch = 4, iter = 6000, loss = 7.3475848102548325, accuracy = 0.4987925, elapsed = 774.8571469783783 s, transmitted = 2.76 MiB
+ecd-psgd-qsgd-4: t = 47000, epoch = 4, iter = 7000, loss = 7.449916295355775, accuracy = 0.4988325, elapsed = 791.6818919181824 s, transmitted = 2.82 MiB
+ecd-psgd-qsgd-4: t = 48000, epoch = 4, iter = 8000, loss = 7.5730022098966305, accuracy = 0.498565, elapsed = 808.5361890792847 s, transmitted = 2.88 MiB
+ecd-psgd-qsgd-4: t = 49000, epoch = 4, iter = 9000, loss = 7.628131544943904, accuracy = 0.49873, elapsed = 825.3719182014465 s, transmitted = 2.94 MiB
+epoch 4: loss 7.7060460457679 score 0.49888
+ecd-psgd-qsgd-4: t = 50000, epoch = 5, iter = 0, loss = 7.7060460457679, accuracy = 0.49888, elapsed = 843.089513540268 s, transmitted = 3.0 MiB
+ecd-psgd-qsgd-4: t = 51000, epoch = 5, iter = 1000, loss = 7.7635677205119915, accuracy = 0.4987425, elapsed = 859.9237143993378 s, transmitted = 3.06 MiB
+ecd-psgd-qsgd-4: t = 52000, epoch = 5, iter = 2000, loss = 7.813943397965117, accuracy = 0.4987125, elapsed = 876.8416750431061 s, transmitted = 3.12 MiB
+ecd-psgd-qsgd-4: t = 53000, epoch = 5, iter = 3000, loss = 7.864161149548236, accuracy = 0.49879, elapsed = 893.8122627735138 s, transmitted = 3.18 MiB
+ecd-psgd-qsgd-4: t = 54000, epoch = 5, iter = 4000, loss = 7.917707493082873, accuracy = 0.4987525, elapsed = 910.7399232387543 s, transmitted = 3.24 MiB
+ecd-psgd-qsgd-4: t = 55000, epoch = 5, iter = 5000, loss = 7.973599840286437, accuracy = 0.49901, elapsed = 927.647944688797 s, transmitted = 3.3 MiB
+ecd-psgd-qsgd-4: t = 56000, epoch = 5, iter = 6000, loss = 8.028905345555913, accuracy = 0.49887, elapsed = 944.5321164131165 s, transmitted = 3.36 MiB
+ecd-psgd-qsgd-4: t = 57000, epoch = 5, iter = 7000, loss = 8.083777357323022, accuracy = 0.49888, elapsed = 961.4237694740295 s, transmitted = 3.42 MiB
+ecd-psgd-qsgd-4: t = 58000, epoch = 5, iter = 8000, loss = 8.137383316860468, accuracy = 0.4988875, elapsed = 978.323343038559 s, transmitted = 3.48 MiB
+ecd-psgd-qsgd-4: t = 59000, epoch = 5, iter = 9000, loss = 8.192995214707437, accuracy = 0.49883, elapsed = 995.1977345943451 s, transmitted = 3.54 MiB
+epoch 5: loss 8.254711220220699 score 0.498755
+ecd-psgd-qsgd-4: t = 60000, epoch = 6, iter = 0, loss = 8.254711220220699, accuracy = 0.498755, elapsed = 1012.9307489395142 s, transmitted = 3.6 MiB
+ecd-psgd-qsgd-4: t = 61000, epoch = 6, iter = 1000, loss = 8.322352262335388, accuracy = 0.49871, elapsed = 1029.8038606643677 s, transmitted = 3.66 MiB
+ecd-psgd-qsgd-4: t = 62000, epoch = 6, iter = 2000, loss = 8.398935273196042, accuracy = 0.4986125, elapsed = 1046.6963167190552 s, transmitted = 3.72 MiB
+ecd-psgd-qsgd-4: t = 63000, epoch = 6, iter = 3000, loss = 8.479566597291118, accuracy = 0.4987025, elapsed = 1063.5716433525085 s, transmitted = 3.78 MiB
+ecd-psgd-qsgd-4: t = 64000, epoch = 6, iter = 4000, loss = 8.56215871490078, accuracy = 0.49865, elapsed = 1080.4880454540253 s, transmitted = 3.84 MiB
+ecd-psgd-qsgd-4: t = 65000, epoch = 6, iter = 5000, loss = 8.630568792454698, accuracy = 0.4984625, elapsed = 1097.3634734153748 s, transmitted = 3.9 MiB
+ecd-psgd-qsgd-4: t = 66000, epoch = 6, iter = 6000, loss = 8.708409730794806, accuracy = 0.4984875, elapsed = 1114.2113642692566 s, transmitted = 3.96 MiB
+ecd-psgd-qsgd-4: t = 67000, epoch = 6, iter = 7000, loss = 8.805533384470838, accuracy = 0.4983625, elapsed = 1131.0216443538666 s, transmitted = 4.02 MiB
+ecd-psgd-qsgd-4: t = 68000, epoch = 6, iter = 8000, loss = 8.923460351584477, accuracy = 0.4983425, elapsed = 1147.8272287845612 s, transmitted = 4.08 MiB
+ecd-psgd-qsgd-4: t = 69000, epoch = 6, iter = 9000, loss = 9.106049841209327, accuracy = 0.4984475, elapsed = 1164.6326372623444 s, transmitted = 4.14 MiB
+epoch 6: loss 9.321754964677988 score 0.4983425
+ecd-psgd-qsgd-4: t = 70000, epoch = 7, iter = 0, loss = 9.321754964677988, accuracy = 0.4983425, elapsed = 1182.2788033485413 s, transmitted = 4.2 MiB
+ecd-psgd-qsgd-4: t = 71000, epoch = 7, iter = 1000, loss = 9.529339928451058, accuracy = 0.498425, elapsed = 1199.0808594226837 s, transmitted = 4.26 MiB
+ecd-psgd-qsgd-4: t = 72000, epoch = 7, iter = 2000, loss = 9.716690518136168, accuracy = 0.49831, elapsed = 1215.916152715683 s, transmitted = 4.32 MiB
+ecd-psgd-qsgd-4: t = 73000, epoch = 7, iter = 3000, loss = 9.890334248427273, accuracy = 0.4983225, elapsed = 1232.7391126155853 s, transmitted = 4.38 MiB
+ecd-psgd-qsgd-4: t = 74000, epoch = 7, iter = 4000, loss = 10.055938665105636, accuracy = 0.498315, elapsed = 1249.584236383438 s, transmitted = 4.44 MiB
+ecd-psgd-qsgd-4: t = 75000, epoch = 7, iter = 5000, loss = 10.21133635850951, accuracy = 0.4982675, elapsed = 1266.4712090492249 s, transmitted = 4.5 MiB
+ecd-psgd-qsgd-4: t = 76000, epoch = 7, iter = 6000, loss = 10.35939421133527, accuracy = 0.4982375, elapsed = 1283.3293359279633 s, transmitted = 4.56 MiB
+ecd-psgd-qsgd-4: t = 77000, epoch = 7, iter = 7000, loss = 10.50034625541259, accuracy = 0.4982625, elapsed = 1300.137745141983 s, transmitted = 4.62 MiB
+ecd-psgd-qsgd-4: t = 78000, epoch = 7, iter = 8000, loss = 10.62966000014592, accuracy = 0.4981775, elapsed = 1316.99063706398 s, transmitted = 4.68 MiB
+ecd-psgd-qsgd-4: t = 79000, epoch = 7, iter = 9000, loss = 10.753729621880506, accuracy = 0.49816, elapsed = 1333.820285320282 s, transmitted = 4.74 MiB
+epoch 7: loss 10.875743589429655 score 0.4982925
+ecd-psgd-qsgd-4: t = 80000, epoch = 8, iter = 0, loss = 10.875743589429655, accuracy = 0.4982925, elapsed = 1351.6169419288635 s, transmitted = 4.8 MiB
+ecd-psgd-qsgd-4: t = 81000, epoch = 8, iter = 1000, loss = 10.996484746129791, accuracy = 0.4981875, elapsed = 1368.4977247714996 s, transmitted = 4.86 MiB
+ecd-psgd-qsgd-4: t = 82000, epoch = 8, iter = 2000, loss = 11.118459976469053, accuracy = 0.498095, elapsed = 1385.7444515228271 s, transmitted = 4.92 MiB
+ecd-psgd-qsgd-4: t = 83000, epoch = 8, iter = 3000, loss = 11.23516080259798, accuracy = 0.4980525, elapsed = 1402.6105098724365 s, transmitted = 4.98 MiB
+ecd-psgd-qsgd-4: t = 84000, epoch = 8, iter = 4000, loss = 11.343612326594753, accuracy = 0.4980275, elapsed = 1419.4670631885529 s, transmitted = 5.04 MiB
+ecd-psgd-qsgd-4: t = 85000, epoch = 8, iter = 5000, loss = 11.449502408870586, accuracy = 0.4981375, elapsed = 1436.3483474254608 s, transmitted = 5.1 MiB
+ecd-psgd-qsgd-4: t = 86000, epoch = 8, iter = 6000, loss = 11.544145102278348, accuracy = 0.4981425, elapsed = 1453.21844124794 s, transmitted = 5.16 MiB
+ecd-psgd-qsgd-4: t = 87000, epoch = 8, iter = 7000, loss = 11.629745450829722, accuracy = 0.498145, elapsed = 1470.1410393714905 s, transmitted = 5.22 MiB
+ecd-psgd-qsgd-4: t = 88000, epoch = 8, iter = 8000, loss = 11.723989613020697, accuracy = 0.4981725, elapsed = 1487.01416015625 s, transmitted = 5.28 MiB
+ecd-psgd-qsgd-4: t = 89000, epoch = 8, iter = 9000, loss = 11.818159687626249, accuracy = 0.4981775, elapsed = 1503.8626532554626 s, transmitted = 5.34 MiB
+epoch 8: loss 11.906528238235232 score 0.4981575
+ecd-psgd-qsgd-4: t = 90000, epoch = 9, iter = 0, loss = 11.906528238235232, accuracy = 0.4981575, elapsed = 1521.5520250797272 s, transmitted = 5.4 MiB
+ecd-psgd-qsgd-4: t = 91000, epoch = 9, iter = 1000, loss = 11.98840445406742, accuracy = 0.4981325, elapsed = 1538.5207889080048 s, transmitted = 5.46 MiB
+ecd-psgd-qsgd-4: t = 92000, epoch = 9, iter = 2000, loss = 12.06469664832833, accuracy = 0.4981125, elapsed = 1555.3917362689972 s, transmitted = 5.52 MiB
+ecd-psgd-qsgd-4: t = 93000, epoch = 9, iter = 3000, loss = 12.143459844019723, accuracy = 0.4981075, elapsed = 1572.2514696121216 s, transmitted = 5.58 MiB
+ecd-psgd-qsgd-4: t = 94000, epoch = 9, iter = 4000, loss = 12.220706277579335, accuracy = 0.4981075, elapsed = 1589.123450756073 s, transmitted = 5.64 MiB
+ecd-psgd-qsgd-4: t = 95000, epoch = 9, iter = 5000, loss = 12.293930552150588, accuracy = 0.4980825, elapsed = 1605.9737684726715 s, transmitted = 5.7 MiB
+ecd-psgd-qsgd-4: t = 96000, epoch = 9, iter = 6000, loss = 12.363754573033686, accuracy = 0.49812, elapsed = 1622.8625423908234 s, transmitted = 5.76 MiB
+ecd-psgd-qsgd-4: t = 97000, epoch = 9, iter = 7000, loss = 12.436368896102737, accuracy = 0.498105, elapsed = 1639.7474796772003 s, transmitted = 5.82 MiB
+ecd-psgd-qsgd-4: t = 98000, epoch = 9, iter = 8000, loss = 12.514521638310741, accuracy = 0.49808, elapsed = 1656.6028909683228 s, transmitted = 5.88 MiB
+ecd-psgd-qsgd-4: t = 99000, epoch = 9, iter = 9000, loss = 12.596135514124365, accuracy = 0.4980675, elapsed = 1673.4532964229584 s, transmitted = 5.94 MiB
+epoch 9: loss 12.676299915189194 score 0.4980925
+Training took: 1690.337516784668s
+ecd-psgd-qsgd-4 - score: 0.4980925
+(array([ 0.69321964,  5.4618437 ,  8.62437268,  8.06535902,  6.80859808,
+        7.70604605,  8.25471122,  9.32175496, 10.87574359, 11.90652824,
+       12.67629992]), array([ 0.69321964,  0.74495061,  1.00749754,  1.07504764,  1.2836078 ,
+        1.78558288,  2.40097764,  3.16203168,  3.8904971 ,  4.65675974,
+        5.4618437 ,  6.18259294,  6.56670186,  6.84067265,  7.15844441,
+        7.65458663,  8.11132161,  8.29741766,  8.31202429,  8.37364004,
+        8.62437268,  8.78095899,  8.9578152 ,  9.23865174,  9.29590943,
+        9.28208558,  9.1249199 ,  8.8711298 ,  8.59300396,  8.32969489,
+        8.06535902,  7.82495658,  7.61973986,  7.41886589,  7.23145958,
+        7.12145645,  6.95560261,  6.84853263,  6.82045746,  6.80331991,
+        6.80859808,  6.85805324,  6.95868135,  7.09367679,  7.15770563,
+        7.25468249,  7.34758481,  7.4499163 ,  7.57300221,  7.62813154,
+        7.70604605,  7.76356772,  7.8139434 ,  7.86416115,  7.91770749,
+        7.97359984,  8.02890535,  8.08377736,  8.13738332,  8.19299521,
+        8.25471122,  8.32235226,  8.39893527,  8.4795666 ,  8.56215871,
+        8.63056879,  8.70840973,  8.80553338,  8.92346035,  9.10604984,
+        9.32175496,  9.52933993,  9.71669052,  9.89033425, 10.05593867,
+       10.21133636, 10.35939421, 10.50034626, 10.62966   , 10.75372962,
+       10.87574359, 10.99648475, 11.11845998, 11.2351608 , 11.34361233,
+       11.44950241, 11.5441451 , 11.62974545, 11.72398961, 11.81815969,
+       11.90652824, 11.98840445, 12.06469665, 12.14345984, 12.22070628,
+       12.29393055, 12.36375457, 12.4363689 , 12.51452164, 12.59613551,
+        0.        ]))
+results saved in "dump/epsilon-final-ecd-qsgd-4bit-sorted-40/"
+load dataset
+start experiment
+length of indices: 40
+length of last machine indices: 10000
+Number of different labels: 2
+decentralized-qsgd-8-biased: t = 0, epoch = 0, iter = 0, loss = 0.6931985515509779, accuracy = 0.4967375, elapsed = 0.8569276332855225 s, transmitted = 0.0 MiB
+decentralized-qsgd-8-biased: t = 1000, epoch = 0, iter = 1000, loss = 0.34224245568074213, accuracy = 0.8699575, elapsed = 19.74858856201172 s, transmitted = 0.12 MiB
+decentralized-qsgd-8-biased: t = 2000, epoch = 0, iter = 2000, loss = 0.31982311794171847, accuracy = 0.878685, elapsed = 38.667216300964355 s, transmitted = 0.24 MiB
+decentralized-qsgd-8-biased: t = 3000, epoch = 0, iter = 3000, loss = 0.31394837069564846, accuracy = 0.8784875, elapsed = 57.595144271850586 s, transmitted = 0.36 MiB
+decentralized-qsgd-8-biased: t = 4000, epoch = 0, iter = 4000, loss = 0.30471607449867383, accuracy = 0.8876525, elapsed = 76.46679854393005 s, transmitted = 0.48 MiB
+decentralized-qsgd-8-biased: t = 5000, epoch = 0, iter = 5000, loss = 0.3017053260982792, accuracy = 0.88869, elapsed = 95.34353876113892 s, transmitted = 0.6 MiB
+decentralized-qsgd-8-biased: t = 6000, epoch = 0, iter = 6000, loss = 0.2995946245186484, accuracy = 0.889835, elapsed = 114.21912050247192 s, transmitted = 0.72 MiB
+decentralized-qsgd-8-biased: t = 7000, epoch = 0, iter = 7000, loss = 0.3000782221281801, accuracy = 0.888125, elapsed = 133.07350635528564 s, transmitted = 0.84 MiB
+decentralized-qsgd-8-biased: t = 8000, epoch = 0, iter = 8000, loss = 0.29769253587002764, accuracy = 0.89008, elapsed = 152.00233435630798 s, transmitted = 0.96 MiB
+decentralized-qsgd-8-biased: t = 9000, epoch = 0, iter = 9000, loss = 0.2973568931028368, accuracy = 0.8898275, elapsed = 170.87641644477844 s, transmitted = 1.08 MiB
+epoch 0: loss 0.29489442763794677 score 0.892345
+decentralized-qsgd-8-biased: t = 10000, epoch = 1, iter = 0, loss = 0.29489442763794677, accuracy = 0.892345, elapsed = 190.6043918132782 s, transmitted = 1.2 MiB
+decentralized-qsgd-8-biased: t = 11000, epoch = 1, iter = 1000, loss = 0.2942913710287842, accuracy = 0.8927775, elapsed = 209.44735026359558 s, transmitted = 1.32 MiB
+decentralized-qsgd-8-biased: t = 12000, epoch = 1, iter = 2000, loss = 0.2937049895731651, accuracy = 0.89311, elapsed = 228.30443596839905 s, transmitted = 1.44 MiB
+decentralized-qsgd-8-biased: t = 13000, epoch = 1, iter = 3000, loss = 0.2945091175412122, accuracy = 0.8915325, elapsed = 247.1301839351654 s, transmitted = 1.56 MiB
+decentralized-qsgd-8-biased: t = 14000, epoch = 1, iter = 4000, loss = 0.29322416357878117, accuracy = 0.892935, elapsed = 265.94833517074585 s, transmitted = 1.68 MiB
+decentralized-qsgd-8-biased: t = 15000, epoch = 1, iter = 5000, loss = 0.29267392215823035, accuracy = 0.893645, elapsed = 284.77473044395447 s, transmitted = 1.8 MiB
+decentralized-qsgd-8-biased: t = 16000, epoch = 1, iter = 6000, loss = 0.29221693809160326, accuracy = 0.893915, elapsed = 303.5985634326935 s, transmitted = 1.92 MiB
+decentralized-qsgd-8-biased: t = 17000, epoch = 1, iter = 7000, loss = 0.29191319189897397, accuracy = 0.89399, elapsed = 322.4277780056 s, transmitted = 2.04 MiB
+decentralized-qsgd-8-biased: t = 18000, epoch = 1, iter = 8000, loss = 0.292554619122151, accuracy = 0.8930475, elapsed = 341.3007571697235 s, transmitted = 2.16 MiB
+decentralized-qsgd-8-biased: t = 19000, epoch = 1, iter = 9000, loss = 0.2915053727326812, accuracy = 0.89427, elapsed = 360.1410868167877 s, transmitted = 2.28 MiB
+epoch 1: loss 0.2912417466190246 score 0.8942025
+decentralized-qsgd-8-biased: t = 20000, epoch = 2, iter = 0, loss = 0.2912417466190246, accuracy = 0.8942025, elapsed = 379.87221360206604 s, transmitted = 2.4 MiB
+decentralized-qsgd-8-biased: t = 21000, epoch = 2, iter = 1000, loss = 0.29109888201061745, accuracy = 0.894275, elapsed = 398.73447847366333 s, transmitted = 2.52 MiB
+decentralized-qsgd-8-biased: t = 22000, epoch = 2, iter = 2000, loss = 0.29164454064119893, accuracy = 0.893525, elapsed = 417.60196256637573 s, transmitted = 2.64 MiB
+decentralized-qsgd-8-biased: t = 23000, epoch = 2, iter = 3000, loss = 0.2911041889460995, accuracy = 0.894, elapsed = 436.4526717662811 s, transmitted = 2.76 MiB
+decentralized-qsgd-8-biased: t = 24000, epoch = 2, iter = 4000, loss = 0.2907523893841716, accuracy = 0.894595, elapsed = 455.3160197734833 s, transmitted = 2.88 MiB
+decentralized-qsgd-8-biased: t = 25000, epoch = 2, iter = 5000, loss = 0.29156472536039896, accuracy = 0.8929525, elapsed = 474.1601209640503 s, transmitted = 3.0 MiB
+decentralized-qsgd-8-biased: t = 26000, epoch = 2, iter = 6000, loss = 0.2903903476938723, accuracy = 0.8945775, elapsed = 493.0197596549988 s, transmitted = 3.12 MiB
+decentralized-qsgd-8-biased: t = 27000, epoch = 2, iter = 7000, loss = 0.29015068523490717, accuracy = 0.8946625, elapsed = 511.8894667625427 s, transmitted = 3.24 MiB
+decentralized-qsgd-8-biased: t = 28000, epoch = 2, iter = 8000, loss = 0.2901801333007383, accuracy = 0.894545, elapsed = 530.7627799510956 s, transmitted = 3.36 MiB
+decentralized-qsgd-8-biased: t = 29000, epoch = 2, iter = 9000, loss = 0.29081782798456707, accuracy = 0.8936425, elapsed = 549.6279366016388 s, transmitted = 3.48 MiB
+epoch 2: loss 0.289778074832467 score 0.89512
+decentralized-qsgd-8-biased: t = 30000, epoch = 3, iter = 0, loss = 0.289778074832467, accuracy = 0.89512, elapsed = 569.3494160175323 s, transmitted = 3.6 MiB
+decentralized-qsgd-8-biased: t = 31000, epoch = 3, iter = 1000, loss = 0.28976273801739993, accuracy = 0.895065, elapsed = 588.2249257564545 s, transmitted = 3.72 MiB
+decentralized-qsgd-8-biased: t = 32000, epoch = 3, iter = 2000, loss = 0.2896506866188083, accuracy = 0.89526, elapsed = 607.0910973548889 s, transmitted = 3.84 MiB
+decentralized-qsgd-8-biased: t = 33000, epoch = 3, iter = 3000, loss = 0.2895180489291737, accuracy = 0.895295, elapsed = 625.9692981243134 s, transmitted = 3.96 MiB
+decentralized-qsgd-8-biased: t = 34000, epoch = 3, iter = 4000, loss = 0.289626194753233, accuracy = 0.89514, elapsed = 644.8413627147675 s, transmitted = 4.08 MiB
+decentralized-qsgd-8-biased: t = 35000, epoch = 3, iter = 5000, loss = 0.2894079711826071, accuracy = 0.8953625, elapsed = 663.7103917598724 s, transmitted = 4.2 MiB
+decentralized-qsgd-8-biased: t = 36000, epoch = 3, iter = 6000, loss = 0.2892438402444934, accuracy = 0.895455, elapsed = 682.5867323875427 s, transmitted = 4.32 MiB
+decentralized-qsgd-8-biased: t = 37000, epoch = 3, iter = 7000, loss = 0.289472803124912, accuracy = 0.89512, elapsed = 701.4814994335175 s, transmitted = 4.44 MiB
+decentralized-qsgd-8-biased: t = 38000, epoch = 3, iter = 8000, loss = 0.2896576870606057, accuracy = 0.89479, elapsed = 720.3205938339233 s, transmitted = 4.56 MiB
+decentralized-qsgd-8-biased: t = 39000, epoch = 3, iter = 9000, loss = 0.2890336202402531, accuracy = 0.8957275, elapsed = 739.1693377494812 s, transmitted = 4.68 MiB
+epoch 3: loss 0.28915015385035636 score 0.8954625
+decentralized-qsgd-8-biased: t = 40000, epoch = 4, iter = 0, loss = 0.28915015385035636, accuracy = 0.8954625, elapsed = 758.9173450469971 s, transmitted = 4.8 MiB
+decentralized-qsgd-8-biased: t = 41000, epoch = 4, iter = 1000, loss = 0.28895345040139986, accuracy = 0.8956275, elapsed = 777.7834420204163 s, transmitted = 4.92 MiB
+decentralized-qsgd-8-biased: t = 42000, epoch = 4, iter = 2000, loss = 0.28943502488384115, accuracy = 0.8949075, elapsed = 796.6588237285614 s, transmitted = 5.04 MiB
+decentralized-qsgd-8-biased: t = 43000, epoch = 4, iter = 3000, loss = 0.2889139036721329, accuracy = 0.895715, elapsed = 815.5434668064117 s, transmitted = 5.16 MiB
+decentralized-qsgd-8-biased: t = 44000, epoch = 4, iter = 4000, loss = 0.2888979729797306, accuracy = 0.8956025, elapsed = 834.4788122177124 s, transmitted = 5.28 MiB
+decentralized-qsgd-8-biased: t = 45000, epoch = 4, iter = 5000, loss = 0.28885408156132925, accuracy = 0.8956025, elapsed = 853.3661065101624 s, transmitted = 5.4 MiB
+decentralized-qsgd-8-biased: t = 46000, epoch = 4, iter = 6000, loss = 0.2886374409771382, accuracy = 0.8959375, elapsed = 872.2482612133026 s, transmitted = 5.52 MiB
+decentralized-qsgd-8-biased: t = 47000, epoch = 4, iter = 7000, loss = 0.28860908856602424, accuracy = 0.895865, elapsed = 891.1369864940643 s, transmitted = 5.64 MiB
+decentralized-qsgd-8-biased: t = 48000, epoch = 4, iter = 8000, loss = 0.2886016727780961, accuracy = 0.89575, elapsed = 910.0413568019867 s, transmitted = 5.76 MiB
+decentralized-qsgd-8-biased: t = 49000, epoch = 4, iter = 9000, loss = 0.28862215672552277, accuracy = 0.8958275, elapsed = 929.0206727981567 s, transmitted = 5.88 MiB
+epoch 4: loss 0.2885676556921888 score 0.8959175
+decentralized-qsgd-8-biased: t = 50000, epoch = 5, iter = 0, loss = 0.2885676556921888, accuracy = 0.8959175, elapsed = 948.7656376361847 s, transmitted = 6.0 MiB
+decentralized-qsgd-8-biased: t = 51000, epoch = 5, iter = 1000, loss = 0.2886024317534016, accuracy = 0.895785, elapsed = 967.6852371692657 s, transmitted = 6.12 MiB
+decentralized-qsgd-8-biased: t = 52000, epoch = 5, iter = 2000, loss = 0.2884598021917459, accuracy = 0.8959225, elapsed = 986.6113841533661 s, transmitted = 6.24 MiB
+decentralized-qsgd-8-biased: t = 53000, epoch = 5, iter = 3000, loss = 0.28847362616345057, accuracy = 0.89586, elapsed = 1005.5147342681885 s, transmitted = 6.36 MiB
+decentralized-qsgd-8-biased: t = 54000, epoch = 5, iter = 4000, loss = 0.2883487645018358, accuracy = 0.89601, elapsed = 1024.4148707389832 s, transmitted = 6.48 MiB
+decentralized-qsgd-8-biased: t = 55000, epoch = 5, iter = 5000, loss = 0.2882666949986022, accuracy = 0.896015, elapsed = 1043.313648700714 s, transmitted = 6.6 MiB
+decentralized-qsgd-8-biased: t = 56000, epoch = 5, iter = 6000, loss = 0.2882870391108768, accuracy = 0.896005, elapsed = 1062.2962408065796 s, transmitted = 6.72 MiB
+decentralized-qsgd-8-biased: t = 57000, epoch = 5, iter = 7000, loss = 0.28824379916261583, accuracy = 0.8960875, elapsed = 1081.1825833320618 s, transmitted = 6.84 MiB
+decentralized-qsgd-8-biased: t = 58000, epoch = 5, iter = 8000, loss = 0.2883327947005765, accuracy = 0.895765, elapsed = 1100.077151298523 s, transmitted = 6.96 MiB
+decentralized-qsgd-8-biased: t = 59000, epoch = 5, iter = 9000, loss = 0.28810658250073756, accuracy = 0.89615, elapsed = 1118.9246311187744 s, transmitted = 7.08 MiB
+epoch 5: loss 0.2881021378052954 score 0.8962425
+decentralized-qsgd-8-biased: t = 60000, epoch = 6, iter = 0, loss = 0.2881021378052954, accuracy = 0.8962425, elapsed = 1138.6175673007965 s, transmitted = 7.2 MiB
+decentralized-qsgd-8-biased: t = 61000, epoch = 6, iter = 1000, loss = 0.2884166471862927, accuracy = 0.8956675, elapsed = 1157.4912776947021 s, transmitted = 7.32 MiB
+decentralized-qsgd-8-biased: t = 62000, epoch = 6, iter = 2000, loss = 0.28804837312834225, accuracy = 0.89617, elapsed = 1176.3461527824402 s, transmitted = 7.44 MiB
+decentralized-qsgd-8-biased: t = 63000, epoch = 6, iter = 3000, loss = 0.28801209945560136, accuracy = 0.89607, elapsed = 1195.2024836540222 s, transmitted = 7.56 MiB
+decentralized-qsgd-8-biased: t = 64000, epoch = 6, iter = 4000, loss = 0.28796363785226975, accuracy = 0.896275, elapsed = 1214.0628945827484 s, transmitted = 7.68 MiB
+decentralized-qsgd-8-biased: t = 65000, epoch = 6, iter = 5000, loss = 0.28803435868290045, accuracy = 0.8961475, elapsed = 1232.9201936721802 s, transmitted = 7.8 MiB
+decentralized-qsgd-8-biased: t = 66000, epoch = 6, iter = 6000, loss = 0.2879984801045832, accuracy = 0.8961625, elapsed = 1251.7802302837372 s, transmitted = 7.92 MiB
+decentralized-qsgd-8-biased: t = 67000, epoch = 6, iter = 7000, loss = 0.2879378770261123, accuracy = 0.89617, elapsed = 1270.6476354599 s, transmitted = 8.04 MiB
+decentralized-qsgd-8-biased: t = 68000, epoch = 6, iter = 8000, loss = 0.2878792924235659, accuracy = 0.8963075, elapsed = 1289.5014026165009 s, transmitted = 8.16 MiB
+decentralized-qsgd-8-biased: t = 69000, epoch = 6, iter = 9000, loss = 0.2878542241846754, accuracy = 0.896265, elapsed = 1308.377367734909 s, transmitted = 8.28 MiB
+epoch 6: loss 0.2878327302381374 score 0.8963175
+decentralized-qsgd-8-biased: t = 70000, epoch = 7, iter = 0, loss = 0.2878327302381374, accuracy = 0.8963175, elapsed = 1328.096981048584 s, transmitted = 8.4 MiB
+decentralized-qsgd-8-biased: t = 71000, epoch = 7, iter = 1000, loss = 0.28777470054414744, accuracy = 0.896405, elapsed = 1346.9656240940094 s, transmitted = 8.52 MiB
+decentralized-qsgd-8-biased: t = 72000, epoch = 7, iter = 2000, loss = 0.2877187061910448, accuracy = 0.8964675, elapsed = 1365.8392188549042 s, transmitted = 8.64 MiB
+decentralized-qsgd-8-biased: t = 73000, epoch = 7, iter = 3000, loss = 0.2879575766807223, accuracy = 0.8961325, elapsed = 1384.701560497284 s, transmitted = 8.76 MiB
+decentralized-qsgd-8-biased: t = 74000, epoch = 7, iter = 4000, loss = 0.28778358758586225, accuracy = 0.8962525, elapsed = 1403.5789513587952 s, transmitted = 8.88 MiB
+decentralized-qsgd-8-biased: t = 75000, epoch = 7, iter = 5000, loss = 0.28770291640289664, accuracy = 0.8963175, elapsed = 1422.4626338481903 s, transmitted = 9.0 MiB
+decentralized-qsgd-8-biased: t = 76000, epoch = 7, iter = 6000, loss = 0.2877374205231341, accuracy = 0.896145, elapsed = 1441.3532493114471 s, transmitted = 9.12 MiB
+decentralized-qsgd-8-biased: t = 77000, epoch = 7, iter = 7000, loss = 0.2877394646969084, accuracy = 0.89607, elapsed = 1460.2449917793274 s, transmitted = 9.24 MiB
+decentralized-qsgd-8-biased: t = 78000, epoch = 7, iter = 8000, loss = 0.2877404137738775, accuracy = 0.89616, elapsed = 1479.123378276825 s, transmitted = 9.36 MiB
+decentralized-qsgd-8-biased: t = 79000, epoch = 7, iter = 9000, loss = 0.28761605158214376, accuracy = 0.89638, elapsed = 1498.0249361991882 s, transmitted = 9.48 MiB
+epoch 7: loss 0.28764834693862873 score 0.89621
+decentralized-qsgd-8-biased: t = 80000, epoch = 8, iter = 0, loss = 0.28764834693862873, accuracy = 0.89621, elapsed = 1517.7802078723907 s, transmitted = 9.6 MiB
+decentralized-qsgd-8-biased: t = 81000, epoch = 8, iter = 1000, loss = 0.28755104143673316, accuracy = 0.8964275, elapsed = 1536.6738991737366 s, transmitted = 9.72 MiB
+decentralized-qsgd-8-biased: t = 82000, epoch = 8, iter = 2000, loss = 0.28750684339869215, accuracy = 0.896545, elapsed = 1555.571681022644 s, transmitted = 9.84 MiB
+decentralized-qsgd-8-biased: t = 83000, epoch = 8, iter = 3000, loss = 0.2874597248851603, accuracy = 0.896485, elapsed = 1574.4723098278046 s, transmitted = 9.96 MiB
+decentralized-qsgd-8-biased: t = 84000, epoch = 8, iter = 4000, loss = 0.2874831008201928, accuracy = 0.89652, elapsed = 1593.3834028244019 s, transmitted = 10.08 MiB
+decentralized-qsgd-8-biased: t = 85000, epoch = 8, iter = 5000, loss = 0.2874389364723267, accuracy = 0.8966125, elapsed = 1612.2880487442017 s, transmitted = 10.2 MiB
+decentralized-qsgd-8-biased: t = 86000, epoch = 8, iter = 6000, loss = 0.28741153542632053, accuracy = 0.8966625, elapsed = 1631.1913516521454 s, transmitted = 10.32 MiB
+decentralized-qsgd-8-biased: t = 87000, epoch = 8, iter = 7000, loss = 0.2874268326500922, accuracy = 0.8964975, elapsed = 1650.0947456359863 s, transmitted = 10.44 MiB
+decentralized-qsgd-8-biased: t = 88000, epoch = 8, iter = 8000, loss = 0.2873903899876685, accuracy = 0.896625, elapsed = 1668.9965569972992 s, transmitted = 10.56 MiB
+decentralized-qsgd-8-biased: t = 89000, epoch = 8, iter = 9000, loss = 0.2874331376475765, accuracy = 0.8965475, elapsed = 1687.8937261104584 s, transmitted = 10.68 MiB
+epoch 8: loss 0.2873662835357697 score 0.8966525
+decentralized-qsgd-8-biased: t = 90000, epoch = 9, iter = 0, loss = 0.2873662835357697, accuracy = 0.8966525, elapsed = 1707.645724773407 s, transmitted = 10.8 MiB
+decentralized-qsgd-8-biased: t = 91000, epoch = 9, iter = 1000, loss = 0.28735242418171714, accuracy = 0.8965225, elapsed = 1726.6031086444855 s, transmitted = 10.92 MiB
+decentralized-qsgd-8-biased: t = 92000, epoch = 9, iter = 2000, loss = 0.28786717707917264, accuracy = 0.895895, elapsed = 1745.6836640834808 s, transmitted = 11.04 MiB
+decentralized-qsgd-8-biased: t = 93000, epoch = 9, iter = 3000, loss = 0.2872715964456268, accuracy = 0.8966075, elapsed = 1764.7248830795288 s, transmitted = 11.16 MiB
+decentralized-qsgd-8-biased: t = 94000, epoch = 9, iter = 4000, loss = 0.28729236171961264, accuracy = 0.896505, elapsed = 1783.82373213768 s, transmitted = 11.28 MiB
+decentralized-qsgd-8-biased: t = 95000, epoch = 9, iter = 5000, loss = 0.28724250127085815, accuracy = 0.896585, elapsed = 1802.794516324997 s, transmitted = 11.4 MiB
+decentralized-qsgd-8-biased: t = 96000, epoch = 9, iter = 6000, loss = 0.28724255438697643, accuracy = 0.8965625, elapsed = 1821.7841041088104 s, transmitted = 11.52 MiB
+decentralized-qsgd-8-biased: t = 97000, epoch = 9, iter = 7000, loss = 0.2872427703358006, accuracy = 0.89666, elapsed = 1840.7945220470428 s, transmitted = 11.64 MiB
+decentralized-qsgd-8-biased: t = 98000, epoch = 9, iter = 8000, loss = 0.28731828901163475, accuracy = 0.896515, elapsed = 1859.8488671779633 s, transmitted = 11.76 MiB
+decentralized-qsgd-8-biased: t = 99000, epoch = 9, iter = 9000, loss = 0.28728543537289386, accuracy = 0.8964975, elapsed = 1878.347751379013 s, transmitted = 11.88 MiB
+epoch 9: loss 0.2871774338631439 score 0.89674
+Training took: 1896.8497822284698s
+decentralized-qsgd-8-biased - score: 0.89674
+(array([0.69319855, 0.29489443, 0.29124175, 0.28977807, 0.28915015,
+       0.28856766, 0.28810214, 0.28783273, 0.28764835, 0.28736628,
+       0.28717743]), array([0.69319855, 0.34224246, 0.31982312, 0.31394837, 0.30471607,
+       0.30170533, 0.29959462, 0.30007822, 0.29769254, 0.29735689,
+       0.29489443, 0.29429137, 0.29370499, 0.29450912, 0.29322416,
+       0.29267392, 0.29221694, 0.29191319, 0.29255462, 0.29150537,
+       0.29124175, 0.29109888, 0.29164454, 0.29110419, 0.29075239,
+       0.29156473, 0.29039035, 0.29015069, 0.29018013, 0.29081783,
+       0.28977807, 0.28976274, 0.28965069, 0.28951805, 0.28962619,
+       0.28940797, 0.28924384, 0.2894728 , 0.28965769, 0.28903362,
+       0.28915015, 0.28895345, 0.28943502, 0.2889139 , 0.28889797,
+       0.28885408, 0.28863744, 0.28860909, 0.28860167, 0.28862216,
+       0.28856766, 0.28860243, 0.2884598 , 0.28847363, 0.28834876,
+       0.28826669, 0.28828704, 0.2882438 , 0.28833279, 0.28810658,
+       0.28810214, 0.28841665, 0.28804837, 0.2880121 , 0.28796364,
+       0.28803436, 0.28799848, 0.28793788, 0.28787929, 0.28785422,
+       0.28783273, 0.2877747 , 0.28771871, 0.28795758, 0.28778359,
+       0.28770292, 0.28773742, 0.28773946, 0.28774041, 0.28761605,
+       0.28764835, 0.28755104, 0.28750684, 0.28745972, 0.2874831 ,
+       0.28743894, 0.28741154, 0.28742683, 0.28739039, 0.28743314,
+       0.28736628, 0.28735242, 0.28786718, 0.2872716 , 0.28729236,
+       0.2872425 , 0.28724255, 0.28724277, 0.28731829, 0.28728544,
+       0.        ]))
+results saved in "dump/epsilon-final-choco-qsgd-4bit-sorted-40/"
+load dataset
+start experiment
+length of indices: 40
+length of last machine indices: 10000
+Number of different labels: 2
+dcd-psgd-qsgd-8: t = 0, epoch = 0, iter = 0, loss = 0.6933111066546731, accuracy = 0.4904325, elapsed = 0.8570826053619385 s, transmitted = 0.0 MiB
+dcd-psgd-qsgd-8: t = 1000, epoch = 0, iter = 1000, loss = 0.5447126795229746, accuracy = 0.8168875, elapsed = 15.282917261123657 s, transmitted = 0.12 MiB
+dcd-psgd-qsgd-8: t = 2000, epoch = 0, iter = 2000, loss = 0.4926647906487972, accuracy = 0.8486875, elapsed = 29.722382068634033 s, transmitted = 0.24 MiB
+dcd-psgd-qsgd-8: t = 3000, epoch = 0, iter = 3000, loss = 0.46439698299386206, accuracy = 0.859005, elapsed = 44.16013979911804 s, transmitted = 0.36 MiB
+dcd-psgd-qsgd-8: t = 4000, epoch = 0, iter = 4000, loss = 0.44651163053828136, accuracy = 0.862155, elapsed = 58.60338377952576 s, transmitted = 0.48 MiB
+dcd-psgd-qsgd-8: t = 5000, epoch = 0, iter = 5000, loss = 0.43352280871417614, accuracy = 0.8662325, elapsed = 73.02390623092651 s, transmitted = 0.6 MiB
+dcd-psgd-qsgd-8: t = 6000, epoch = 0, iter = 6000, loss = 0.42399592345291165, accuracy = 0.8687875, elapsed = 87.47433042526245 s, transmitted = 0.72 MiB
+dcd-psgd-qsgd-8: t = 7000, epoch = 0, iter = 7000, loss = 0.4166234311374725, accuracy = 0.870465, elapsed = 101.88836240768433 s, transmitted = 0.84 MiB
+dcd-psgd-qsgd-8: t = 8000, epoch = 0, iter = 8000, loss = 0.41067568088409423, accuracy = 0.87106, elapsed = 116.3544864654541 s, transmitted = 0.96 MiB
+dcd-psgd-qsgd-8: t = 9000, epoch = 0, iter = 9000, loss = 0.40552044658016584, accuracy = 0.8729025, elapsed = 130.92867255210876 s, transmitted = 1.08 MiB
+epoch 0: loss 0.40121561371548353 score 0.87348
+dcd-psgd-qsgd-8: t = 10000, epoch = 1, iter = 0, loss = 0.40121561371548353, accuracy = 0.87348, elapsed = 146.26557779312134 s, transmitted = 1.2 MiB
+dcd-psgd-qsgd-8: t = 11000, epoch = 1, iter = 1000, loss = 0.39757003144360803, accuracy = 0.8736325, elapsed = 160.7405068874359 s, transmitted = 1.32 MiB
+dcd-psgd-qsgd-8: t = 12000, epoch = 1, iter = 2000, loss = 0.39420481097799626, accuracy = 0.874895, elapsed = 175.2230784893036 s, transmitted = 1.44 MiB
+dcd-psgd-qsgd-8: t = 13000, epoch = 1, iter = 3000, loss = 0.39147221995117976, accuracy = 0.8749625, elapsed = 189.711528301239 s, transmitted = 1.56 MiB
+dcd-psgd-qsgd-8: t = 14000, epoch = 1, iter = 4000, loss = 0.3887759785940256, accuracy = 0.875815, elapsed = 204.1544497013092 s, transmitted = 1.68 MiB
+dcd-psgd-qsgd-8: t = 15000, epoch = 1, iter = 5000, loss = 0.3865052082558595, accuracy = 0.8760875, elapsed = 218.65148425102234 s, transmitted = 1.8 MiB
+dcd-psgd-qsgd-8: t = 16000, epoch = 1, iter = 6000, loss = 0.3845251213005477, accuracy = 0.8759325, elapsed = 233.16794228553772 s, transmitted = 1.92 MiB
+dcd-psgd-qsgd-8: t = 17000, epoch = 1, iter = 7000, loss = 0.38251450368944784, accuracy = 0.8770875, elapsed = 247.64722204208374 s, transmitted = 2.04 MiB
+dcd-psgd-qsgd-8: t = 18000, epoch = 1, iter = 8000, loss = 0.38072632416210195, accuracy = 0.877305, elapsed = 262.1134235858917 s, transmitted = 2.16 MiB
+dcd-psgd-qsgd-8: t = 19000, epoch = 1, iter = 9000, loss = 0.3792130991159934, accuracy = 0.87721, elapsed = 276.585036277771 s, transmitted = 2.28 MiB
+epoch 1: loss 0.3776342192816209 score 0.8774725
+dcd-psgd-qsgd-8: t = 20000, epoch = 2, iter = 0, loss = 0.3776342192816209, accuracy = 0.8774725, elapsed = 291.9475464820862 s, transmitted = 2.4 MiB
+dcd-psgd-qsgd-8: t = 21000, epoch = 2, iter = 1000, loss = 0.37626394854135586, accuracy = 0.8779225, elapsed = 306.44172167778015 s, transmitted = 2.52 MiB
+dcd-psgd-qsgd-8: t = 22000, epoch = 2, iter = 2000, loss = 0.37492078186847083, accuracy = 0.878095, elapsed = 320.9472167491913 s, transmitted = 2.64 MiB
+dcd-psgd-qsgd-8: t = 23000, epoch = 2, iter = 3000, loss = 0.3736465796432715, accuracy = 0.8784225, elapsed = 335.45239090919495 s, transmitted = 2.76 MiB
+dcd-psgd-qsgd-8: t = 24000, epoch = 2, iter = 4000, loss = 0.37252336695024474, accuracy = 0.8783325, elapsed = 349.96196699142456 s, transmitted = 2.88 MiB
+dcd-psgd-qsgd-8: t = 25000, epoch = 2, iter = 5000, loss = 0.37138894234279685, accuracy = 0.878715, elapsed = 364.4603862762451 s, transmitted = 3.0 MiB
+dcd-psgd-qsgd-8: t = 26000, epoch = 2, iter = 6000, loss = 0.3703404204346641, accuracy = 0.8788375, elapsed = 378.97346544265747 s, transmitted = 3.12 MiB
+dcd-psgd-qsgd-8: t = 27000, epoch = 2, iter = 7000, loss = 0.36935849386183817, accuracy = 0.87902, elapsed = 393.5088813304901 s, transmitted = 3.24 MiB
+dcd-psgd-qsgd-8: t = 28000, epoch = 2, iter = 8000, loss = 0.3684578079271784, accuracy = 0.87917, elapsed = 408.0309534072876 s, transmitted = 3.36 MiB
+dcd-psgd-qsgd-8: t = 29000, epoch = 2, iter = 9000, loss = 0.3675604255021632, accuracy = 0.8793625, elapsed = 422.5947639942169 s, transmitted = 3.48 MiB
+epoch 2: loss 0.3667692658580385 score 0.8792225
+dcd-psgd-qsgd-8: t = 30000, epoch = 3, iter = 0, loss = 0.3667692658580385, accuracy = 0.8792225, elapsed = 437.99216389656067 s, transmitted = 3.6 MiB
+dcd-psgd-qsgd-8: t = 31000, epoch = 3, iter = 1000, loss = 0.3659086174423629, accuracy = 0.8795925, elapsed = 452.5349519252777 s, transmitted = 3.72 MiB
+dcd-psgd-qsgd-8: t = 32000, epoch = 3, iter = 2000, loss = 0.36517138465989435, accuracy = 0.879495, elapsed = 467.101042509079 s, transmitted = 3.84 MiB
+dcd-psgd-qsgd-8: t = 33000, epoch = 3, iter = 3000, loss = 0.3644039366177288, accuracy = 0.8797325, elapsed = 481.6860144138336 s, transmitted = 3.96 MiB
+dcd-psgd-qsgd-8: t = 34000, epoch = 3, iter = 4000, loss = 0.36369757434774325, accuracy = 0.879825, elapsed = 496.2824852466583 s, transmitted = 4.08 MiB
+dcd-psgd-qsgd-8: t = 35000, epoch = 3, iter = 5000, loss = 0.36300354294504406, accuracy = 0.880015, elapsed = 510.90686202049255 s, transmitted = 4.2 MiB
+dcd-psgd-qsgd-8: t = 36000, epoch = 3, iter = 6000, loss = 0.36238507568111894, accuracy = 0.8800175, elapsed = 525.5764787197113 s, transmitted = 4.32 MiB
+dcd-psgd-qsgd-8: t = 37000, epoch = 3, iter = 7000, loss = 0.3617380095082735, accuracy = 0.88021, elapsed = 540.2082657814026 s, transmitted = 4.44 MiB
+dcd-psgd-qsgd-8: t = 38000, epoch = 3, iter = 8000, loss = 0.36115194783978666, accuracy = 0.88035, elapsed = 554.8830518722534 s, transmitted = 4.56 MiB
+dcd-psgd-qsgd-8: t = 39000, epoch = 3, iter = 9000, loss = 0.3605782400421248, accuracy = 0.8803775, elapsed = 569.581191778183 s, transmitted = 4.68 MiB
+epoch 3: loss 0.3600321044266785 score 0.8804525
+dcd-psgd-qsgd-8: t = 40000, epoch = 4, iter = 0, loss = 0.3600321044266785, accuracy = 0.8804525, elapsed = 585.1405549049377 s, transmitted = 4.8 MiB
+dcd-psgd-qsgd-8: t = 41000, epoch = 4, iter = 1000, loss = 0.3594623770835777, accuracy = 0.88051, elapsed = 599.875834941864 s, transmitted = 4.92 MiB
+dcd-psgd-qsgd-8: t = 42000, epoch = 4, iter = 2000, loss = 0.3589433468319785, accuracy = 0.8807275, elapsed = 614.6381754875183 s, transmitted = 5.04 MiB
+dcd-psgd-qsgd-8: t = 43000, epoch = 4, iter = 3000, loss = 0.35843994279528846, accuracy = 0.8808475, elapsed = 629.4175884723663 s, transmitted = 5.16 MiB
+dcd-psgd-qsgd-8: t = 44000, epoch = 4, iter = 4000, loss = 0.3579547140849199, accuracy = 0.880975, elapsed = 644.2063355445862 s, transmitted = 5.28 MiB
+dcd-psgd-qsgd-8: t = 45000, epoch = 4, iter = 5000, loss = 0.35750102220832713, accuracy = 0.880935, elapsed = 659.0001072883606 s, transmitted = 5.4 MiB
+dcd-psgd-qsgd-8: t = 46000, epoch = 4, iter = 6000, loss = 0.3570428782515076, accuracy = 0.881025, elapsed = 673.8809132575989 s, transmitted = 5.52 MiB
+dcd-psgd-qsgd-8: t = 47000, epoch = 4, iter = 7000, loss = 0.3565683785361649, accuracy = 0.8811475, elapsed = 688.7125384807587 s, transmitted = 5.64 MiB
+dcd-psgd-qsgd-8: t = 48000, epoch = 4, iter = 8000, loss = 0.3561320357172002, accuracy = 0.88124, elapsed = 703.5651330947876 s, transmitted = 5.76 MiB
+dcd-psgd-qsgd-8: t = 49000, epoch = 4, iter = 9000, loss = 0.355713957663535, accuracy = 0.881345, elapsed = 718.434817314148 s, transmitted = 5.88 MiB
+epoch 4: loss 0.3553439853811412 score 0.8812325
+dcd-psgd-qsgd-8: t = 50000, epoch = 5, iter = 0, loss = 0.3553439853811412, accuracy = 0.8812325, elapsed = 734.176774263382 s, transmitted = 6.0 MiB
+dcd-psgd-qsgd-8: t = 51000, epoch = 5, iter = 1000, loss = 0.354916403577334, accuracy = 0.8814025, elapsed = 749.1309514045715 s, transmitted = 6.12 MiB
+dcd-psgd-qsgd-8: t = 52000, epoch = 5, iter = 2000, loss = 0.35452340204501115, accuracy = 0.881465, elapsed = 764.069926738739 s, transmitted = 6.24 MiB
+dcd-psgd-qsgd-8: t = 53000, epoch = 5, iter = 3000, loss = 0.35413820760116577, accuracy = 0.88147, elapsed = 779.0577499866486 s, transmitted = 6.36 MiB
+dcd-psgd-qsgd-8: t = 54000, epoch = 5, iter = 4000, loss = 0.3537622923289419, accuracy = 0.881605, elapsed = 794.1155905723572 s, transmitted = 6.48 MiB
+dcd-psgd-qsgd-8: t = 55000, epoch = 5, iter = 5000, loss = 0.3534062961145109, accuracy = 0.8815425, elapsed = 809.1397001743317 s, transmitted = 6.6 MiB
+dcd-psgd-qsgd-8: t = 56000, epoch = 5, iter = 6000, loss = 0.3530632953645574, accuracy = 0.88161, elapsed = 824.2124309539795 s, transmitted = 6.72 MiB
+dcd-psgd-qsgd-8: t = 57000, epoch = 5, iter = 7000, loss = 0.35272025851358296, accuracy = 0.8817525, elapsed = 839.2994668483734 s, transmitted = 6.84 MiB
+dcd-psgd-qsgd-8: t = 58000, epoch = 5, iter = 8000, loss = 0.3524240003852319, accuracy = 0.8816075, elapsed = 854.4403867721558 s, transmitted = 6.96 MiB
+dcd-psgd-qsgd-8: t = 59000, epoch = 5, iter = 9000, loss = 0.35206000614277944, accuracy = 0.8819475, elapsed = 869.647186756134 s, transmitted = 7.08 MiB
+epoch 5: loss 0.3517552362033931 score 0.88181
+dcd-psgd-qsgd-8: t = 60000, epoch = 6, iter = 0, loss = 0.3517552362033931, accuracy = 0.88181, elapsed = 885.6570725440979 s, transmitted = 7.2 MiB
+dcd-psgd-qsgd-8: t = 61000, epoch = 6, iter = 1000, loss = 0.3514348420496206, accuracy = 0.8819525, elapsed = 900.8574569225311 s, transmitted = 7.32 MiB
+dcd-psgd-qsgd-8: t = 62000, epoch = 6, iter = 2000, loss = 0.3511508455364586, accuracy = 0.88183, elapsed = 916.1235628128052 s, transmitted = 7.44 MiB
+dcd-psgd-qsgd-8: t = 63000, epoch = 6, iter = 3000, loss = 0.35084156336760464, accuracy = 0.88201, elapsed = 931.3895614147186 s, transmitted = 7.56 MiB
+dcd-psgd-qsgd-8: t = 64000, epoch = 6, iter = 4000, loss = 0.3505440262108142, accuracy = 0.88202, elapsed = 946.678305387497 s, transmitted = 7.68 MiB
+dcd-psgd-qsgd-8: t = 65000, epoch = 6, iter = 5000, loss = 0.3502603996564444, accuracy = 0.882085, elapsed = 962.0221703052521 s, transmitted = 7.8 MiB
+dcd-psgd-qsgd-8: t = 66000, epoch = 6, iter = 6000, loss = 0.3499807043342469, accuracy = 0.88211, elapsed = 977.5568945407867 s, transmitted = 7.92 MiB
+dcd-psgd-qsgd-8: t = 67000, epoch = 6, iter = 7000, loss = 0.34970478016825024, accuracy = 0.88223, elapsed = 993.142991065979 s, transmitted = 8.04 MiB
+dcd-psgd-qsgd-8: t = 68000, epoch = 6, iter = 8000, loss = 0.34943386668298576, accuracy = 0.882205, elapsed = 1008.7142953872681 s, transmitted = 8.16 MiB
+dcd-psgd-qsgd-8: t = 69000, epoch = 6, iter = 9000, loss = 0.34917255459641827, accuracy = 0.8822625, elapsed = 1024.3446550369263 s, transmitted = 8.28 MiB
+epoch 6: loss 0.3489216410065159 score 0.88231
+dcd-psgd-qsgd-8: t = 70000, epoch = 7, iter = 0, loss = 0.3489216410065159, accuracy = 0.88231, elapsed = 1040.889363527298 s, transmitted = 8.4 MiB
+dcd-psgd-qsgd-8: t = 71000, epoch = 7, iter = 1000, loss = 0.34866548069196035, accuracy = 0.882345, elapsed = 1056.5746676921844 s, transmitted = 8.52 MiB
+dcd-psgd-qsgd-8: t = 72000, epoch = 7, iter = 2000, loss = 0.34841320212375804, accuracy = 0.8824125, elapsed = 1072.2544746398926 s, transmitted = 8.64 MiB
+dcd-psgd-qsgd-8: t = 73000, epoch = 7, iter = 3000, loss = 0.34817077357307774, accuracy = 0.88242, elapsed = 1088.0058324337006 s, transmitted = 8.76 MiB
+dcd-psgd-qsgd-8: t = 74000, epoch = 7, iter = 4000, loss = 0.3479300838711507, accuracy = 0.882475, elapsed = 1103.7800226211548 s, transmitted = 8.88 MiB
+dcd-psgd-qsgd-8: t = 75000, epoch = 7, iter = 5000, loss = 0.3476985279674581, accuracy = 0.8825025, elapsed = 1119.527297258377 s, transmitted = 9.0 MiB
+dcd-psgd-qsgd-8: t = 76000, epoch = 7, iter = 6000, loss = 0.3475211619160137, accuracy = 0.882425, elapsed = 1135.3178198337555 s, transmitted = 9.12 MiB
+dcd-psgd-qsgd-8: t = 77000, epoch = 7, iter = 7000, loss = 0.34725523849344014, accuracy = 0.8825925, elapsed = 1151.0503957271576 s, transmitted = 9.24 MiB
+dcd-psgd-qsgd-8: t = 78000, epoch = 7, iter = 8000, loss = 0.34704225202833827, accuracy = 0.88257, elapsed = 1166.8818740844727 s, transmitted = 9.36 MiB
+dcd-psgd-qsgd-8: t = 79000, epoch = 7, iter = 9000, loss = 0.3468342238283451, accuracy = 0.8825875, elapsed = 1182.7658967971802 s, transmitted = 9.48 MiB
+epoch 7: loss 0.34661017018532486 score 0.8825875
+dcd-psgd-qsgd-8: t = 80000, epoch = 8, iter = 0, loss = 0.34661017018532486, accuracy = 0.8825875, elapsed = 1199.4794800281525 s, transmitted = 9.6 MiB
+dcd-psgd-qsgd-8: t = 81000, epoch = 8, iter = 1000, loss = 0.34639713628003777, accuracy = 0.8826475, elapsed = 1215.360942363739 s, transmitted = 9.72 MiB
+dcd-psgd-qsgd-8: t = 82000, epoch = 8, iter = 2000, loss = 0.3462003926654106, accuracy = 0.8827075, elapsed = 1231.2891900539398 s, transmitted = 9.84 MiB
+dcd-psgd-qsgd-8: t = 83000, epoch = 8, iter = 3000, loss = 0.3459873907355332, accuracy = 0.88278, elapsed = 1247.1468937397003 s, transmitted = 9.96 MiB
+dcd-psgd-qsgd-8: t = 84000, epoch = 8, iter = 4000, loss = 0.34578402330623503, accuracy = 0.8828075, elapsed = 1263.1194326877594 s, transmitted = 10.08 MiB
+dcd-psgd-qsgd-8: t = 85000, epoch = 8, iter = 5000, loss = 0.3455856617784762, accuracy = 0.8828875, elapsed = 1279.2535605430603 s, transmitted = 10.2 MiB
+dcd-psgd-qsgd-8: t = 86000, epoch = 8, iter = 6000, loss = 0.34539479382459287, accuracy = 0.88287, elapsed = 1295.3176672458649 s, transmitted = 10.32 MiB
+dcd-psgd-qsgd-8: t = 87000, epoch = 8, iter = 7000, loss = 0.34521860319014375, accuracy = 0.8829575, elapsed = 1311.409652709961 s, transmitted = 10.44 MiB
+dcd-psgd-qsgd-8: t = 88000, epoch = 8, iter = 8000, loss = 0.3450134729114708, accuracy = 0.8829875, elapsed = 1327.48885512352 s, transmitted = 10.56 MiB
+dcd-psgd-qsgd-8: t = 89000, epoch = 8, iter = 9000, loss = 0.344831026311355, accuracy = 0.8830025, elapsed = 1343.63010764122 s, transmitted = 10.68 MiB
+epoch 8: loss 0.3446784455497153 score 0.8829325
+dcd-psgd-qsgd-8: t = 90000, epoch = 9, iter = 0, loss = 0.3446784455497153, accuracy = 0.8829325, elapsed = 1360.6588869094849 s, transmitted = 10.8 MiB
+dcd-psgd-qsgd-8: t = 91000, epoch = 9, iter = 1000, loss = 0.3444703311359749, accuracy = 0.8830175, elapsed = 1376.8730487823486 s, transmitted = 10.92 MiB
+dcd-psgd-qsgd-8: t = 92000, epoch = 9, iter = 2000, loss = 0.3442959344210215, accuracy = 0.8830825, elapsed = 1393.1314198970795 s, transmitted = 11.04 MiB
+dcd-psgd-qsgd-8: t = 93000, epoch = 9, iter = 3000, loss = 0.34412120211211306, accuracy = 0.8831275, elapsed = 1409.3911077976227 s, transmitted = 11.16 MiB
+dcd-psgd-qsgd-8: t = 94000, epoch = 9, iter = 4000, loss = 0.34394416763761937, accuracy = 0.883095, elapsed = 1425.7081203460693 s, transmitted = 11.28 MiB
+dcd-psgd-qsgd-8: t = 95000, epoch = 9, iter = 5000, loss = 0.3437738131437894, accuracy = 0.8830925, elapsed = 1442.1212899684906 s, transmitted = 11.4 MiB
+dcd-psgd-qsgd-8: t = 96000, epoch = 9, iter = 6000, loss = 0.34364834899404273, accuracy = 0.8829075, elapsed = 1458.4766173362732 s, transmitted = 11.52 MiB
+dcd-psgd-qsgd-8: t = 97000, epoch = 9, iter = 7000, loss = 0.34345392550422293, accuracy = 0.8831825, elapsed = 1474.8777060508728 s, transmitted = 11.64 MiB
+dcd-psgd-qsgd-8: t = 98000, epoch = 9, iter = 8000, loss = 0.34328958818954486, accuracy = 0.8832025, elapsed = 1491.3277871608734 s, transmitted = 11.76 MiB
+dcd-psgd-qsgd-8: t = 99000, epoch = 9, iter = 9000, loss = 0.3431349415884666, accuracy = 0.8832175, elapsed = 1507.7845969200134 s, transmitted = 11.88 MiB
+epoch 9: loss 0.34298386811522724 score 0.8832375
+Training took: 1524.2948548793793s
+dcd-psgd-qsgd-8 - score: 0.8832375
+(array([0.69331111, 0.40121561, 0.37763422, 0.36676927, 0.3600321 ,
+       0.35534399, 0.35175524, 0.34892164, 0.34661017, 0.34467845,
+       0.34298387]), array([0.69331111, 0.54471268, 0.49266479, 0.46439698, 0.44651163,
+       0.43352281, 0.42399592, 0.41662343, 0.41067568, 0.40552045,
+       0.40121561, 0.39757003, 0.39420481, 0.39147222, 0.38877598,
+       0.38650521, 0.38452512, 0.3825145 , 0.38072632, 0.3792131 ,
+       0.37763422, 0.37626395, 0.37492078, 0.37364658, 0.37252337,
+       0.37138894, 0.37034042, 0.36935849, 0.36845781, 0.36756043,
+       0.36676927, 0.36590862, 0.36517138, 0.36440394, 0.36369757,
+       0.36300354, 0.36238508, 0.36173801, 0.36115195, 0.36057824,
+       0.3600321 , 0.35946238, 0.35894335, 0.35843994, 0.35795471,
+       0.35750102, 0.35704288, 0.35656838, 0.35613204, 0.35571396,
+       0.35534399, 0.3549164 , 0.3545234 , 0.35413821, 0.35376229,
+       0.3534063 , 0.3530633 , 0.35272026, 0.352424  , 0.35206001,
+       0.35175524, 0.35143484, 0.35115085, 0.35084156, 0.35054403,
+       0.3502604 , 0.3499807 , 0.34970478, 0.34943387, 0.34917255,
+       0.34892164, 0.34866548, 0.3484132 , 0.34817077, 0.34793008,
+       0.34769853, 0.34752116, 0.34725524, 0.34704225, 0.34683422,
+       0.34661017, 0.34639714, 0.34620039, 0.34598739, 0.34578402,
+       0.34558566, 0.34539479, 0.3452186 , 0.34501347, 0.34483103,
+       0.34467845, 0.34447033, 0.34429593, 0.3441212 , 0.34394417,
+       0.34377381, 0.34364835, 0.34345393, 0.34328959, 0.34313494,
+       0.        ]))
+results saved in "dump/epsilon-final-dcd-qsgd-4bit-sorted-40/"
+load dataset
+start experiment
+length of indices: 40
+length of last machine indices: 10000
+Number of different labels: 2
+ecd-psgd-qsgd-8: t = 0, epoch = 0, iter = 0, loss = 0.6932416646997959, accuracy = 0.491875, elapsed = 0.856635570526123 s, transmitted = 0.0 MiB
+ecd-psgd-qsgd-8: t = 1000, epoch = 0, iter = 1000, loss = 0.6932716120474277, accuracy = 0.48834, elapsed = 26.367736101150513 s, transmitted = 0.12 MiB
+ecd-psgd-qsgd-8: t = 2000, epoch = 0, iter = 2000, loss = 0.693208430312303, accuracy = 0.4951625, elapsed = 54.28038811683655 s, transmitted = 0.24 MiB
+ecd-psgd-qsgd-8: t = 3000, epoch = 0, iter = 3000, loss = 0.6931408810904831, accuracy = 0.501665, elapsed = 81.83626699447632 s, transmitted = 0.36 MiB
+ecd-psgd-qsgd-8: t = 4000, epoch = 0, iter = 4000, loss = 0.6930785139818404, accuracy = 0.5054875, elapsed = 109.27466034889221 s, transmitted = 0.48 MiB
+ecd-psgd-qsgd-8: t = 5000, epoch = 0, iter = 5000, loss = 0.6930414626737146, accuracy = 0.5066925, elapsed = 136.64041900634766 s, transmitted = 0.6 MiB
+ecd-psgd-qsgd-8: t = 6000, epoch = 0, iter = 6000, loss = 0.6930032507458126, accuracy = 0.50747, elapsed = 163.91101050376892 s, transmitted = 0.72 MiB
+ecd-psgd-qsgd-8: t = 7000, epoch = 0, iter = 7000, loss = 0.6929985549259732, accuracy = 0.5069225, elapsed = 191.08913326263428 s, transmitted = 0.84 MiB
+ecd-psgd-qsgd-8: t = 8000, epoch = 0, iter = 8000, loss = 0.693024739541743, accuracy = 0.5057475, elapsed = 218.1859302520752 s, transmitted = 0.96 MiB
+ecd-psgd-qsgd-8: t = 9000, epoch = 0, iter = 9000, loss = 0.6930637208915998, accuracy = 0.50472, elapsed = 245.12175965309143 s, transmitted = 1.08 MiB
+epoch 0: loss 0.6931302221825989 score 0.5028475
+ecd-psgd-qsgd-8: t = 10000, epoch = 1, iter = 0, loss = 0.6931302221825989, accuracy = 0.5028475, elapsed = 272.7885711193085 s, transmitted = 1.2 MiB
+ecd-psgd-qsgd-8: t = 11000, epoch = 1, iter = 1000, loss = 0.6932012740687935, accuracy = 0.5014425, elapsed = 299.47894382476807 s, transmitted = 1.32 MiB
+ecd-psgd-qsgd-8: t = 12000, epoch = 1, iter = 2000, loss = 0.693279709556585, accuracy = 0.5002825, elapsed = 326.09009051322937 s, transmitted = 1.44 MiB
+ecd-psgd-qsgd-8: t = 13000, epoch = 1, iter = 3000, loss = 0.6933571171167862, accuracy = 0.4993525, elapsed = 352.5850396156311 s, transmitted = 1.56 MiB
+ecd-psgd-qsgd-8: t = 14000, epoch = 1, iter = 4000, loss = 0.6934221552277908, accuracy = 0.4986325, elapsed = 378.93915581703186 s, transmitted = 1.68 MiB
+ecd-psgd-qsgd-8: t = 15000, epoch = 1, iter = 5000, loss = 0.6934997171676964, accuracy = 0.4980825, elapsed = 405.19355487823486 s, transmitted = 1.8 MiB
+ecd-psgd-qsgd-8: t = 16000, epoch = 1, iter = 6000, loss = 0.6935624458070718, accuracy = 0.4977175, elapsed = 431.36285305023193 s, transmitted = 1.92 MiB
+ecd-psgd-qsgd-8: t = 17000, epoch = 1, iter = 7000, loss = 0.6936666555921934, accuracy = 0.49712, elapsed = 457.40487456321716 s, transmitted = 2.04 MiB
+ecd-psgd-qsgd-8: t = 18000, epoch = 1, iter = 8000, loss = 0.6938068820305788, accuracy = 0.495825, elapsed = 483.3416905403137 s, transmitted = 2.16 MiB
+ecd-psgd-qsgd-8: t = 19000, epoch = 1, iter = 9000, loss = 0.6939139281073476, accuracy = 0.4947675, elapsed = 509.24355030059814 s, transmitted = 2.28 MiB
+epoch 1: loss 0.6940024031985366 score 0.4942075
+ecd-psgd-qsgd-8: t = 20000, epoch = 2, iter = 0, loss = 0.6940024031985366, accuracy = 0.4942075, elapsed = 535.9459736347198 s, transmitted = 2.4 MiB
+ecd-psgd-qsgd-8: t = 21000, epoch = 2, iter = 1000, loss = 0.6940732401107893, accuracy = 0.49378, elapsed = 561.8252758979797 s, transmitted = 2.52 MiB
+ecd-psgd-qsgd-8: t = 22000, epoch = 2, iter = 2000, loss = 0.694149497027318, accuracy = 0.4934025, elapsed = 587.3495178222656 s, transmitted = 2.64 MiB
+ecd-psgd-qsgd-8: t = 23000, epoch = 2, iter = 3000, loss = 0.6942292247414649, accuracy = 0.4929275, elapsed = 612.7716131210327 s, transmitted = 2.76 MiB
+ecd-psgd-qsgd-8: t = 24000, epoch = 2, iter = 4000, loss = 0.6943206676199991, accuracy = 0.4928175, elapsed = 638.1074430942535 s, transmitted = 2.88 MiB
+ecd-psgd-qsgd-8: t = 25000, epoch = 2, iter = 5000, loss = 0.6943815895176729, accuracy = 0.4925525, elapsed = 663.3444571495056 s, transmitted = 3.0 MiB
+ecd-psgd-qsgd-8: t = 26000, epoch = 2, iter = 6000, loss = 0.6944182345317546, accuracy = 0.4927, elapsed = 688.5034894943237 s, transmitted = 3.12 MiB
+ecd-psgd-qsgd-8: t = 27000, epoch = 2, iter = 7000, loss = 0.6944455558131556, accuracy = 0.4929475, elapsed = 713.5077219009399 s, transmitted = 3.24 MiB
+ecd-psgd-qsgd-8: t = 28000, epoch = 2, iter = 8000, loss = 0.6944611892858096, accuracy = 0.49335, elapsed = 738.4653210639954 s, transmitted = 3.36 MiB
+ecd-psgd-qsgd-8: t = 29000, epoch = 2, iter = 9000, loss = 0.6944850027172594, accuracy = 0.49359, elapsed = 763.4268345832825 s, transmitted = 3.48 MiB
+epoch 2: loss 0.6945003654856418 score 0.4940925
+ecd-psgd-qsgd-8: t = 30000, epoch = 3, iter = 0, loss = 0.6945003654856418, accuracy = 0.4940925, elapsed = 789.1459448337555 s, transmitted = 3.6 MiB
+ecd-psgd-qsgd-8: t = 31000, epoch = 3, iter = 1000, loss = 0.6945264294721188, accuracy = 0.4944675, elapsed = 813.9752235412598 s, transmitted = 3.72 MiB
+ecd-psgd-qsgd-8: t = 32000, epoch = 3, iter = 2000, loss = 0.6945859283443452, accuracy = 0.4945075, elapsed = 838.7100703716278 s, transmitted = 3.84 MiB
+ecd-psgd-qsgd-8: t = 33000, epoch = 3, iter = 3000, loss = 0.6946716109059057, accuracy = 0.49453, elapsed = 863.3242089748383 s, transmitted = 3.96 MiB
+ecd-psgd-qsgd-8: t = 34000, epoch = 3, iter = 4000, loss = 0.6948024207503477, accuracy = 0.493665, elapsed = 888.120213508606 s, transmitted = 4.08 MiB
+ecd-psgd-qsgd-8: t = 35000, epoch = 3, iter = 5000, loss = 0.6949464695501731, accuracy = 0.4932225, elapsed = 912.8242678642273 s, transmitted = 4.2 MiB
+ecd-psgd-qsgd-8: t = 36000, epoch = 3, iter = 6000, loss = 0.695117623266989, accuracy = 0.4924825, elapsed = 937.6000232696533 s, transmitted = 4.32 MiB
+ecd-psgd-qsgd-8: t = 37000, epoch = 3, iter = 7000, loss = 0.6952777652251837, accuracy = 0.491595, elapsed = 962.356237411499 s, transmitted = 4.44 MiB
+ecd-psgd-qsgd-8: t = 38000, epoch = 3, iter = 8000, loss = 0.6954073709197222, accuracy = 0.491355, elapsed = 987.1018345355988 s, transmitted = 4.56 MiB
+ecd-psgd-qsgd-8: t = 39000, epoch = 3, iter = 9000, loss = 0.6955315888276572, accuracy = 0.4910475, elapsed = 1011.8658075332642 s, transmitted = 4.68 MiB
+epoch 3: loss 0.695646645915065 score 0.4907625
+ecd-psgd-qsgd-8: t = 40000, epoch = 4, iter = 0, loss = 0.695646645915065, accuracy = 0.4907625, elapsed = 1037.4471535682678 s, transmitted = 4.8 MiB
+ecd-psgd-qsgd-8: t = 41000, epoch = 4, iter = 1000, loss = 0.6957683237051251, accuracy = 0.49027, elapsed = 1062.2015738487244 s, transmitted = 4.92 MiB
+ecd-psgd-qsgd-8: t = 42000, epoch = 4, iter = 2000, loss = 0.6958700720987561, accuracy = 0.4899475, elapsed = 1086.9681594371796 s, transmitted = 5.04 MiB
+ecd-psgd-qsgd-8: t = 43000, epoch = 4, iter = 3000, loss = 0.695947626711007, accuracy = 0.4901, elapsed = 1111.7638473510742 s, transmitted = 5.16 MiB
+ecd-psgd-qsgd-8: t = 44000, epoch = 4, iter = 4000, loss = 0.6960279502006438, accuracy = 0.490035, elapsed = 1136.5130355358124 s, transmitted = 5.28 MiB
+ecd-psgd-qsgd-8: t = 45000, epoch = 4, iter = 5000, loss = 0.6961181221734379, accuracy = 0.49001, elapsed = 1161.3408443927765 s, transmitted = 5.4 MiB
+ecd-psgd-qsgd-8: t = 46000, epoch = 4, iter = 6000, loss = 0.6961930566918674, accuracy = 0.4900825, elapsed = 1186.2275729179382 s, transmitted = 5.52 MiB
+ecd-psgd-qsgd-8: t = 47000, epoch = 4, iter = 7000, loss = 0.6962780238820753, accuracy = 0.4901825, elapsed = 1211.0874564647675 s, transmitted = 5.64 MiB
+ecd-psgd-qsgd-8: t = 48000, epoch = 4, iter = 8000, loss = 0.6963909623104875, accuracy = 0.4903725, elapsed = 1236.0139167308807 s, transmitted = 5.76 MiB
+ecd-psgd-qsgd-8: t = 49000, epoch = 4, iter = 9000, loss = 0.696511524544203, accuracy = 0.490415, elapsed = 1260.888207435608 s, transmitted = 5.88 MiB
+epoch 4: loss 0.6966687900511794 score 0.4904175
+ecd-psgd-qsgd-8: t = 50000, epoch = 5, iter = 0, loss = 0.6966687900511794, accuracy = 0.4904175, elapsed = 1286.5828070640564 s, transmitted = 6.0 MiB
+ecd-psgd-qsgd-8: t = 51000, epoch = 5, iter = 1000, loss = 0.6968362706695445, accuracy = 0.4903175, elapsed = 1311.3737757205963 s, transmitted = 6.12 MiB
+ecd-psgd-qsgd-8: t = 52000, epoch = 5, iter = 2000, loss = 0.6969853978506932, accuracy = 0.490745, elapsed = 1336.1646571159363 s, transmitted = 6.24 MiB
+ecd-psgd-qsgd-8: t = 53000, epoch = 5, iter = 3000, loss = 0.6971333470691238, accuracy = 0.4907175, elapsed = 1360.9243063926697 s, transmitted = 6.36 MiB
+ecd-psgd-qsgd-8: t = 54000, epoch = 5, iter = 4000, loss = 0.697269644651, accuracy = 0.4906725, elapsed = 1385.671228647232 s, transmitted = 6.48 MiB
+ecd-psgd-qsgd-8: t = 55000, epoch = 5, iter = 5000, loss = 0.6973864639476802, accuracy = 0.4905575, elapsed = 1410.294763326645 s, transmitted = 6.6 MiB
+ecd-psgd-qsgd-8: t = 56000, epoch = 5, iter = 6000, loss = 0.6974713552338695, accuracy = 0.49066, elapsed = 1434.8932361602783 s, transmitted = 6.72 MiB
+ecd-psgd-qsgd-8: t = 57000, epoch = 5, iter = 7000, loss = 0.6975515104553344, accuracy = 0.490725, elapsed = 1459.512630224228 s, transmitted = 6.84 MiB
+ecd-psgd-qsgd-8: t = 58000, epoch = 5, iter = 8000, loss = 0.6975962242591388, accuracy = 0.4913025, elapsed = 1484.1631650924683 s, transmitted = 6.96 MiB
+ecd-psgd-qsgd-8: t = 59000, epoch = 5, iter = 9000, loss = 0.6976174282766628, accuracy = 0.4915575, elapsed = 1508.7354555130005 s, transmitted = 7.08 MiB
+epoch 5: loss 0.6976333750760788 score 0.492045
+ecd-psgd-qsgd-8: t = 60000, epoch = 6, iter = 0, loss = 0.6976333750760788, accuracy = 0.492045, elapsed = 1533.7839975357056 s, transmitted = 7.2 MiB
+ecd-psgd-qsgd-8: t = 61000, epoch = 6, iter = 1000, loss = 0.6976531409634924, accuracy = 0.492735, elapsed = 1557.709038734436 s, transmitted = 7.32 MiB
+ecd-psgd-qsgd-8: t = 62000, epoch = 6, iter = 2000, loss = 0.6976330209993888, accuracy = 0.493145, elapsed = 1581.2154154777527 s, transmitted = 7.44 MiB
+ecd-psgd-qsgd-8: t = 63000, epoch = 6, iter = 3000, loss = 0.6976186631777338, accuracy = 0.4936225, elapsed = 1604.5026483535767 s, transmitted = 7.56 MiB
+ecd-psgd-qsgd-8: t = 64000, epoch = 6, iter = 4000, loss = 0.6975961490663228, accuracy = 0.494135, elapsed = 1627.3117270469666 s, transmitted = 7.68 MiB
+ecd-psgd-qsgd-8: t = 65000, epoch = 6, iter = 5000, loss = 0.6976066819124456, accuracy = 0.494455, elapsed = 1649.9161896705627 s, transmitted = 7.8 MiB
+ecd-psgd-qsgd-8: t = 66000, epoch = 6, iter = 6000, loss = 0.6976513465225131, accuracy = 0.49445, elapsed = 1672.2182250022888 s, transmitted = 7.92 MiB
+ecd-psgd-qsgd-8: t = 67000, epoch = 6, iter = 7000, loss = 0.6977113780548639, accuracy = 0.4945575, elapsed = 1694.340529680252 s, transmitted = 8.04 MiB
+ecd-psgd-qsgd-8: t = 68000, epoch = 6, iter = 8000, loss = 0.6977845112006572, accuracy = 0.4947275, elapsed = 1716.3263461589813 s, transmitted = 8.16 MiB
+ecd-psgd-qsgd-8: t = 69000, epoch = 6, iter = 9000, loss = 0.6978261073380153, accuracy = 0.49502, elapsed = 1738.194870710373 s, transmitted = 8.28 MiB
+epoch 6: loss 0.6978837658896114 score 0.495415
+ecd-psgd-qsgd-8: t = 70000, epoch = 7, iter = 0, loss = 0.6978837658896114, accuracy = 0.495415, elapsed = 1760.7197694778442 s, transmitted = 8.4 MiB
+ecd-psgd-qsgd-8: t = 71000, epoch = 7, iter = 1000, loss = 0.6979761484711483, accuracy = 0.495445, elapsed = 1782.4855456352234 s, transmitted = 8.52 MiB
+ecd-psgd-qsgd-8: t = 72000, epoch = 7, iter = 2000, loss = 0.698097730510194, accuracy = 0.49547, elapsed = 1804.091462612152 s, transmitted = 8.64 MiB
+ecd-psgd-qsgd-8: t = 73000, epoch = 7, iter = 3000, loss = 0.6982179667836456, accuracy = 0.4955925, elapsed = 1825.7364327907562 s, transmitted = 8.76 MiB
+ecd-psgd-qsgd-8: t = 74000, epoch = 7, iter = 4000, loss = 0.698348991227325, accuracy = 0.49552, elapsed = 1847.4012994766235 s, transmitted = 8.88 MiB
+ecd-psgd-qsgd-8: t = 75000, epoch = 7, iter = 5000, loss = 0.6984870385283305, accuracy = 0.4953, elapsed = 1869.0869104862213 s, transmitted = 9.0 MiB
+ecd-psgd-qsgd-8: t = 76000, epoch = 7, iter = 6000, loss = 0.6985994588199569, accuracy = 0.4953675, elapsed = 1890.8314170837402 s, transmitted = 9.12 MiB
+ecd-psgd-qsgd-8: t = 77000, epoch = 7, iter = 7000, loss = 0.698714602331692, accuracy = 0.495225, elapsed = 1912.3748548030853 s, transmitted = 9.24 MiB
+ecd-psgd-qsgd-8: t = 78000, epoch = 7, iter = 8000, loss = 0.6987946856544129, accuracy = 0.49516, elapsed = 1933.6001472473145 s, transmitted = 9.36 MiB
+ecd-psgd-qsgd-8: t = 79000, epoch = 7, iter = 9000, loss = 0.6988457248824276, accuracy = 0.4953125, elapsed = 1954.7152144908905 s, transmitted = 9.48 MiB
+epoch 7: loss 0.6989074957920826 score 0.4956
+ecd-psgd-qsgd-8: t = 80000, epoch = 8, iter = 0, loss = 0.6989074957920826, accuracy = 0.4956, elapsed = 1976.6634123325348 s, transmitted = 9.6 MiB
+ecd-psgd-qsgd-8: t = 81000, epoch = 8, iter = 1000, loss = 0.6989900966598876, accuracy = 0.4958075, elapsed = 1997.8709404468536 s, transmitted = 9.72 MiB
+ecd-psgd-qsgd-8: t = 82000, epoch = 8, iter = 2000, loss = 0.6990629683556472, accuracy = 0.4958425, elapsed = 2019.0944271087646 s, transmitted = 9.84 MiB
+ecd-psgd-qsgd-8: t = 83000, epoch = 8, iter = 3000, loss = 0.6991353476783349, accuracy = 0.4960475, elapsed = 2040.3436346054077 s, transmitted = 9.96 MiB
+ecd-psgd-qsgd-8: t = 84000, epoch = 8, iter = 4000, loss = 0.6991973912308609, accuracy = 0.49617, elapsed = 2061.6066308021545 s, transmitted = 10.08 MiB
+ecd-psgd-qsgd-8: t = 85000, epoch = 8, iter = 5000, loss = 0.6992535879868048, accuracy = 0.49667, elapsed = 2082.861468076706 s, transmitted = 10.2 MiB
+ecd-psgd-qsgd-8: t = 86000, epoch = 8, iter = 6000, loss = 0.6993328774613238, accuracy = 0.4968425, elapsed = 2104.1605043411255 s, transmitted = 10.32 MiB
+ecd-psgd-qsgd-8: t = 87000, epoch = 8, iter = 7000, loss = 0.6994294018822019, accuracy = 0.4968175, elapsed = 2125.411924123764 s, transmitted = 10.44 MiB
+ecd-psgd-qsgd-8: t = 88000, epoch = 8, iter = 8000, loss = 0.6995566897973166, accuracy = 0.496985, elapsed = 2146.496610879898 s, transmitted = 10.56 MiB
+ecd-psgd-qsgd-8: t = 89000, epoch = 8, iter = 9000, loss = 0.699685416579627, accuracy = 0.4969075, elapsed = 2167.509619474411 s, transmitted = 10.68 MiB
+epoch 8: loss 0.6998062166048025 score 0.4971825
+ecd-psgd-qsgd-8: t = 90000, epoch = 9, iter = 0, loss = 0.6998062166048025, accuracy = 0.4971825, elapsed = 2189.3594319820404 s, transmitted = 10.8 MiB
+ecd-psgd-qsgd-8: t = 91000, epoch = 9, iter = 1000, loss = 0.699927011090403, accuracy = 0.49744, elapsed = 2210.4442942142487 s, transmitted = 10.92 MiB
+ecd-psgd-qsgd-8: t = 92000, epoch = 9, iter = 2000, loss = 0.7000383744808023, accuracy = 0.4979475, elapsed = 2231.546003341675 s, transmitted = 11.04 MiB
+ecd-psgd-qsgd-8: t = 93000, epoch = 9, iter = 3000, loss = 0.7001362499522584, accuracy = 0.4983375, elapsed = 2252.667005777359 s, transmitted = 11.16 MiB
+ecd-psgd-qsgd-8: t = 94000, epoch = 9, iter = 4000, loss = 0.700228966543265, accuracy = 0.49856, elapsed = 2273.7803943157196 s, transmitted = 11.28 MiB
+ecd-psgd-qsgd-8: t = 95000, epoch = 9, iter = 5000, loss = 0.7003147655558244, accuracy = 0.4987175, elapsed = 2294.866163253784 s, transmitted = 11.4 MiB
+ecd-psgd-qsgd-8: t = 96000, epoch = 9, iter = 6000, loss = 0.7003859849095695, accuracy = 0.49909, elapsed = 2315.821583509445 s, transmitted = 11.52 MiB
+ecd-psgd-qsgd-8: t = 97000, epoch = 9, iter = 7000, loss = 0.7004554321544956, accuracy = 0.499265, elapsed = 2336.6730823516846 s, transmitted = 11.64 MiB
+ecd-psgd-qsgd-8: t = 98000, epoch = 9, iter = 8000, loss = 0.700521902799449, accuracy = 0.499535, elapsed = 2357.4366540908813 s, transmitted = 11.76 MiB
+ecd-psgd-qsgd-8: t = 99000, epoch = 9, iter = 9000, loss = 0.7006113942438426, accuracy = 0.499785, elapsed = 2378.097144126892 s, transmitted = 11.88 MiB
+epoch 9: loss 0.7007000388360982 score 0.500265
+Training took: 2398.6849274635315s
+ecd-psgd-qsgd-8 - score: 0.500265
+(array([0.69324166, 0.69313022, 0.6940024 , 0.69450037, 0.69564665,
+       0.69666879, 0.69763338, 0.69788377, 0.6989075 , 0.69980622,
+       0.70070004]), array([0.69324166, 0.69327161, 0.69320843, 0.69314088, 0.69307851,
+       0.69304146, 0.69300325, 0.69299855, 0.69302474, 0.69306372,
+       0.69313022, 0.69320127, 0.69327971, 0.69335712, 0.69342216,
+       0.69349972, 0.69356245, 0.69366666, 0.69380688, 0.69391393,
+       0.6940024 , 0.69407324, 0.6941495 , 0.69422922, 0.69432067,
+       0.69438159, 0.69441823, 0.69444556, 0.69446119, 0.694485  ,
+       0.69450037, 0.69452643, 0.69458593, 0.69467161, 0.69480242,
+       0.69494647, 0.69511762, 0.69527777, 0.69540737, 0.69553159,
+       0.69564665, 0.69576832, 0.69587007, 0.69594763, 0.69602795,
+       0.69611812, 0.69619306, 0.69627802, 0.69639096, 0.69651152,
+       0.69666879, 0.69683627, 0.6969854 , 0.69713335, 0.69726964,
+       0.69738646, 0.69747136, 0.69755151, 0.69759622, 0.69761743,
+       0.69763338, 0.69765314, 0.69763302, 0.69761866, 0.69759615,
+       0.69760668, 0.69765135, 0.69771138, 0.69778451, 0.69782611,
+       0.69788377, 0.69797615, 0.69809773, 0.69821797, 0.69834899,
+       0.69848704, 0.69859946, 0.6987146 , 0.69879469, 0.69884572,
+       0.6989075 , 0.6989901 , 0.69906297, 0.69913535, 0.69919739,
+       0.69925359, 0.69933288, 0.6994294 , 0.69955669, 0.69968542,
+       0.69980622, 0.69992701, 0.70003837, 0.70013625, 0.70022897,
+       0.70031477, 0.70038598, 0.70045543, 0.7005219 , 0.70061139,
+       0.        ]))
+results saved in "dump/epsilon-final-ecd-qsgd-4bit-sorted-40/"

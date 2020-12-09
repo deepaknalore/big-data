@@ -1,0 +1,142 @@
+Namespace(experiment='final')
+load dataset
+start experiment
+length of indices: 40
+length of last machine indices: 10000
+Number of different labels: 2
+EAMSGD-async: t = 0, epoch = 0, iter = 0, loss = 0.6932313250455766, accuracy = 0.4934075, elapsed = 0.8105335235595703 s, transmitted = 0.0 MiB
+EAMSGD-async: t = 1000, epoch = 0, iter = 1000, loss = 0.6170537401993433, accuracy = 0.7273625, elapsed = 7.720638751983643 s, transmitted = 0.8064 MiB
+EAMSGD-async: t = 2000, epoch = 0, iter = 2000, loss = 0.5773826692611238, accuracy = 0.7802575, elapsed = 14.98267650604248 s, transmitted = 1.6 MiB
+EAMSGD-async: t = 3000, epoch = 0, iter = 3000, loss = 0.5474635101881213, accuracy = 0.826175, elapsed = 21.98672318458557 s, transmitted = 2.4064 MiB
+EAMSGD-async: t = 4000, epoch = 0, iter = 4000, loss = 0.5227198165173578, accuracy = 0.8331525, elapsed = 29.08195471763611 s, transmitted = 3.2 MiB
+EAMSGD-async: t = 5000, epoch = 0, iter = 5000, loss = 0.5026434213165694, accuracy = 0.843665, elapsed = 36.01719093322754 s, transmitted = 4.0064 MiB
+EAMSGD-async: t = 6000, epoch = 0, iter = 6000, loss = 0.48534058597194346, accuracy = 0.8503725, elapsed = 42.95504546165466 s, transmitted = 4.8 MiB
+EAMSGD-async: t = 7000, epoch = 0, iter = 7000, loss = 0.470485297030989, accuracy = 0.8547925, elapsed = 49.89526891708374 s, transmitted = 5.6064 MiB
+EAMSGD-async: t = 8000, epoch = 0, iter = 8000, loss = 0.4572768634265027, accuracy = 0.860895, elapsed = 56.8342342376709 s, transmitted = 6.4 MiB
+EAMSGD-async: t = 9000, epoch = 0, iter = 9000, loss = 0.44618428981157743, accuracy = 0.862595, elapsed = 63.781813859939575 s, transmitted = 7.2064 MiB
+epoch 0: loss 0.436066532407745 score 0.8664775
+EAMSGD-async: t = 10000, epoch = 1, iter = 0, loss = 0.436066532407745, accuracy = 0.8664775, elapsed = 71.54138135910034 s, transmitted = 8.0 MiB
+EAMSGD-async: t = 11000, epoch = 1, iter = 1000, loss = 0.4274858849678691, accuracy = 0.8673275, elapsed = 78.51841568946838 s, transmitted = 8.8064 MiB
+EAMSGD-async: t = 12000, epoch = 1, iter = 2000, loss = 0.41966486432401356, accuracy = 0.868845, elapsed = 85.4558756351471 s, transmitted = 9.6 MiB
+EAMSGD-async: t = 13000, epoch = 1, iter = 3000, loss = 0.4124406086499749, accuracy = 0.8710775, elapsed = 92.3847303390503 s, transmitted = 10.4064 MiB
+EAMSGD-async: t = 14000, epoch = 1, iter = 4000, loss = 0.4060010059072888, accuracy = 0.872275, elapsed = 99.42876362800598 s, transmitted = 11.2 MiB
+EAMSGD-async: t = 15000, epoch = 1, iter = 5000, loss = 0.40015282225879756, accuracy = 0.872935, elapsed = 106.51066660881042 s, transmitted = 12.0064 MiB
+EAMSGD-async: t = 16000, epoch = 1, iter = 6000, loss = 0.3947513660858631, accuracy = 0.8732625, elapsed = 113.53207421302795 s, transmitted = 12.8 MiB
+EAMSGD-async: t = 17000, epoch = 1, iter = 7000, loss = 0.3900227425422601, accuracy = 0.8735075, elapsed = 120.53970217704773 s, transmitted = 13.6064 MiB
+EAMSGD-async: t = 18000, epoch = 1, iter = 8000, loss = 0.38514399690266493, accuracy = 0.875265, elapsed = 127.52500677108765 s, transmitted = 14.4 MiB
+EAMSGD-async: t = 19000, epoch = 1, iter = 9000, loss = 0.3813230800344618, accuracy = 0.87482, elapsed = 134.5715217590332 s, transmitted = 15.2064 MiB
+epoch 1: loss 0.37716436745776866 score 0.8767775
+EAMSGD-async: t = 20000, epoch = 2, iter = 0, loss = 0.37716436745776866, accuracy = 0.8767775, elapsed = 142.5019187927246 s, transmitted = 16.0 MiB
+EAMSGD-async: t = 21000, epoch = 2, iter = 1000, loss = 0.3737284956207936, accuracy = 0.876965, elapsed = 149.2989604473114 s, transmitted = 16.8064 MiB
+EAMSGD-async: t = 22000, epoch = 2, iter = 2000, loss = 0.37017555785706785, accuracy = 0.87799, elapsed = 156.07754802703857 s, transmitted = 17.6 MiB
+EAMSGD-async: t = 23000, epoch = 2, iter = 3000, loss = 0.3670767882045249, accuracy = 0.878605, elapsed = 163.1377079486847 s, transmitted = 18.4064 MiB
+EAMSGD-async: t = 24000, epoch = 2, iter = 4000, loss = 0.36406157197790656, accuracy = 0.87916, elapsed = 170.164484500885 s, transmitted = 19.2 MiB
+EAMSGD-async: t = 25000, epoch = 2, iter = 5000, loss = 0.362679793922631, accuracy = 0.875705, elapsed = 177.21070408821106 s, transmitted = 20.0064 MiB
+EAMSGD-async: t = 26000, epoch = 2, iter = 6000, loss = 0.35916039706150493, accuracy = 0.8789625, elapsed = 184.31735563278198 s, transmitted = 20.8 MiB
+EAMSGD-async: t = 27000, epoch = 2, iter = 7000, loss = 0.35634329077317817, accuracy = 0.88043, elapsed = 191.38349032402039 s, transmitted = 21.6064 MiB
+EAMSGD-async: t = 28000, epoch = 2, iter = 8000, loss = 0.35421763090609654, accuracy = 0.8801975, elapsed = 198.43717622756958 s, transmitted = 22.4 MiB
+EAMSGD-async: t = 29000, epoch = 2, iter = 9000, loss = 0.35186114170748733, accuracy = 0.8812875, elapsed = 205.47115349769592 s, transmitted = 23.2064 MiB
+epoch 2: loss 0.3496638197572687 score 0.8815425
+EAMSGD-async: t = 30000, epoch = 3, iter = 0, loss = 0.3496638197572687, accuracy = 0.8815425, elapsed = 213.1111159324646 s, transmitted = 24.0 MiB
+EAMSGD-async: t = 31000, epoch = 3, iter = 1000, loss = 0.3477767712818315, accuracy = 0.8820625, elapsed = 219.93061542510986 s, transmitted = 24.8064 MiB
+EAMSGD-async: t = 32000, epoch = 3, iter = 2000, loss = 0.34594893304488117, accuracy = 0.88242, elapsed = 226.7228946685791 s, transmitted = 25.6 MiB
+EAMSGD-async: t = 33000, epoch = 3, iter = 3000, loss = 0.34417183023256914, accuracy = 0.8827625, elapsed = 233.51667976379395 s, transmitted = 26.4064 MiB
+EAMSGD-async: t = 34000, epoch = 3, iter = 4000, loss = 0.34246658141702624, accuracy = 0.8829025, elapsed = 240.30574440956116 s, transmitted = 27.2 MiB
+EAMSGD-async: t = 35000, epoch = 3, iter = 5000, loss = 0.34091141451524015, accuracy = 0.8829875, elapsed = 247.1114308834076 s, transmitted = 28.0064 MiB
+EAMSGD-async: t = 36000, epoch = 3, iter = 6000, loss = 0.3393245326246327, accuracy = 0.8835025, elapsed = 253.89552783966064 s, transmitted = 28.8 MiB
+EAMSGD-async: t = 37000, epoch = 3, iter = 7000, loss = 0.3378475883042098, accuracy = 0.88373, elapsed = 260.6985740661621 s, transmitted = 29.6064 MiB
+EAMSGD-async: t = 38000, epoch = 3, iter = 8000, loss = 0.3365169706758044, accuracy = 0.88409, elapsed = 267.49558997154236 s, transmitted = 30.4 MiB
+EAMSGD-async: t = 39000, epoch = 3, iter = 9000, loss = 0.33509903141695696, accuracy = 0.884045, elapsed = 274.3389492034912 s, transmitted = 31.2064 MiB
+epoch 3: loss 0.33390809038849006 score 0.8842275
+EAMSGD-async: t = 40000, epoch = 4, iter = 0, loss = 0.33390809038849006, accuracy = 0.8842275, elapsed = 282.04321694374084 s, transmitted = 32.0 MiB
+EAMSGD-async: t = 41000, epoch = 4, iter = 1000, loss = 0.33293335462980805, accuracy = 0.8834925, elapsed = 288.8498294353485 s, transmitted = 32.8064 MiB
+EAMSGD-async: t = 42000, epoch = 4, iter = 2000, loss = 0.33143128793260723, accuracy = 0.8846525, elapsed = 295.6495645046234 s, transmitted = 33.6 MiB
+EAMSGD-async: t = 43000, epoch = 4, iter = 3000, loss = 0.330214033624457, accuracy = 0.8852425, elapsed = 302.49650406837463 s, transmitted = 34.4064 MiB
+EAMSGD-async: t = 44000, epoch = 4, iter = 4000, loss = 0.32909994765765627, accuracy = 0.8852025, elapsed = 309.3045434951782 s, transmitted = 35.2 MiB
+EAMSGD-async: t = 45000, epoch = 4, iter = 5000, loss = 0.32802883176820347, accuracy = 0.8855175, elapsed = 316.1285367012024 s, transmitted = 36.0064 MiB
+EAMSGD-async: t = 46000, epoch = 4, iter = 6000, loss = 0.3269955067946973, accuracy = 0.8857525, elapsed = 322.9344277381897 s, transmitted = 36.8 MiB
+EAMSGD-async: t = 47000, epoch = 4, iter = 7000, loss = 0.32616757336890406, accuracy = 0.885685, elapsed = 329.7487862110138 s, transmitted = 37.6064 MiB
+EAMSGD-async: t = 48000, epoch = 4, iter = 8000, loss = 0.325056339117685, accuracy = 0.8861225, elapsed = 336.571652173996 s, transmitted = 38.4 MiB
+EAMSGD-async: t = 49000, epoch = 4, iter = 9000, loss = 0.3241814106675055, accuracy = 0.8863225, elapsed = 343.4072263240814 s, transmitted = 39.2064 MiB
+epoch 4: loss 0.32345442914091704 score 0.88563
+EAMSGD-async: t = 50000, epoch = 5, iter = 0, loss = 0.32345442914091704, accuracy = 0.88563, elapsed = 351.0549018383026 s, transmitted = 40.0 MiB
+EAMSGD-async: t = 51000, epoch = 5, iter = 1000, loss = 0.32238294459533606, accuracy = 0.88669, elapsed = 357.8629410266876 s, transmitted = 40.8064 MiB
+EAMSGD-async: t = 52000, epoch = 5, iter = 2000, loss = 0.3223825045882931, accuracy = 0.8853125, elapsed = 364.6531913280487 s, transmitted = 41.6 MiB
+EAMSGD-async: t = 53000, epoch = 5, iter = 3000, loss = 0.3207084344985015, accuracy = 0.88688, elapsed = 371.4497308731079 s, transmitted = 42.4064 MiB
+EAMSGD-async: t = 54000, epoch = 5, iter = 4000, loss = 0.3199058464556948, accuracy = 0.88705, elapsed = 378.2474584579468 s, transmitted = 43.2 MiB
+EAMSGD-async: t = 55000, epoch = 5, iter = 5000, loss = 0.3192227125073819, accuracy = 0.8869, elapsed = 385.0999836921692 s, transmitted = 44.0064 MiB
+EAMSGD-async: t = 56000, epoch = 5, iter = 6000, loss = 0.3185548986726565, accuracy = 0.887145, elapsed = 391.92610120773315 s, transmitted = 44.8 MiB
+EAMSGD-async: t = 57000, epoch = 5, iter = 7000, loss = 0.3177950963603718, accuracy = 0.8874525, elapsed = 398.7511348724365 s, transmitted = 45.6064 MiB
+EAMSGD-async: t = 58000, epoch = 5, iter = 8000, loss = 0.3171126336933488, accuracy = 0.8876225, elapsed = 405.5634768009186 s, transmitted = 46.4 MiB
+EAMSGD-async: t = 59000, epoch = 5, iter = 9000, loss = 0.3164986499049679, accuracy = 0.8874025, elapsed = 412.38755464553833 s, transmitted = 47.2064 MiB
+epoch 5: loss 0.3158944690263473 score 0.887485
+EAMSGD-async: t = 60000, epoch = 6, iter = 0, loss = 0.3158944690263473, accuracy = 0.887485, elapsed = 420.0452313423157 s, transmitted = 48.0 MiB
+EAMSGD-async: t = 61000, epoch = 6, iter = 1000, loss = 0.3152589636396765, accuracy = 0.8877525, elapsed = 426.870069026947 s, transmitted = 48.8064 MiB
+EAMSGD-async: t = 62000, epoch = 6, iter = 2000, loss = 0.3146350350026417, accuracy = 0.8877425, elapsed = 433.69297552108765 s, transmitted = 49.6 MiB
+EAMSGD-async: t = 63000, epoch = 6, iter = 3000, loss = 0.3139527925481731, accuracy = 0.8881675, elapsed = 440.52063846588135 s, transmitted = 50.4064 MiB
+EAMSGD-async: t = 64000, epoch = 6, iter = 4000, loss = 0.31349338590103293, accuracy = 0.88827, elapsed = 447.3479657173157 s, transmitted = 51.2 MiB
+EAMSGD-async: t = 65000, epoch = 6, iter = 5000, loss = 0.31282539836083095, accuracy = 0.888375, elapsed = 454.16680932044983 s, transmitted = 52.0064 MiB
+EAMSGD-async: t = 66000, epoch = 6, iter = 6000, loss = 0.31337490614932056, accuracy = 0.886455, elapsed = 460.978138923645 s, transmitted = 52.8 MiB
+EAMSGD-async: t = 67000, epoch = 6, iter = 7000, loss = 0.31236901020805224, accuracy = 0.8874675, elapsed = 467.79844212532043 s, transmitted = 53.6064 MiB
+EAMSGD-async: t = 68000, epoch = 6, iter = 8000, loss = 0.3114641241645289, accuracy = 0.8885325, elapsed = 474.60863423347473 s, transmitted = 54.4 MiB
+EAMSGD-async: t = 69000, epoch = 6, iter = 9000, loss = 0.31098153999529327, accuracy = 0.8885025, elapsed = 481.4215443134308 s, transmitted = 55.2064 MiB
+epoch 6: loss 0.31032616950391523 score 0.889165
+EAMSGD-async: t = 70000, epoch = 7, iter = 0, loss = 0.31032616950391523, accuracy = 0.889165, elapsed = 489.07573080062866 s, transmitted = 56.0 MiB
+EAMSGD-async: t = 71000, epoch = 7, iter = 1000, loss = 0.30977045278806725, accuracy = 0.88909, elapsed = 495.9074459075928 s, transmitted = 56.8064 MiB
+EAMSGD-async: t = 72000, epoch = 7, iter = 2000, loss = 0.30966382162683076, accuracy = 0.8885025, elapsed = 502.71635699272156 s, transmitted = 57.6 MiB
+EAMSGD-async: t = 73000, epoch = 7, iter = 3000, loss = 0.30884814223633467, accuracy = 0.889295, elapsed = 509.5265326499939 s, transmitted = 58.4064 MiB
+EAMSGD-async: t = 74000, epoch = 7, iter = 4000, loss = 0.3089976838864965, accuracy = 0.8886225, elapsed = 516.3291935920715 s, transmitted = 59.2 MiB
+EAMSGD-async: t = 75000, epoch = 7, iter = 5000, loss = 0.30803028173764546, accuracy = 0.889395, elapsed = 523.1347410678864 s, transmitted = 60.0064 MiB
+EAMSGD-async: t = 76000, epoch = 7, iter = 6000, loss = 0.3076462009005675, accuracy = 0.88939, elapsed = 529.9398527145386 s, transmitted = 60.8 MiB
+EAMSGD-async: t = 77000, epoch = 7, iter = 7000, loss = 0.3071119384616069, accuracy = 0.889775, elapsed = 536.7542600631714 s, transmitted = 61.6064 MiB
+EAMSGD-async: t = 78000, epoch = 7, iter = 8000, loss = 0.3068784092530317, accuracy = 0.8895575, elapsed = 543.5583763122559 s, transmitted = 62.4 MiB
+EAMSGD-async: t = 79000, epoch = 7, iter = 9000, loss = 0.3064074877019899, accuracy = 0.88983, elapsed = 550.3679797649384 s, transmitted = 63.2064 MiB
+epoch 7: loss 0.3060666286558387 score 0.88988
+EAMSGD-async: t = 80000, epoch = 8, iter = 0, loss = 0.3060666286558387, accuracy = 0.88988, elapsed = 558.003191947937 s, transmitted = 64.0 MiB
+EAMSGD-async: t = 81000, epoch = 8, iter = 1000, loss = 0.30556436562380435, accuracy = 0.8900575, elapsed = 564.7962853908539 s, transmitted = 64.8064 MiB
+EAMSGD-async: t = 82000, epoch = 8, iter = 2000, loss = 0.3054823092199172, accuracy = 0.88972, elapsed = 571.8580124378204 s, transmitted = 65.6 MiB
+EAMSGD-async: t = 83000, epoch = 8, iter = 3000, loss = 0.3049311106491552, accuracy = 0.890185, elapsed = 578.9001488685608 s, transmitted = 66.4064 MiB
+EAMSGD-async: t = 84000, epoch = 8, iter = 4000, loss = 0.304550346616994, accuracy = 0.890155, elapsed = 585.9892647266388 s, transmitted = 67.2 MiB
+EAMSGD-async: t = 85000, epoch = 8, iter = 5000, loss = 0.3041298493784184, accuracy = 0.8903425, elapsed = 593.0482497215271 s, transmitted = 68.0064 MiB
+EAMSGD-async: t = 86000, epoch = 8, iter = 6000, loss = 0.30393467210579, accuracy = 0.8901725, elapsed = 599.8602657318115 s, transmitted = 68.8 MiB
+EAMSGD-async: t = 87000, epoch = 8, iter = 7000, loss = 0.3038548560410153, accuracy = 0.8899475, elapsed = 606.6951847076416 s, transmitted = 69.6064 MiB
+EAMSGD-async: t = 88000, epoch = 8, iter = 8000, loss = 0.30324756850513385, accuracy = 0.8905725, elapsed = 613.5003600120544 s, transmitted = 70.4 MiB
+EAMSGD-async: t = 89000, epoch = 8, iter = 9000, loss = 0.3028321659446901, accuracy = 0.8906875, elapsed = 620.3050496578217 s, transmitted = 71.2064 MiB
+epoch 8: loss 0.30270010687261645 score 0.8904525
+EAMSGD-async: t = 90000, epoch = 9, iter = 0, loss = 0.30270010687261645, accuracy = 0.8904525, elapsed = 627.9269115924835 s, transmitted = 72.0 MiB
+EAMSGD-async: t = 91000, epoch = 9, iter = 1000, loss = 0.3024397818522721, accuracy = 0.89054, elapsed = 634.7267670631409 s, transmitted = 72.8064 MiB
+EAMSGD-async: t = 92000, epoch = 9, iter = 2000, loss = 0.30204006374368697, accuracy = 0.890685, elapsed = 641.5113713741302 s, transmitted = 73.6 MiB
+EAMSGD-async: t = 93000, epoch = 9, iter = 3000, loss = 0.3019662783395966, accuracy = 0.890565, elapsed = 648.3030276298523 s, transmitted = 74.4064 MiB
+EAMSGD-async: t = 94000, epoch = 9, iter = 4000, loss = 0.30138252516951836, accuracy = 0.8910975, elapsed = 655.084653377533 s, transmitted = 75.2 MiB
+EAMSGD-async: t = 95000, epoch = 9, iter = 5000, loss = 0.30113076738658373, accuracy = 0.8911225, elapsed = 661.8953385353088 s, transmitted = 76.0064 MiB
+EAMSGD-async: t = 96000, epoch = 9, iter = 6000, loss = 0.301014641822815, accuracy = 0.890875, elapsed = 668.6763303279877 s, transmitted = 76.8 MiB
+EAMSGD-async: t = 97000, epoch = 9, iter = 7000, loss = 0.30063951320981475, accuracy = 0.891215, elapsed = 675.4582824707031 s, transmitted = 77.6064 MiB
+EAMSGD-async: t = 98000, epoch = 9, iter = 8000, loss = 0.3004764624064765, accuracy = 0.891265, elapsed = 682.2554211616516 s, transmitted = 78.4 MiB
+EAMSGD-async: t = 99000, epoch = 9, iter = 9000, loss = 0.3000619992480606, accuracy = 0.891375, elapsed = 689.040390253067 s, transmitted = 79.2064 MiB
+epoch 9: loss 0.29987239037030644 score 0.89121
+Training took: 695.8488373756409s
+EAMSGD-async - score: 0.89121
+(array([0.69323133, 0.43606653, 0.37716437, 0.34966382, 0.33390809,
+       0.32345443, 0.31589447, 0.31032617, 0.30606663, 0.30270011,
+       0.29987239]), array([0.69323133, 0.61705374, 0.57738267, 0.54746351, 0.52271982,
+       0.50264342, 0.48534059, 0.4704853 , 0.45727686, 0.44618429,
+       0.43606653, 0.42748588, 0.41966486, 0.41244061, 0.40600101,
+       0.40015282, 0.39475137, 0.39002274, 0.385144  , 0.38132308,
+       0.37716437, 0.3737285 , 0.37017556, 0.36707679, 0.36406157,
+       0.36267979, 0.3591604 , 0.35634329, 0.35421763, 0.35186114,
+       0.34966382, 0.34777677, 0.34594893, 0.34417183, 0.34246658,
+       0.34091141, 0.33932453, 0.33784759, 0.33651697, 0.33509903,
+       0.33390809, 0.33293335, 0.33143129, 0.33021403, 0.32909995,
+       0.32802883, 0.32699551, 0.32616757, 0.32505634, 0.32418141,
+       0.32345443, 0.32238294, 0.3223825 , 0.32070843, 0.31990585,
+       0.31922271, 0.3185549 , 0.3177951 , 0.31711263, 0.31649865,
+       0.31589447, 0.31525896, 0.31463504, 0.31395279, 0.31349339,
+       0.3128254 , 0.31337491, 0.31236901, 0.31146412, 0.31098154,
+       0.31032617, 0.30977045, 0.30966382, 0.30884814, 0.30899768,
+       0.30803028, 0.3076462 , 0.30711194, 0.30687841, 0.30640749,
+       0.30606663, 0.30556437, 0.30548231, 0.30493111, 0.30455035,
+       0.30412985, 0.30393467, 0.30385486, 0.30324757, 0.30283217,
+       0.30270011, 0.30243978, 0.30204006, 0.30196628, 0.30138253,
+       0.30113077, 0.30101464, 0.30063951, 0.30047646, 0.300062  ,
+       0.        ]))
+results saved in "dump/epsilon-final-decentralized-ring-sorted-40/"
