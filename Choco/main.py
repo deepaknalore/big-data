@@ -1,11 +1,12 @@
 import matplotlib.pyplot as plt
+import math
 
 # FILE = 'Choco/decen_cen.txt'
 # FILTER = ['decentralized-exact:', 'centralized:']
 
 FILE = 'Choco/algo_comp.txt'
 FILTER = ['EAMSGD-sync:', 'EAMSGD-async:', 'SGP:', 'AD-PSGD:']
-
+log = True
 
 def extract_from_file():
     data = {}
@@ -34,7 +35,10 @@ def plot_graph(data, x, y, xlabel, ylabel):
         y_list = []
         for i in info:
             x_list.append(float(i[x]))
-            y_list.append(float(i[y]))
+            if log:
+                y_list.append(math.log(float(i[y])))
+            else:
+                y_list.append(float(i[y]))
         plt.plot(x_list, y_list, label = feature[:-1])
         plt.legend()
     plt.show()
